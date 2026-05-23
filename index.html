@@ -5,12 +5,15 @@
     <title>Research Journey of Happy</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
-    /* 탭 디자인을 깔끔하게 유지하는 최소한의 스타일 */
-    body { font-family: sans-serif; line-height: 1.6; max-width: 900px; margin: 40px auto; padding: 20px; }
-    nav { display: flex; gap: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px; flex-wrap: wrap; }
-    .tab-content { display: none; }
-    .tab-content.active { display: block; }
-</style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 900px; margin: 40px auto; padding: 20px; color: #333; }
+        nav { display: flex; gap: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px; flex-wrap: wrap; }
+        nav a { cursor: pointer; text-decoration: none; color: #666; font-weight: bold; padding: 5px 10px; }
+        nav a:hover, nav a.active { color: #000; border-bottom: 2px solid #000; }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        img { max-width: 100%; height: auto; }
+        pre { background: #f4f4f4; padding: 15px; overflow-x: auto; }
+    </style>
 </head>
 <body>
     <nav>
@@ -32,16 +35,28 @@
     <div id="tab7" class="tab-content" data-md="2026-05-24/mds/diary.md"></div>
 
     <script>
-        // 마크다운 파일을 가져와서 변환하는 함수
         async function loadMarkdown(tabElement) {
             const mdPath = tabElement.getAttribute('data-md');
-            if (tabElement.innerHTML.trim() === "") { // 내용이 없을 때만 불러오기
+            if (tabElement.innerHTML.trim() === "") {
                 try {
                     const response = await fetch(mdPath);
-                    const text = await response.text();
-                    tabElement.innerHTML = marked.parse(text);
+                    let fullText = await response.text();
+                    
+                    const includeRegex = /\[include:(.*?)\]/g;
+                    let match;
+                    while ((match = includeRegex.exec(fullText)) !== null) {
+                        try {
+                            const subResponse = await fetch(match[1]);
+                            const subContent = await subResponse.text();
+                            fullText = fullText.replace(match[0], subContent);
+                        } catch (e) {
+                            console.error("파일 로드 실패:", match[1]);
+                            fullText = fullText.replace(match[0], `(파일을 불러올 수 없음)`);
+                        }
+                    }
+                    tabElement.innerHTML = marked.parse(fullText);
                 } catch (error) {
-                    tabElement.innerHTML = "<p>파일을 불러오지 못했습니다.</p>";
+                    tabElement.innerHTML = "<p>파일을 불러오지 못했습니다. 경로를 확인해주세요.</p>";
                 }
             }
         }
@@ -49,15 +64,12 @@
         function openTab(evt, tabId) {
             document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
             document.querySelectorAll('nav a').forEach(link => link.classList.remove('active'));
-            
             const selectedTab = document.getElementById(tabId);
             selectedTab.classList.add('active');
             evt.currentTarget.classList.add('active');
-            
-            loadMarkdown(selectedTab); // 탭을 클릭할 때 마크다운 로드
+            loadMarkdown(selectedTab);
         }
 
-        // 첫 페이지 로드 시 첫 번째 탭 데이터 불러오기
         loadMarkdown(document.getElementById('tab1'));
     </script>
 </body>
