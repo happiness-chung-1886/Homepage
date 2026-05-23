@@ -67,10 +67,18 @@
         }
 
         .banner {
-            width: 100%;
-            margin-bottom: 30px;
+        width: 100%;
+        margin-bottom: 30px;
+        overflow: hidden;
+        border-radius: 20px;
         }
 
+        .banner video {
+            width: 100%;
+            max-height: 300px;
+            object-fit: cover;
+            display: block;
+        }
         .banner img {
             width: 100%;
             max-height: 260px;
@@ -87,7 +95,9 @@
 <body>
 
     <div class="banner">
-        <img src="images/image29.png" alt="banner">
+        <video autoplay muted loop playsinline>
+            <source src="images/banner.mp4" type="video/mp4">
+        </video>
     </div>
 
     <nav>
