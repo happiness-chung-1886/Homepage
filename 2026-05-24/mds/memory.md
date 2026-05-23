@@ -40,13 +40,13 @@ This image is from: [https://www.brtnx.com/en/index.php](https://www.brtnx.com/e
 
 **Sangyoon Bae, Gawon Lee, Jonghae Park**, and i 😆\!  
 **<p align="center">
-<img src="images/image50.png" height="300"> 
+<img src="images/image50.png" height="400"> 
 </p>**
 **💙 평생 잊지 못할 팀플, 영광이고 감사해요 💙**  
 **🙏🙇‍♀️모두 원하는 꿈들을 다 이루시기를 🙇‍♀️🙏**
 
 **IEEE NPSS Seoul Chapter (2023 📷🙇‍♀️)**   
-![](images/image19.png)  
+
 i apologize that i cannot remember who took this picture for me T.T.. but i appreciate it \!\!  
 i appreciate for all the people who granted lessons to me to make me more professional
 
