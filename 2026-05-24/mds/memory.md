@@ -1,7 +1,7 @@
 **<p align="center">
-  <img src="images/image13.png" style="width:130px; height:180px; object-fit:contain;">
-  <img src="images/image9.png" style="width:130px; height:180px; object-fit:contain;">
-  <img src="images/image2.png" style="width:140px; height:180px; object-fit:contain;">
+  <img src="images/image13.png" style="width:1450px; height:180px; object-fit:contain;">
+  <img src="images/image9.png" style="width:145px; height:180px; object-fit:contain;">
+  <img src="images/image2.png" style="width:150px; height:180px; object-fit:contain;">
   <img src="images/image8.png" style="width:140px; height:180px; object-fit:contain;">
 </p>**  
 **<p align="center">
