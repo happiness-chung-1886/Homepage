@@ -5,11 +5,11 @@
 🌟There is no metaphor or implicit meaning in this open research which drift from context
 🌟These are part of my research interests
 
-<img src="images/image29.png" height="300">  
+<img src="images/image29.png" height="300">  <br>
 Proposal: AI-Powered Unity to Replace Animal Experiment (March 2026) 
 AI Disclosure: Image generated from Nano Banana, Gemini-Pro 3.0
 
-<img src="images/image41.png" height="300"><img src="images/image45.png" height="300">
+<img src="images/image41.png" height="300"><img src="images/image45.png" height="300"> <br>
 Dream Robot Design 💚: Will You Placate me in the Painful and Panicful Night 🌙? (May 2026)
 AI Disclosure: Images generated from Nano Banana, Gemini-Pro 3.0
 Inspired under Professor Andrew Ng, Professor Bohyung Han, Professor D. Livingston McPherson, Professor Dilek Hakkani-Tur, Professor Fei-Fei Li, Professor Jae Sung Lee (Alphabetical order, which has no meaning, and additional names may be added) |  Google Deepmind 
@@ -27,7 +27,7 @@ Inspired under Professor Dilek Hakkani-Tur, Professor Yoshua Bengio | KakaoTalk,
 cctv + audio device required + voice interpretation AI for reconstructing dialogue then defining situations according to the context understanding capability of LLM
 
 Proposal: Dexterous Manipulation (October 2025) Same members of above report   
-<img src="images/image6.png" height="200"><img src="images/image6.png" height="200">
+<img src="images/image6.png" height="200"><img src="images/image6.png" height="200"> <br>
 
 Proposal: About Vision-Language-Action (VLA) Model (August 2025)
 For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) 
@@ -39,7 +39,7 @@ Inspired under Professor Fei-Fei Li and Professor Simon Cherry
 Superesolutions in the natural images and PET images would share the common characteristic that they generate hardware that does not exist before. And i learned that the number of detectors in a PET is more than 500,000 (a lot more than i expected) according to the open lecture from Professor Simon Cherry ([https://www.kcl.ac.uk/events/inaugural-lecture-professor-simon-cherry](https://www.kcl.ac.uk/events/inaugural-lecture-professor-simon-cherry)). Then, the superresolution of a PET image that does not severely distort the initial shape looks quite possible. Thinking about modality translation research between CT and MRI are executed although they are different medical modalities, the superresolution conventionally regarded as impossible may also be possible.
 
 Brainstorming: Thinking for Safe AI (May 2026)** **AI Disclosure: there is no AI usage in this entry
-<img src="images/image47.png" height="200">
+<img src="images/image47.png" height="200"> <br>
 
 Brainstorming: What is truly ethical? (May 2026) 
 Inspired under Professor Michael Sandel 
