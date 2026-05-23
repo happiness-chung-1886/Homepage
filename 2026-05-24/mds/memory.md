@@ -18,7 +18,9 @@ References:[https://www.microsoft.com/en-us/research/articles/a-story-that-has-l
 This image is from: Gemini-Pro-3.0 at March 2026
 
 **The Keynote Lectures of the OWENERS in Korea (2025 📷🙇‍♀️)**  
-**<img src="images/image40.png" height="200"> <img src="images/image31.png" height="200"> **  
+**<p align="center">
+**<img src="images/image40.png" height="200"> <img src="images/image31.png" height="200"> ** 
+</p>** 
 This image is from: haengbok chung 
 
 **<p align="center">
