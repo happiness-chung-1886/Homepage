@@ -11,8 +11,8 @@
         nav a:hover, nav a.active { color: #000; border-bottom: 2px solid #000; }
         .tab-content { display: none; }
         .tab-content.active { display: block; }
+        /* 이미지 크기 자동 조절 */
         img { max-width: 100%; height: auto; }
-        pre { background: #f4f4f4; padding: 15px; overflow-x: auto; }
     </style>
 </head>
 <body>
@@ -37,24 +37,15 @@
     <script>
         async function loadMarkdown(tabElement) {
             const mdPath = tabElement.getAttribute('data-md');
+            // 아직 내용이 로드되지 않았을 때만 불러옴
             if (tabElement.innerHTML.trim() === "") {
                 try {
                     const response = await fetch(mdPath);
-                    let fullText = await response.text();
+                    if (!response.ok) throw new Error("파일을 찾을 수 없습니다.");
+                    const text = await response.text();
                     
-                    const includeRegex = /\[include:(.*?)\]/g;
-                    let match;
-                    while ((match = includeRegex.exec(fullText)) !== null) {
-                        try {
-                            const subResponse = await fetch(match[1]);
-                            const subContent = await subResponse.text();
-                            fullText = fullText.replace(match[0], subContent);
-                        } catch (e) {
-                            console.error("파일 로드 실패:", match[1]);
-                            fullText = fullText.replace(match[0], `(파일을 불러올 수 없음)`);
-                        }
-                    }
-                    tabElement.innerHTML = marked.parse(fullText);
+                    // 직접 변환해서 바로 삽입
+                    tabElement.innerHTML = marked.parse(text);
                 } catch (error) {
                     tabElement.innerHTML = "<p>파일을 불러오지 못했습니다. 경로를 확인해주세요.</p>";
                 }
@@ -64,12 +55,15 @@
         function openTab(evt, tabId) {
             document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
             document.querySelectorAll('nav a').forEach(link => link.classList.remove('active'));
+            
             const selectedTab = document.getElementById(tabId);
             selectedTab.classList.add('active');
             evt.currentTarget.classList.add('active');
+            
             loadMarkdown(selectedTab);
         }
 
+        // 페이지 로드 시 첫 탭 바로 불러오기
         loadMarkdown(document.getElementById('tab1'));
     </script>
 </body>
