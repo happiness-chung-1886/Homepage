@@ -36,5 +36,3 @@ Under the direction of the Professor who led the class, our group focused on the
 Slide Deck: [https://docs.google.com/presentation/d/166mCi2mowuotHpWwZrZZorjkjj-g93oR/edit?usp=drive\_link\&ouid=108595460473080162207\&rtpof=true\&sd=true](https://docs.google.com/presentation/d/166mCi2mowuotHpWwZrZZorjkjj-g93oR/edit?usp=drive_link&ouid=108595460473080162207&rtpof=true&sd=true)  
 GitHub:   
 [https://github.com/chih-hao-lin/3DV\_2025Fall/tree/main/group\_05\_articulated\_scene/hc101\_novice\_inverse\_kinematics](https://github.com/chih-hao-lin/3DV_2025Fall/tree/main/group_05_articulated_scene/hc101_novice_inverse_kinematics)
-
-[include:images/variables.md]

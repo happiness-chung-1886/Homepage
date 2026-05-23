@@ -1,5 +1,3 @@
-!\[\]\(images# 🌟 MEMORY
-
 **![](images/image1.png)![](images/image2.png)![](images/image3.png)![](images/image4.png)**  
 **![](images/image5.png)![](images/image6.png)**  
 🌟Waiting for the OWNERS and Hoping for their career expansion to UIUC as well 🌟  
@@ -45,5 +43,3 @@ The image is from: [https://www.ewha.ac.kr/ewhaen/news/photos.do](https://www.ew
 **![](images/image7.png)![](images/image7.png)![](images/image7.png)![](images/image7.png)**  
 ![](images/image8.png)![](images/image9.png)![](images/image10.png)![](images/image11.png)  
 This image is from: Gemini-Pro-3.0 at March 2026
-
-[include:images/variables.md]

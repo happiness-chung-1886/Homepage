@@ -34,5 +34,3 @@ And she and i are totally different, of course; i’m inferior, cannot be compar
 **1832 \- 1909, from United States to Korea**  
 **First President of Ewha Womans University (1886)**  
 (Reference: https://namu.wiki/w/%EB%A9%94%EB%A6%AC%20%EC%8A%A4%ED%81%AC%EB%9E%9C%ED%8A%BC)
-
-[include:images/variables.md]

@@ -1,70 +1,254 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <title>Research Journey of Happy</title>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+
     <style>
-        body { font-family: sans-serif; line-height: 1.6; max-width: 900px; margin: 40px auto; padding: 20px; color: #333; }
-        nav { display: flex; gap: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px; flex-wrap: wrap; }
-        nav a { cursor: pointer; text-decoration: none; color: #666; font-weight: bold; padding: 5px 10px; }
-        nav a:hover, nav a.active { color: #000; border-bottom: 2px solid #000; }
-        .tab-content { display: none; }
-        .tab-content.active { display: block; }
-        /* 이미지 크기 자동 조절 */
-        img { max-width: 100%; height: auto; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+            line-height: 1.7;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            color: #333;
+            background: #ffffff;
+        }
+
+        nav {
+            display: flex;
+            gap: 14px;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+
+        nav button {
+            cursor: pointer;
+            border: none;
+            background: transparent;
+            color: #666;
+            font-weight: bold;
+            padding: 8px 10px;
+            font-size: 15px;
+            transition: 0.2s;
+        }
+
+        nav button:hover,
+        nav button.active {
+            color: #000;
+            border-bottom: 2px solid #000;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+
+        .error {
+            color: #b00020;
+            background: #fff3f3;
+            padding: 12px;
+            border-radius: 8px;
+        }
+
+        a {
+            color: #2b5cff;
+        }
     </style>
 </head>
+
 <body>
+
     <nav>
-        <a onclick="openTab(event, 'tab1')" class="active">🌟 MEMORY</a>
-        <a onclick="openTab(event, 'tab2')">🙇‍♀️ Gratitude</a>
-        <a onclick="openTab(event, 'tab3')">🌈 Additional Introduction</a>
-        <a onclick="openTab(event, 'tab4')">🌈 Figures</a>
-        <a onclick="openTab(event, 'tab5')">🌈 Course Project</a>
-        <a onclick="openTab(event, 'tab6')">🌈 Open Research</a>
-        <a onclick="openTab(event, 'tab7')">🌈 Trainee Diary</a>
+        <button onclick="openTab(event, 'tab1')" class="active">
+            🌟 MEMORY
+        </button>
+
+        <button onclick="openTab(event, 'tab2')">
+            🙇‍♀️ Gratitude
+        </button>
+
+        <button onclick="openTab(event, 'tab3')">
+            🌈 Additional Introduction
+        </button>
+
+        <button onclick="openTab(event, 'tab4')">
+            🌈 Figures
+        </button>
+
+        <button onclick="openTab(event, 'tab5')">
+            🌈 Course Project
+        </button>
+
+        <button onclick="openTab(event, 'tab6')">
+            🌈 Open Research
+        </button>
+
+        <button onclick="openTab(event, 'tab7')">
+            🌈 Trainee Diary
+        </button>
     </nav>
 
-    <div id="tab1" class="tab-content active" data-md="2026-05-24/mds/memory.md"></div>
-    <div id="tab2" class="tab-content" data-md="2026-05-24/mds/gratitude.md"></div>
-    <div id="tab3" class="tab-content" data-md="2026-05-24/mds/additional_info.md"></div>
-    <div id="tab4" class="tab-content" data-md="2026-05-24/mds/figures.md"></div>
-    <div id="tab5" class="tab-content" data-md="2026-05-24/mds/course_project.md"></div>
-    <div id="tab6" class="tab-content" data-md="2026-05-24/mds/open_research.md"></div>
-    <div id="tab7" class="tab-content" data-md="2026-05-24/mds/diary.md"></div>
+    <div id="tab1"
+         class="tab-content active"
+         data-md="2026-05-24/mds/memory.md">
+    </div>
+
+    <div id="tab2"
+         class="tab-content"
+         data-md="2026-05-24/mds/gratitude.md">
+    </div>
+
+    <div id="tab3"
+         class="tab-content"
+         data-md="2026-05-24/mds/additional_info.md">
+    </div>
+
+    <div id="tab4"
+         class="tab-content"
+         data-md="2026-05-24/mds/figures.md">
+    </div>
+
+    <div id="tab5"
+         class="tab-content"
+         data-md="2026-05-24/mds/course_project.md">
+    </div>
+
+    <div id="tab6"
+         class="tab-content"
+         data-md="2026-05-24/mds/open_research.md">
+    </div>
+
+    <div id="tab7"
+         class="tab-content"
+         data-md="2026-05-24/mds/diary.md">
+    </div>
 
     <script>
-        async function loadMarkdown(tabElement) {
-            const mdPath = tabElement.getAttribute('data-md');
-            // 아직 내용이 로드되지 않았을 때만 불러옴
-            if (tabElement.innerHTML.trim() === "") {
+
+        async function fetchText(path) {
+
+            const response = await fetch(path);
+
+            if (!response.ok) {
+                throw new Error(`${path} 파일을 찾을 수 없습니다.`);
+            }
+
+            return await response.text();
+        }
+
+        async function resolveIncludes(markdown) {
+
+            const includeRegex = /\[include:(.*?)\]/g;
+
+            const matches = [...markdown.matchAll(includeRegex)];
+
+            for (const match of matches) {
+
+                const includePath = match[1].trim();
+
                 try {
-                    const response = await fetch(mdPath);
-                    if (!response.ok) throw new Error("파일을 찾을 수 없습니다.");
-                    const text = await response.text();
-                    
-                    // 직접 변환해서 바로 삽입
-                    tabElement.innerHTML = marked.parse(text);
-                } catch (error) {
-                    tabElement.innerHTML = "<p>파일을 불러오지 못했습니다. 경로를 확인해주세요.</p>";
+
+                    const includedText = await fetchText(includePath);
+
+                    markdown = markdown.replace(
+                        match[0],
+                        includedText
+                    );
+
+                } catch {
+
+                    markdown = markdown.replace(
+                        match[0],
+                        `\n\n> include 파일을 불러오지 못했습니다: ${includePath}\n\n`
+                    );
                 }
+            }
+
+            return markdown;
+        }
+
+        async function loadMarkdown(tabElement) {
+
+            const mdPath = tabElement.getAttribute("data-md");
+
+            if (tabElement.dataset.loaded === "true") {
+                return;
+            }
+
+            tabElement.innerHTML = "<p>Loading...</p>";
+
+            try {
+
+                let text = await fetchText(mdPath);
+
+                text = await resolveIncludes(text);
+
+                tabElement.innerHTML = marked.parse(text);
+
+                tabElement.dataset.loaded = "true";
+
+            } catch (error) {
+
+                tabElement.innerHTML = `
+                    <p class="error">
+                        파일을 불러오지 못했습니다.<br>
+                        경로를 확인해주세요:<br>
+                        ${mdPath}
+                    </p>
+                `;
             }
         }
 
         function openTab(evt, tabId) {
-            document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
-            document.querySelectorAll('nav a').forEach(link => link.classList.remove('active'));
-            
-            const selectedTab = document.getElementById(tabId);
-            selectedTab.classList.add('active');
-            evt.currentTarget.classList.add('active');
-            
+
+            document
+                .querySelectorAll(".tab-content")
+                .forEach(tab => {
+                    tab.classList.remove("active");
+                });
+
+            document
+                .querySelectorAll("nav button")
+                .forEach(button => {
+                    button.classList.remove("active");
+                });
+
+            const selectedTab =
+                document.getElementById(tabId);
+
+            selectedTab.classList.add("active");
+
+            evt.currentTarget.classList.add("active");
+
             loadMarkdown(selectedTab);
         }
 
-        // 페이지 로드 시 첫 탭 바로 불러오기
-        loadMarkdown(document.getElementById('tab1'));
+        document.addEventListener(
+            "DOMContentLoaded",
+            () => {
+                loadMarkdown(
+                    document.getElementById("tab1")
+                );
+            }
+        );
+
     </script>
+
 </body>
 </html>
