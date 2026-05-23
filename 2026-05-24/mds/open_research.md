@@ -5,11 +5,11 @@
 **🌟There is no metaphor or implicit meaning in this open research which drift from context**  
 **🌟These are part of my research interests**
 
-![][image31]  
+![][images/image31]  
 **Proposal: AI-Powered Unity to Replace Animal Experiment (March 2026\)**  
 **AI Disclosure: Image generated from Nano Banana, Gemini-Pro 3.0** 
 
-**![][image32]![][image33]**  
+**![][images/image32]![][images/image33]**  
 **Dream Robot Design 💚: Will You Placate me in the Painful and Panicful Night 🌙? (May 2026\)**  
 **AI Disclosure: Images generated from Nano Banana, Gemini-Pro 3.0**   
 **Inspired under Professor Andrew Ng, Professor Bohyung Han, Professor D. Livingston McPherson, Professor Dilek Hakkani-Tur, Professor Fei-Fei Li, Professor Jae Sung Lee (Alphabetical order, which has no meaning, and additional names may be added) /|\\////\\\\|\\ Google Deepmind**  
@@ -29,7 +29,7 @@ cctv \+ audio device required \+ voice interpretation AI for reconstructing dial
 
 **Proposal: Dexterous Manipulation (October 2025\)**  
 Same members of above report  
-**![][image34]**![][image35]
+**![][images/image34]**![][images/image35]
 
 **Proposal: About Vision-Language-Action (VLA) Model (August 2025\)**  
 **For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER)**   
@@ -42,7 +42,7 @@ Superesolutions in the natural images and PET images would share the common char
 
 **Brainstorming: Thinking for Safe AI (May 2026\)**  
 **AI Disclosure: there is no AI usage in this entry**  
-![][image36]
+![][images/image36]
 
 **Brainstorming: What is truly ethical? (May 2026\)**  
 **Inspired under Professor Michael Sandel**  
@@ -59,3 +59,5 @@ Thinking point 9: The sole number of people’s opinion can be the evidence of �
 Thinking point 10: In academia, how can the agreement of co-authors for publication be misused? And how does this affect the reliability of published research and authorized scholars?  
 Thinking point 11: The “good” 학벌 is the “ given 혜택” or the “채권 to public”?   
 \* The order is random
+
+[include:images/variables.md]

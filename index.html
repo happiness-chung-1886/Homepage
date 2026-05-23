@@ -2,7 +2,8 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>Research Journy of Happy</title>
+    <title>Research Journey of Happy</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         body { font-family: sans-serif; line-height: 1.6; max-width: 900px; margin: 40px auto; padding: 20px; color: #333; }
         nav { display: flex; gap: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px; }
@@ -24,104 +25,42 @@
         <a onclick="openTab(event, 'tab7')">🌈 Trainee Diary</a>
     </nav>
 
-    <div id="tab1" class="tab-content active">
-        <div id="content-area1"></div>
-        <script>
-        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
-        fetch('2026-05-24/memory_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('content-area1').innerHTML = data;
-        })
-        .catch(error => console.error('불러오기 실패:', error));
-        </script>
-    </div>
-
-    <div id="tab2" class="tab-content">
-        <div id="content-area2"></div>
-        <script>
-        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
-        fetch('2026-05-24/gratitude_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('content-area2').innerHTML = data;
-        })
-        .catch(error => console.error('불러오기 실패:', error));
-        </script>
-    </div>
-
-    <div id="tab3" class="tab-content">
-        <div id="content-area3"></div>
-        <script>
-        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
-        fetch('2026-05-24/additional_info_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('content-area3').innerHTML = data;
-        })
-        .catch(error => console.error('불러오기 실패:', error));
-        </script>
-    </div>
-
-    <div id="tab4" class="tab-content">
-        <div id="content-area4"></div>
-        <script>
-        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
-        fetch('2026-05-24/figures_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('content-area4').innerHTML = data;
-        })
-        .catch(error => console.error('불러오기 실패:', error));
-        </script>
-    </div>
-
-    <div id="tab5" class="tab-content">
-        <div id="content-area5"></div>
-        <script>
-        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
-        fetch('2026-05-24/course_project_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('content-area5').innerHTML = data;
-        })
-        .catch(error => console.error('불러오기 실패:', error));
-        </script>
-    </div>
-
-    <div id="tab6" class="tab-content">
-        <div id="content-area6"></div>
-        <script>
-        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
-        fetch('2026-05-24/open_research_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('content-area6').innerHTML = data;
-        })
-        .catch(error => console.error('불러오기 실패:', error));
-        </script>
-    </div>
-
-    <div id="tab7" class="tab-content">
-        <div id="content-area7"></div>
-        <script>
-        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
-        fetch('2026-05-24/diary_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
-        .then(response => response.text())
-        .then(data => {
-            document.getElementById('content-area7').innerHTML = data;
-        })
-        .catch(error => console.error('불러오기 실패:', error));
-        </script>
-    </div>
+    <div id="tab1" class="tab-content active" data-md="2026-05-24/memory.md"></div>
+    <div id="tab2" class="tab-content" data-md="2026-05-24/gratitude.md"></div>
+    <div id="tab3" class="tab-content" data-md="2026-05-24/additional_info.md"></div>
+    <div id="tab4" class="tab-content" data-md="2026-05-24/figures.md"></div>
+    <div id="tab5" class="tab-content" data-md="2026-05-24/course_project.md"></div>
+    <div id="tab6" class="tab-content" data-md="2026-05-24/open_research.md"></div>
+    <div id="tab7" class="tab-content" data-md="2026-05-24/diary.md"></div>
 
     <script>
+        // 마크다운 파일을 가져와서 변환하는 함수
+        async function loadMarkdown(tabElement) {
+            const mdPath = tabElement.getAttribute('data-md');
+            if (tabElement.innerHTML.trim() === "") { // 내용이 없을 때만 불러오기
+                try {
+                    const response = await fetch(mdPath);
+                    const text = await response.text();
+                    tabElement.innerHTML = marked.parse(text);
+                } catch (error) {
+                    tabElement.innerHTML = "<p>파일을 불러오지 못했습니다.</p>";
+                }
+            }
+        }
+
         function openTab(evt, tabId) {
             document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
             document.querySelectorAll('nav a').forEach(link => link.classList.remove('active'));
-            document.getElementById(tabId).classList.add('active');
+            
+            const selectedTab = document.getElementById(tabId);
+            selectedTab.classList.add('active');
             evt.currentTarget.classList.add('active');
+            
+            loadMarkdown(selectedTab); // 탭을 클릭할 때 마크다운 로드
         }
+
+        // 첫 페이지 로드 시 첫 번째 탭 데이터 불러오기
+        loadMarkdown(document.getElementById('tab1'));
     </script>
 </body>
 </html>
