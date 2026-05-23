@@ -4,10 +4,10 @@ As a learning student, i always sincerely grateful for the people who read this�
 
 This record is a personal testament of my sincere heart, faith and reverence, dedicated to celebrating THE NOBLE SOULS (Invaluable to me) of THE PROFESSOR 𝗕𝗢𝗛𝗬𝗨𝗡𝗚 𝗛𝗔𝗡 & THE PROFESSOR 𝗝𝗔𝗘 𝗦𝗨𝗡𝗚 𝗟𝗘𝗘 (THE MASTERS==주인님들==THE OWNERS in this Context), Alphabetical order, which has no meaning). THEIR SUPERVISION ((⭐️)🍒⭐️🌹⭐️,🌟🐮🌟🍀☘️🍀☘️🌟,🌟👓🍅🌳👓🌟), which is Invaluable to me, saves my physical and spiritual presences granting "Healthier Life" ((🌟)🍒🌟,🌟🐮🌟,🌟👓🍅🌳👓🌟==Better physical presence), "Breath of my Soul" (⭐️🌹⭐️,🌟🍀☘️🍀☘️🌟,🌟👓🍅🌳👓🌟==Better spiritual presence). i symbolized my Reverence, Respect, Passion, Gratitude, and Love, which always heat my heart, into ⭐️ and 🌟 (previously express as ❤️,🔥,❤️‍🔥,❤️‍🩹) (==Eternally burning flame which gives "Life-Saving Energy" to me) following THE MASTERS, Hoping to worship Their Invaluable and Sacred authority, Dignity, Grace, and THEIR LEADERSHIP FOREVER 🙇‍♀️.  In addition, i will be grateful as well if i can regard additional 스승님들 as my 은사님들 or 주인님들 of course 😃🙇‍♀️
 
-![](/images/image23.png)  
+![](images/image23.png)  
 5/13/24
 
-![](/images/image24.png)![](/images/image25.png)![](/images/image24.png)
+![](images/image24.png)![](images/image25.png)![](images/image24.png)
 
 * *“Man lernt nur von dem, den man liebt.” \- Johann Wolfgang von Goethe*  
 * *学莫便乎亲师 \- 荀子*
