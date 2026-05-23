@@ -27,7 +27,7 @@ Inspired under Professor Dilek Hakkani-Tur, Professor Yoshua Bengio | KakaoTalk,
 cctv + audio device required + voice interpretation AI for reconstructing dialogue then defining situations according to the context understanding capability of LLM
 
 Proposal: Dexterous Manipulation (October 2025) Same members of above report   
-<img src="images/image6.png" height="200"><img src="images/image6.png" height="200"> <br>
+<img src="images/image46.png" height="200"><br>
 
 Proposal: About Vision-Language-Action (VLA) Model (August 2025)
 For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) 

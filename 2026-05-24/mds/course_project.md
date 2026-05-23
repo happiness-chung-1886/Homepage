@@ -27,6 +27,7 @@ In addition, i appreciate all the teammates who collaborated together as well �
 **\[CS598\] 3D Vision (Fall 2025\)**  
 **Report: Exploratory Study of Reinforcement Learning and Imitation Learning (December 2025\)**  
 Under the direction of the Professor who led the class, our group focused on the exploratory study 🙇‍♀️Although there was a little difference between the what we pursue among teammates, i sincerely appreciate all of them 😄i did not included the institutional information to be respectful for both institutions (SNU, UIUC, Alphabetical order)  
+<img src="images/image16.png" height="100"> 
 [https://drive.google.com/file/d/1AOerg57kBiGzw-axDofjSUvfbXx89zM9/view?usp=drive\_link](https://drive.google.com/file/d/1AOerg57kBiGzw-axDofjSUvfbXx89zM9/view?usp=drive_link)
 
 **Presentation: A Novice Version of Inverse Kinematics (October 2025\)**  
