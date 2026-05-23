@@ -33,7 +33,7 @@ This image is from: haengbok chung
 <img src="images/image51.png" height="200">
 <img src="images/image17.png" height="200"> 
 </p>
-<div style="font-size: 7px;  margin-bottom: 100px;">
+<div style="font-size: 7px;  margin-bottom: 10px;">
 This image is from: [https://www.brtnx.com/en/index.php](https://www.brtnx.com/en/index.php)
 </div>
 
@@ -61,8 +61,10 @@ This image is from: [https://www.brtnx.com/en/index.php](https://www.brtnx.com/e
 
 **IEEE NPSS Seoul Chapter (2023 📷🙇‍♀️)**   
 
+<div style="font-size: 7px;  margin-bottom: 100px;">
 i apologize that i cannot remember who took this picture for me T.T.. but i appreciate it \!\!  
 i appreciate for all the people who granted lessons to me to make me more professional
+</div>
 
 <p align="center">
 <img src="images/image48.png" style="width:170px; height:180px; object-fit:contain;">
@@ -74,7 +76,7 @@ i appreciate for all the people who granted lessons to me to make me more profes
 <img src="images/image30.png" height="200"> 
 </p>
 🌟💖 My Respect for Ewha Always Exists 💖🌟
-<div style="font-size: 7px;  margin-bottom: 100px;">
+<div style="font-size: 7px;  margin-bottom: 10px;">
 The image is from: [https://www.ewha.ac.kr/ewhaen/news/photos.do](https://www.ewha.ac.kr/ewhaen/news/photos.do)
 </div>
 
