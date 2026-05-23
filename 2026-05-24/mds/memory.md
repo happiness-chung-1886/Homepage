@@ -53,7 +53,7 @@ i apologize that i cannot remember who took this picture for me T.T.. but i appr
 i appreciate for all the people who granted lessons to me to make me more professional
 
 **<p align="center">
-<img src="images/image48.png" style="width:160px; height:180px; object-fit:contain;">
+<img src="images/image48.png" style="width:170px; height:180px; object-fit:contain;">
 <img src="images/image35.png" style="width:150px; height:180px; object-fit:contain;">
 </p>** 
 🌟💖 i sincerely appreciate The Advisors’ (Professors’) Invaluable Supervision as well 💖🌟
