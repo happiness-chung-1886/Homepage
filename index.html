@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>행복의 연구 기록관</title>
+    <title>Research Journy of Happy</title>
     <style>
         body { font-family: sans-serif; line-height: 1.6; max-width: 900px; margin: 40px auto; padding: 20px; color: #333; }
         nav { display: flex; gap: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px; }
@@ -15,20 +15,24 @@
 </head>
 <body>
     <nav>
-        <a onclick="openTab(event, 'tab1')" class="active">연구 과제 A</a>
-        <a onclick="openTab(event, 'tab2')">연구 과제 B</a>
-        <a onclick="openTab(event, 'tab3')">기타 기록</a>
+        <a onclick="openTab(event, 'tab1')" class="active">MEMORY</a>
+        <a onclick="openTab(event, 'tab2')">Gratitude</a>
+        <a onclick="openTab(event, 'tab3')">Additional Info</a>
+        <a onclick="openTab(event, 'tab4')">Figures</a>
+        <a onclick="openTab(event, 'tab5')">Course Project</a>
+        <a onclick="openTab(event, 'tab6')">Open Research</a>
+        <a onclick="openTab(event, 'tab7')">Trainee Diary</a>
     </nav>
 
     <div id="tab1" class="tab-content active">
         <h1>MEMORY</h1>
-        <div id="content-area"></div>
+        <div id="content-area1"></div>
         <script>
         // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
-        fetch('source_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
+        fetch('2026-05-24/memory_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
         .then(response => response.text())
         .then(data => {
-            document.getElementById('content-area').innerHTML = data;
+            document.getElementById('content-area1').innerHTML = data;
         })
         .catch(error => console.error('불러오기 실패:', error));
         </script>
@@ -36,12 +40,86 @@
 
     <div id="tab2" class="tab-content">
         <h1>Gratitude</h1>
-        <p>내용을 이 안에 넣으시면 됨웅.</p>
+        <div id="content-area2"></div>
+        <script>
+        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
+        fetch('2026-05-24/gratitude_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('content-area2').innerHTML = data;
+        })
+        .catch(error => console.error('불러오기 실패:', error));
+        </script>
     </div>
 
     <div id="tab3" class="tab-content">
-        <h1>Diary</h1>
-        <p>기록들이 차곡차곡 쌓일 공간웅.</p>
+        <h1>Gratitude</h1>
+        <div id="content-area3"></div>
+        <script>
+        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
+        fetch('2026-05-24/additional_info_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('content-area3').innerHTML = data;
+        })
+        .catch(error => console.error('불러오기 실패:', error));
+        </script>
+    </div>
+
+    <div id="tab4" class="tab-content">
+        <h1>Figures</h1>
+        <div id="content-area4"></div>
+        <script>
+        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
+        fetch('2026-05-24/figures_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('content-area4').innerHTML = data;
+        })
+        .catch(error => console.error('불러오기 실패:', error));
+        </script>
+    </div>
+
+    <div id="tab5" class="tab-content">
+        <h1>Figures</h1>
+        <div id="content-area5"></div>
+        <script>
+        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
+        fetch('2026-05-24/course_project_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('content-area5').innerHTML = data;
+        })
+        .catch(error => console.error('불러오기 실패:', error));
+        </script>
+    </div>
+
+    <div id="tab6" class="tab-content">
+        <h1>Figures</h1>
+        <div id="content-area6"></div>
+        <script>
+        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
+        fetch('2026-05-24/open_research_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('content-area6').innerHTML = data;
+        })
+        .catch(error => console.error('불러오기 실패:', error));
+        </script>
+    </div>
+
+    <div id="tab7" class="tab-content">
+        <h1>Figures</h1>
+        <div id="content-area7"></div>
+        <script>
+        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
+        fetch('2026-05-24/diary_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('content-area7').innerHTML = data;
+        })
+        .catch(error => console.error('불러오기 실패:', error));
+        </script>
     </div>
 
     <script>
