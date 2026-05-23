@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
   <img src="images/image13.png" style="width:145px; height:180px; object-fit:contain;">
   <img src="images/image9.png" style="width:140px; height:180px; object-fit:contain;">
@@ -67,3 +68,5 @@ The image is from: [https://www.ewha.ac.kr/ewhaen/news/photos.do](https://www.ew
 <img src="images/image6.png" height="100"> <img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image6.png" height="100"> 
 </p>   
 This image is from: Gemini-Pro-3.0 at March 2026
+
+</div>
