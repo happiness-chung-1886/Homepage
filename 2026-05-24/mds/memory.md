@@ -1,5 +1,5 @@
 **<img src="images/image13.png" height="100"><img src="images/image9.png" height="100"><img src="images/image2.png" height="100">!<img src="images/image8.png" height="100">**  
-**![](images/image14.png)![](images/image27.png)**  
+**<img src="images/image14.png" height="200"><img src="images/image27.png" height="200">**  
 🌟Waiting for the OWNERS and Hoping for their career expansion to UIUC as well 🌟  
 References:[https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/](https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/),https://www.brtnx.com/en/news/news.php,  [https://www.joongang.co.kr/article/25129767](https://www.joongang.co.kr/article/25129767) 
 
