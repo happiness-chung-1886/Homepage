@@ -7,6 +7,7 @@ This record is a personal testament of my sincere heart, faith and reverence, de
 <img src="images/image1.png" height="300">
 5/13/24
 
+
 <img src="images/image44.png" height="200">
 
 * *“Man lernt nur von dem, den man liebt.” \- Johann Wolfgang von Goethe*  
