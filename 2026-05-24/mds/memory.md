@@ -61,7 +61,7 @@ i appreciate for all the people who granted lessons to me to make me more profes
 <p align="center">
 <img src="images/image30.png" height="200"> 
 </p>
-🌟💖 My Respect for Ewha Always Exists 💖🌟  
+**🌟💖 My Respect for Ewha Always Exists 💖🌟**
 The image is from: [https://www.ewha.ac.kr/ewhaen/news/photos.do](https://www.ewha.ac.kr/ewhaen/news/photos.do)
 
 <p align="center">
