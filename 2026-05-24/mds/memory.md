@@ -9,43 +9,55 @@
 <img src="images/image14.png" height="200"><img src="images/image27.png" height="200">
 </p>
 🌟Waiting for the OWNERS and Hoping for their career expansion to UIUC as well 🌟  
+<div style="font-size: 7px; margin-bottom: 10px;">
 References:[https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/](https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/),https://www.brtnx.com/en/news/news.php,  [https://www.joongang.co.kr/article/25129767](https://www.joongang.co.kr/article/25129767) 
+</div>
 
 **🔗 With Reverence, Respect, Gratitude, and Love for the OWENERS 🔗**  
 <p align="center">
 <img src="images/image6.png" height="100"> <img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image6.png" height="100"> 
 </p>  
+<div style="font-size: 7px;  margin-bottom: 100px;">
 This image is from: Gemini-Pro-3.0 at March 2026
+</div>
 
 **The Keynote Lectures of the OWENERS in Korea (2025 📷🙇‍♀️)**  
 <p align="center">
 <img src="images/image40.png" height="200"> <img src="images/image31.png" height="200">
 </p>
+<div style="font-size: 7px;  margin-bottom: 100px;">
 This image is from: haengbok chung 
+</div>
 
 <p align="center">
 <img src="images/image51.png" height="200">
 <img src="images/image17.png" height="200"> 
 </p>
+<div style="font-size: 7px;  margin-bottom: 100px;">
 This image is from: [https://www.brtnx.com/en/index.php](https://www.brtnx.com/en/index.php)
+</div>
 
 <p align="center">
 <img src="images/image43.png" height="200">
 </p>
+<div style="font-size: 7px;  margin-bottom: 100px;">
 The image is from: [https://www.coexcenter.com/venue/grand-ballroom/](https://www.coexcenter.com/venue/grand-ballroom/)
+</div>
 
 **BRIGHTONIX IMAGING Inc. Booth (2025 📷🙇‍♀️)**  
 <p align="center">
 <img src="images/image32.png" height="200">
 </p>
+<div style="font-size: 7px;  margin-bottom: 100px;">
 This image is from: [https://www.brtnx.com/en/index.php](https://www.brtnx.com/en/index.php)
+</div>
 
 **Sangyoon Bae, Gawon Lee, Jonghae Park**, and i 😆\!  
 <p align="center">
 <img src="images/image50.png" height="400"> 
 </p>
-**💙 평생 잊지 못할 팀플, 영광이고 감사해요 💙**  
-**🙏🙇‍♀️모두 원하는 꿈들을 다 이루시기를 🙇‍♀️🙏**
+💙 평생 잊지 못할 팀플, 영광이고 감사해요 💙  
+🙏🙇‍♀️모두 원하는 꿈들을 다 이루시기를 🙇‍♀️🙏
 
 **IEEE NPSS Seoul Chapter (2023 📷🙇‍♀️)**   
 
@@ -62,11 +74,15 @@ i appreciate for all the people who granted lessons to me to make me more profes
 <img src="images/image30.png" height="200"> 
 </p>
 **🌟💖 My Respect for Ewha Always Exists 💖🌟**
+<div style="font-size: 7px;  margin-bottom: 100px;">
 The image is from: [https://www.ewha.ac.kr/ewhaen/news/photos.do](https://www.ewha.ac.kr/ewhaen/news/photos.do)
+</div>
 
 <p align="center">
 <img src="images/image6.png" height="100"> <img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image6.png" height="100"> 
 </p>   
+<div style="font-size: 7px;  margin-bottom: 100px;">
 This image is from: Gemini-Pro-3.0 at March 2026
+</div>
 
 </div>
