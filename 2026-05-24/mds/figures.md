@@ -26,13 +26,13 @@ Hannah Arendt<br>
 Eichmann in Jerusalem: A Report on the Banality of Evil <br>
 <div style="font-size: 7px;  margin-bottom: 100px;">
 (Reference: https://en.wikipedia.org/wiki/Hannah\_Arendt)
-<div>
+</div>
 
 <img src="images/image22.png" height="400"> <br>
 Hedy Lamarr <br>
 1914 - 2000, Austria -> Stateless -> United States <br>
 The Inventor of Frequency Hopping (The Ground of Wi-Fi), Actor<br>
-<div style="font-size: 7px;  margin-bottom: 10px;"> 
+<div style="font-size: 7px;  margin-bottom: 100px;"> 
 (Reference: [https://www.newyorker.com/tech/annals-of-technology/hedy-lamarrs-forgotten-frustrated-career-as-a-wartime-inventor](https://www.newyorker.com/tech/annals-of-technology/hedy-lamarrs-forgotten-frustrated-career-as-a-wartime-inventor))
 </div>
 
