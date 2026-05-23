@@ -5,14 +5,12 @@
     <title>Research Journey of Happy</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
-        body { font-family: sans-serif; line-height: 1.6; max-width: 900px; margin: 40px auto; padding: 20px; color: #333; }
-        nav { display: flex; gap: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px; }
-        nav a { cursor: pointer; text-decoration: none; color: #666; font-weight: bold; padding: 5px 10px; }
-        nav a:hover, nav a.active { color: #000; border-bottom: 2px solid #000; }
-        .tab-content { display: none; }
-        .tab-content.active { display: block; }
-        pre { background: #f4f4f4; padding: 15px; overflow-x: auto; }
-    </style>
+    /* 탭 디자인을 깔끔하게 유지하는 최소한의 스타일 */
+    body { font-family: sans-serif; line-height: 1.6; max-width: 900px; margin: 40px auto; padding: 20px; }
+    nav { display: flex; gap: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px; flex-wrap: wrap; }
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
+</style>
 </head>
 <body>
     <nav>
@@ -25,13 +23,13 @@
         <a onclick="openTab(event, 'tab7')">🌈 Trainee Diary</a>
     </nav>
 
-    <div id="tab1" class="tab-content active" data-md="2026-05-24/memory.md"></div>
-    <div id="tab2" class="tab-content" data-md="2026-05-24/gratitude.md"></div>
-    <div id="tab3" class="tab-content" data-md="2026-05-24/additional_info.md"></div>
-    <div id="tab4" class="tab-content" data-md="2026-05-24/figures.md"></div>
-    <div id="tab5" class="tab-content" data-md="2026-05-24/course_project.md"></div>
-    <div id="tab6" class="tab-content" data-md="2026-05-24/open_research.md"></div>
-    <div id="tab7" class="tab-content" data-md="2026-05-24/diary.md"></div>
+    <div id="tab1" class="tab-content active" data-md="2026-05-24/mds/memory.md"></div>
+    <div id="tab2" class="tab-content" data-md="2026-05-24/mds/gratitude.md"></div>
+    <div id="tab3" class="tab-content" data-md="2026-05-24/mds/additional_info.md"></div>
+    <div id="tab4" class="tab-content" data-md="2026-05-24/mds/figures.md"></div>
+    <div id="tab5" class="tab-content" data-md="2026-05-24/mds/course_project.md"></div>
+    <div id="tab6" class="tab-content" data-md="2026-05-24/mds/open_research.md"></div>
+    <div id="tab7" class="tab-content" data-md="2026-05-24/mds/diary.md"></div>
 
     <script>
         // 마크다운 파일을 가져와서 변환하는 함수
