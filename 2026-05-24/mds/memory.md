@@ -1,15 +1,15 @@
-**<img src="images/image13.png" width="100"><img src="images/image9.png" width="100"><img src="images/image2.png" width="100">!<img src="images/image8.png" width="100">**  
+**<img src="images/image13.png" height="100"><img src="images/image9.png" height="100"><img src="images/image2.png" height="100">!<img src="images/image8.png" height="100">**  
 **![](images/image14.png)![](images/image27.png)**  
 🌟Waiting for the OWNERS and Hoping for their career expansion to UIUC as well 🌟  
 References:[https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/](https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/),https://www.brtnx.com/en/news/news.php,  [https://www.joongang.co.kr/article/25129767](https://www.joongang.co.kr/article/25129767) 
 
 **🔗 With Reverence, Respect, Gratitude, and Love for the OWENERS 🔗**  
-**<img src="images/image5.png" width="100"><img src="images/image5.png" width="100"><img src="images/image5.png" width="100"><img src="images/image5.png" width="100">**  
-![](images/image6.png)![](images/image6.png)![](images/image6.png)![](images/image6.png)  
+**<img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image5.png" height="100"><img src="images/image5.png" height="100">**  
+<img src="images/image6.png" height="100">  
 This image is from: Gemini-Pro-3.0 at March 2026
 
 **The Keynote Lectures of the OWENERS in Korea (2025 📷🙇‍♀️)**  
-**![](images/image40.png)![](images/image31.png)**  
+**<img src="images/image40.png" height="200"> <img src="images/image31.png" height="200"> **  
 This image is from: haengbok chung 
 
 **![](images/image14.png)**  
