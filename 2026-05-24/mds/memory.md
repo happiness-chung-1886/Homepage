@@ -1,8 +1,8 @@
 **<p align="center">
   <img src="images/image13.png" style="width:130px; height:180px; object-fit:contain;">
   <img src="images/image9.png" style="width:130px; height:180px; object-fit:contain;">
-  <img src="images/image2.png" style="width:130px; height:180px; object-fit:contain;">
-  <img src="images/image8.png" style="width:130px; height:180px; object-fit:contain;">
+  <img src="images/image2.png" style="width:140px; height:180px; object-fit:contain;">
+  <img src="images/image8.png" style="width:140px; height:180px; object-fit:contain;">
 </p>**  
 **<p align="center">
 <img src="images/image14.png" height="200"><img src="images/image27.png" height="200">
@@ -28,13 +28,14 @@ This image is from: haengbok chung
 This image is from: [https://www.brtnx.com/en/index.php](https://www.brtnx.com/en/index.php)
 
 **<p align="center">
-<img src="images/image51.png" height="200">
-<img src="images/image17.png" height="200"> 
+<img src="images/image43.png" height="200">
 </p>**
 The image is from: [https://www.coexcenter.com/venue/grand-ballroom/](https://www.coexcenter.com/venue/grand-ballroom/)
 
 **BRIGHTONIX IMAGING Inc. Booth (2025 📷🙇‍♀️)**  
-![](images/image17.png)  
+**<p align="center">
+<img src="images/image32.png" height="200">
+</p>**
 This image is from: [https://www.brtnx.com/en/index.php](https://www.brtnx.com/en/index.php)
 
 **Sangyoon Bae, Gawon Lee, Jonghae Park**, and i 😆\!  
