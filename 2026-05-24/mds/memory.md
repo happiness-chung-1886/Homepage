@@ -4,7 +4,7 @@
 References:[https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/](https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/),https://www.brtnx.com/en/news/news.php,  [https://www.joongang.co.kr/article/25129767](https://www.joongang.co.kr/article/25129767) 
 
 **🔗 With Reverence, Respect, Gratitude, and Love for the OWENERS 🔗**  
-**![](images/image5.png)![](images/image5.png)![](images/image5.png)![](images/image5.png)**  
+**<img src="images/image5.png" width="100"><img src="images/image5.png" width="100"><img src="images/image5.png" width="100"><img src="images/image5.png" width="100">**  
 ![](images/image6.png)![](images/image6.png)![](images/image6.png)![](images/image6.png)  
 This image is from: Gemini-Pro-3.0 at March 2026
 
