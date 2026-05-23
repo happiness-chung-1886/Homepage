@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>행복의 연구 기록관</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 900px; margin: 40px auto; padding: 20px; color: #333; }
+        nav { display: flex; gap: 20px; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px; }
+        nav a { cursor: pointer; text-decoration: none; color: #666; font-weight: bold; padding: 5px 10px; }
+        nav a:hover, nav a.active { color: #000; border-bottom: 2px solid #000; }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        pre { background: #f4f4f4; padding: 15px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <nav>
+        <a onclick="openTab(event, 'tab1')" class="active">연구 과제 A</a>
+        <a onclick="openTab(event, 'tab2')">연구 과제 B</a>
+        <a onclick="openTab(event, 'tab3')">기타 기록</a>
+    </nav>
+
+    <div id="tab1" class="tab-content active">
+        <h1>MEMORY</h1>
+        <div id="content-area"></div>
+        <script>
+        // 페이지가 로드될 때 변환된 HTML 파일을 불러옵니다
+        fetch('source_2026-05-24.html') // 생성하신 파일 이름을 넣어주세요
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('content-area').innerHTML = data;
+        })
+        .catch(error => console.error('불러오기 실패:', error));
+        </script>
+    </div>
+
+    <div id="tab2" class="tab-content">
+        <h1>Gratitude</h1>
+        <p>내용을 이 안에 넣으시면 됨웅.</p>
+    </div>
+
+    <div id="tab3" class="tab-content">
+        <h1>Diary</h1>
+        <p>기록들이 차곡차곡 쌓일 공간웅.</p>
+    </div>
+
+    <script>
+        function openTab(evt, tabId) {
+            document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('nav a').forEach(link => link.classList.remove('active'));
+            document.getElementById(tabId).classList.add('active');
+            evt.currentTarget.classList.add('active');
+        }
+    </script>
+</body>
+</html>
