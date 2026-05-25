@@ -3,6 +3,8 @@
 🌟There is no metaphor or implicit meaning in this open research which drift from context<br>
 🌟These are part of my research interests<br>
 
+<br><br>
+
 <img src="images/image29.png" height="300">  <br>
 Proposal: AI-Powered Unity to Replace Animal Experiment (March 2026) 
 AI Disclosure: Image generated from Nano Banana, Gemini-Pro 3.0 <br>
@@ -47,7 +49,7 @@ For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) <br
 [https://docs.google.com/presentation/d/1E0wojVTAh6ZhH2TGQyRMWct-olmiZx1Vzc6-IIQWq3Q/edit?usp=sharing](https://docs.google.com/presentation/d/1E0wojVTAh6ZhH2TGQyRMWct-olmiZx1Vzc6-IIQWq3Q/edit?usp=sharing) <br>
 
 <br><br>
-
+Proposal: Realistic and Non-Invasive Simulations <br>
 Brainstorming: The Possibility of Medical Image Superresolution (May 2026) <br>
 Inspired under Professor Fei-Fei Li and Professor Simon Cherry <br>
 Superesolutions in the natural images and PET images would share the common characteristic that they generate hardware that does not exist before. And i learned that the number of detectors in a PET is more than 500,000 (a lot more than i expected) according to the open lecture from Professor Simon Cherry ([https://www.kcl.ac.uk/events/inaugural-lecture-professor-simon-cherry](https://www.kcl.ac.uk/events/inaugural-lecture-professor-simon-cherry)). Then, the superresolution of a PET image that does not severely distort the initial shape looks quite possible. Thinking about modality translation research between CT and MRI are executed although they are different medical modalities, the superresolution conventionally regarded as impossible may also be possible. <br>
@@ -63,16 +65,15 @@ Brainstorming: What is truly ethical? (May 2026) <br>
 Inspired under Professor Michael Sandel <br>
 AI Disclosure: there is no AI usage in this entry <br>
 
-
-Thinking point 1: Are the laws always ethical?   <br>
-Thinking point 2: Ethics are the “self-justification” or the “calculation” of “losers”?   <br>
-Thinking point 3: What is the foundation and evidence of ethics? How is it constructed?   <br>
-Thinking point 4: Authority is the same with “correctness”? How can we prove “the right”?   <br>
-Thinking point 5: The arguments and propaganda of the progressive and conservative party of professional politics are stalled or changed according to the generation?   <br>
-Thinking point 6: The unethical behaviors should be considered as 어쩔수 없는것 because of the “atmosphere or generation (시대적 분위기, 시대상)”? How does this erase victims and justify the violences? What makes the generation?  <br> 
-Thinking point 7: Why and when the nations keep silent about their domestic oppression toward minorities within their countries while blaming and criticizing other countries? Is that related to the “imaging” or “benefit”?  <br> 
-Thinking point 8: When there are innovations, how are the consequences different between two responses (1: regarding it as a threat 2: proactively adapting to it)? Being aggressive and conservative toward the new innovations help conventional hegemony safe or rather unreliable and dangerous?   <br>
-Thinking point 9: The sole number of people’s opinion can be the evidence of “correctness”? What is the role of academia and knowledge in this agenda?   <br>
-Thinking point 10: In academia, how can the agreement of co-authors for publication be misused? And how does this affect the reliability of published research and authorized scholars?   <br>
-Thinking point 11: The “good” 학벌 is the “ given 혜택” or the “채권 to public”?   <br>
+* Thinking point 1: Are the laws always ethical?   <br>
+* Thinking point 2: Ethics are the “self-justification” or the “calculation” of “losers”?   <br>
+* Thinking point 3: What is the foundation and evidence of ethics? How is it constructed?   <br>
+* Thinking point 4: Authority is the same with “correctness”? How can we prove “the right”?   <br>
+* Thinking point 5: The arguments and propaganda of the progressive and conservative party of professional politics are stalled or changed according to the generation?   <br>
+* Thinking point 6: The unethical behaviors should be considered as 어쩔수 없는것 because of the “atmosphere or generation (시대적 분위기, 시대상)”? How does this erase victims and justify the violences? What makes the generation?  <br> 
+* Thinking point 7: Why and when the nations keep silent about their domestic oppression toward minorities within their countries while blaming and criticizing other countries? Is that related to the “imaging” or “benefit”?  <br> 
+* Thinking point 8: When there are innovations, how are the consequences different between two responses (1: regarding it as a threat 2: proactively adapting to it)? Being aggressive and conservative toward the new innovations help conventional hegemony safe or rather unreliable and dangerous?   <br>
+* Thinking point 9: The sole number of people’s opinion can be the evidence of “correctness”? What is the role of academia and knowledge in this agenda?   <br>
+* Thinking point 10: In academia, how can the agreement of co-authors for publication be misused? And how does this affect the reliability of published research and authorized scholars?   <br>
+* Thinking point 11: The “good” 학벌 is the “ given 혜택” or the “채권 to public”?   <br>
 \* The order is random
