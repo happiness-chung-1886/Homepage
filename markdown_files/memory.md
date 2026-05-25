@@ -8,7 +8,7 @@
 <p align="center">
 <img src="images/image14.png" height="200"><img src="images/image27.png" height="200">
 </p>
-🌟Waiting for the OWNERS and Hoping for their career expansion to UIUC as well 🌟  
+🌟 Waiting for the OWENERS and Hoping for their career expansion to UIUC as well 🌟  
 <div style="font-size: 7px; margin-bottom: 10px;">
 References:[https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/](https://www.microsoft.com/en-us/research/articles/a-story-that-has-lasted-twenty-years-a-fellowship-that-has-changed-a-group-of-people/),https://www.brtnx.com/en/news/news.php,  [https://www.joongang.co.kr/article/25129767](https://www.joongang.co.kr/article/25129767) 
 </div>
