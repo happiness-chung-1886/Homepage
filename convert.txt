@@ -1,0 +1,2 @@
+Find: !\[\]\[(image\d+)\]
+Replace: ![](/images/$1.png)
