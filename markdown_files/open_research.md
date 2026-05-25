@@ -56,7 +56,7 @@ For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) <br
 
 ## Brainstorming
 
-**Brainstorming: The Possibility of Medical Image Superresolution (May 2026)** <br>
+**The Possibility of Medical Image Superresolution (May 2026)** <br>
 Inspired under Professor Fei-Fei Li and Professor Simon Cherry <br>
 Superesolutions in the natural images and PET images would share the common characteristic that they generate hardware that does not exist before. And i learned that the number of detectors in a PET is more than 500,000 (a lot more than i expected) according to the open lecture from Professor Simon Cherry ([https://www.kcl.ac.uk/events/inaugural-lecture-professor-simon-cherry](https://www.kcl.ac.uk/events/inaugural-lecture-professor-simon-cherry)). Then, the superresolution of a PET image that does not severely distort the initial shape looks quite possible. Thinking about modality translation research between CT and MRI are executed although they are different medical modalities, the superresolution conventionally regarded as impossible may also be possible. <br>
 
