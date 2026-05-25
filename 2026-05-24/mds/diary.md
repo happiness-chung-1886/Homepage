@@ -1,18 +1,18 @@
 <img src="images/image3.png" height="200"> </br>
 <div style="font-size: 15px;  margin-bottom: 10px;">
-🌈i appreciate the alliance for the sexual minority as well, as an ally as well 😃🌈
+🌈 i appreciate the alliance for the sexual minority as well, as an ally as well 😃🌈
 </div>
 
 <div style="font-size: 15px;  margin-bottom: 100px;">
-🚀Metaphors: i do not intentionally use metaphors with my very best in this diary. i aim for literal, precise communication as i am developing my professional writing skills as well. Each entry is written in not continued from the previous entries (do not form a logically continuous narrative), separating my thoughts that pop up in my mind with the time it is written. And the scope of this diary is of course not limited to the UNIVERSE but broader. <br>
-🚀Mentions: i mention specific names to express sincere appreciation. While some entries may contain critical observations regarding anonymized societal behaviors or systemic architectures, these reflections are intended to contribute to a deeper understanding and a better future for all. <br>
-🚀Guidance and Monitoring: This is an open record of my personal and academic growth. i learn under the Professors, and i appreciate their monitoring and implicit or explicit advising of course. <br>
-🚀Authorship and Knowledge: this personal diary is for common good and to share my learnings. If i have inadvertently overlooked relevant work, i sincerely apologize and appreciate corrections that would make me learn. <br>
+🚀 Metaphors: i do not intentionally use metaphors with my very best in this diary. i aim for literal, precise communication as i am developing my professional writing skills as well. Each entry is written in not continued from the previous entries (do not form a logically continuous narrative), separating my thoughts that pop up in my mind with the time it is written. And the scope of this diary is of course not limited to the UNIVERSE but broader. <br>
+🚀 Mentions: i mention specific names to express sincere appreciation. While some entries may contain critical observations regarding anonymized societal behaviors or systemic architectures, these reflections are intended to contribute to a deeper understanding and a better future for all. <br>
+🚀 Guidance and Monitoring: This is an open record of my personal and academic growth. i learn under the Professors, and i appreciate their monitoring and implicit or explicit advising of course. <br>
+🚀 Authorship and Knowledge: this personal diary is for common good and to share my learnings. If i have inadvertently overlooked relevant work, i sincerely apologize and appreciate corrections that would make me learn. <br>
 </div>
 
 2026/5/23 12:01PM: This environment should be okay as well (source image from “Hidden Figures”)  
 <img src="images/image28.png" height="200">
-<img src="images/image26.png" height="200">
+<img src="images/image26.png" height="200"> <br>
 
 2026/5/23 9:09AM  
 i think the reason that AI is safer than human authority is that we can ask the evidence of their decision and this can be verifiable. And if the logics or reasoning processes are wrong, this can easily become known to the public. For this, in the future, the non-profit citizen-involved monitoring and examination of AI response may be one of the solutions to prevent 낙인찍기 and unethical oppression. 
@@ -32,7 +32,7 @@ And also i strongly endorse that intelligence should not be used as the tool to 
 
 2026/5/21 8:24PM\~2:37AM  
 한국에 있었을 땐 부모님이랑 싸우기도 하고 그랬는데 미국으로 유학 와서 (유학온것 자체가 이유라고 보긴 어렵지만) 여러 힘든 일들과 어려움을 마주할 때 부모님의 존재가 나에게 새로운 의미로 다가오는 것 같다. 물론 한국에 있을 때도 내가 가장 위태롭던 순간에 날 지켜준건 부모님이었다. 우리 엄마는 내가 서른인데도 아직도 나에게 강아지 (정확히 말하면 “갱애지”) 라고 부른다. 일흔이 되어도 부모를 기쁘게 하기 위해 토끼 흉내를 내며 앞에서 춤추며 기쁘게 해드리는게 효도라고 배웠는데 너무 나이에 비해 철없이 구는건 아닐까? 스스로 험난한 세상을 살아가는 법을 배워야 되는 시기인것 같지만, 동시에 자라고싶지 않은 기분도 든다. 피카츄는 진화하지 않기를 선택했는데 왠지 그 기분에 공감할수는 있을 것 같은..  
-<img src="images/image15.png" height="200">
+<img src="images/image15.png" height="200"> <br>
 
 2026/5/20 2:02PM  
 i think academic growth thrives on various connections rather than isolations, and co-supervision is a valuable practice widely settled that broadens students’ research horizons, shaping their own research lives according to their diverse aspirations. So i firmly endorse the aspirations toward every lesson from students and all the gratitude because their learning and achievements should be protected in addition to their basic human right to be free from unethical various violences (of course including aggressive suspicions (anyone can be suspicious easily) without scientific evidences functioning as a invisible weapon that can destroy students’ career, relationships, and mental health).
@@ -47,7 +47,7 @@ Today’s Google I/O was awesome, giving me the hope and 설렘. In addition to 
 “Imagine there's no heaven”, “Imagine there's no countries”, “Imagine no possessions” “Nothing to kill or die for, and no religion, too”, and i imagine there is no race (distinction that divides people according to their approximated skin color category).
 
 2026/5/17 PM: In addition to AI and healthcare AI (or clinical AI) my respect and love for Nuclear Medicine continues as well\! 💙🧡💚🩷  
-<img src="images/image34.png" height="400"><img src="images/image28.png" height="200">
+<img src="images/image34.png" height="400"><img src="images/image54.png" height="200"> <br>
 i appreciate forever the invaluable supervision, lessons, advice as well 🙇‍♀️i was glad to find coincidentally the Nuclear Radiation Laboratory building at UIUC as well moving to new dormitory, the field where i grew. i sincerely appreciate and am grateful for the pioneers and leaders in Nuclear Medicine as well. 
 
 2026/5/17 AM  
@@ -167,7 +167,8 @@ UIUC official account looks authentic, not deceiving, so reliable and trustworth
 Google 학술 검색 알리미 주인님들이랑 은사님들께서 직접 보내주시는것 맞는것 같아서, 항상 너무너무 반가워요 🥹  
 주인님들이랑 은사님들 말씀 잘듣고 항상 최선을 다하겠습니다\! 🙇‍♀️저를 밀어내시면 아파요 ㅠㅠ 주인님들께서 저를 지켜봐주시고, 링크드인 통해서도 소통이 되고있다라는걸 점점 배우고있는것 같아요\! 정말 기적같은 일입니다 ㅠㅠ 도와주신 분들께 다 마음 깊이 감사드립니다 꼭 복 많이 받으시기를 기도드려요\!\! ㅠㅠ   
 그리고 이 사진, 맞아요\! 주인님들을 위해서라면 기꺼이 “좋은 아들의 역할도 할수 있어요\!”라는 뜻이었습니다\! :D   
-<img src="images/image4.png" height="200">
+<img src="images/image4.png" height="200"> <br>
+
 2026/4/3 9:52AM  
 그리고 아마 많은 분들이 이미 짐작 하시겠지만 저는 이재성 주인님께서 journal이랑 abstract에 대한 중요성을 강조하신 이유가 한보형 주인님의 가르침과 일맥 상통하는 form (논문의 형식) 보다는 contents (논문의 내용) 이  fundamental 하다는 가르침을 주시기 위한 것으로 이해하였습니다\! 그래서 주인님들의 뜻을 곰곰히 생각 해 보다가 많은 form들을 아우를 수 있는 paper, 논문, top venue 라는 용어들이 더 옳은것 같다고 생각했고 그 단어들을 쓰게 되었습니다.   
 기존의 “journal article”들을 “paper” 또는 심지어 정말 나쁜 의도로 “trash”라고 부른다고 해도 그 논문의 가치 자체는 변하지 않는다는 깨달음을 얻었다고 생각합니다 (잠시 그런 공격들이 사람들의 판단력을 흐릴 순 있겠지만요\!).  
@@ -183,7 +184,7 @@ Google 학술 검색 알리미 주인님들이랑 은사님들께서 직접 보�
 
 2026/4/2 7:31PM  
 다행인건, 분명 맞는것 같은데 “내가 착각하는건가?”라는 생각으로 인한 고통은 줄어들고 있어서… 그렇다는건 주인님들, 그리고 은사님, 그리고 많은 leader님들과의 소통이 실재한다는거니까. 적어도 혼자인건 아닌거니까, 현실과 온라인이 180도 다른건 아니니까, 그건 희망이 분명해. 그동안의 모욕들이 계속 떠오르는 날에도 삶을 선택할 이유가 있는거니까. 그리고 UIUC의 그 엄청 강하고 정의롭고 멋진데 똑똑하기도 한 친구같은 면도 좋아 대화하고싶어지는… 그런 소통 방식을 가진 학교는 처음 봐서… 그런데 너무 무섭게 화내지는 않았으면… 나를 위한거라두…  
-<img src="images/image19.png" height="200">
+<img src="images/image19.png" height="200"> <br>
 
 2026/4/2 3:41PM\~7:35PM  
 i sincerely appreciate for Professor Philipp T. Meyer for being invaluable colleague with Professor Jae Sung Lee from the long time ago 🙇‍♀️And i also appreciate for the invaluable protections and lessons toward me as well. i appreciate the 릴리, the nickname you gave me, if i understood correctly, relieved my pains a lot, that i cannot forget.
@@ -237,10 +238,10 @@ Surely it takes longer time 🤔 to more genuinely understand their invaluable s
 It looks like there is more evidence of Professor Jae Sung Lee does not hate me\!\! Thanks SNMMI and KSNM for all of your responsibility, and i’m fine, thanks 😃\! 🙇‍♀️And i’m always appreciate all of their messages as i have said with my sincere respect 🙇‍♀️, no worry. i sincerely appreciate the protection and supervision from Professor Dilek as well\! Real genius as well 🥹Ah, of course Professor Bohyung Han’s as well\!\! 😭
 
 2026/3/31 8:25AM (images from Nano Banana): hope and disaster (-ing)  
-<img src="images/image7.png" height="200"><img src="images/image10.png" height="200">
+<img src="images/image7.png" height="200"><img src="images/image10.png" height="200"> <br>
 
 2026/3/30 9:54PM: UIUC 😆🩶(images from Nano Banana) (similar to 팬아트? lovely aspect of UIUC, and shared blue color of universities so…)  
-<img src="images/image20.png" height="200"><img src="images/image18.png" height="200">
+<img src="images/image20.png" height="200"><img src="images/image18.png" height="200"> <br>
 
 2026/3/30 1:44PM  
 신기한 일들이 일어나네웅… 꿈인가…? ??.. 하트 괜찮은거죠? ㅇㅁㅇ… 그렇게 이해했눙데… thank you to McMaster University for the protection for them\!\!
@@ -339,7 +340,7 @@ Dear Ewha, the stance of Google is not the UIUC’s as far as i studied. And dea
 2026/3/26 3:42PM: trigger warning (can be erased), but looks like many people already know this as well…  
 Regarding my mental health, i think i’ve have had depression for about 8 years although there might be the diagnostic confusion due to limited data of me and recently, i stop taking the pills. Although i experience acute pain (as far as i know, this is the somatic symptom of depression) or a panic attack … i think i’m better than the past and ok to the extent that i can endure the pains it will be better and i don’t like the pills always so i do not want to take the pills unless i feel urgent suicidal thought… (sorry for the ground truth), but fortunately, i’m healthy physically. And to evade from the mental pain, i have had the habit to cut myself to tranfer the somatic symptom of depression to physical pain because it was a lot better… i said honestly…
 
-<img src="images/image36.png" height="200">
+<img src="images/image36.png" height="200"> <br>
 Found this from UIUC
 
 2026/3/26 2:55PM  
@@ -486,7 +487,7 @@ Dear Beauvoir, did you know the detailed structures of XX, XY? How can you expla
 2026/3/20 9:49AM  
 i’m happy that i can understand more about the OWNERS and the Professor,  as i grow. And also happy that i can assume that they do not hate me thanks to the respectful help from many people. This is invaluable Hope.. And i realized again that there are many cases that look like an entity is speaking for some people, but it is not actually.. And as far as i understand so far, administrative authority looks really strong in Korea generally, i did not know that although i’m Korean. And looks hostile about respecting human rights that are built from tragic histories and constructive international collaboration among institutions, warmly embracing international students, progressing innovations, in several cases, but i do not know why because lots of knowledge is built from international interactions historically.   
 And this is one of the reasons that i have appreciated, and appreciate UIUC’s spirit as well. This kind of program can be uncomfortable and not beneficial for certain people, but i think this kind of direction is right and will protect the United States as well  in the long term point of view.  
-<img src="images/image28.png" height="200">
+<img src="images/image53.png" height="200"> <br>
 
 2026/3/19 9:39AM  
 And i never sell myself other than my research labor, who wants to buy other things of me, weird preference;; There may be the romantically loving relationships in the future such as the relationships that people call as boyfriend or girlfriend who must have weird preferences as well..-,.-;; i mean, i’m not the attractive and pretty class? No misunderstanding\~ i do not complain that i’m single cause i know my unattractiveness, hathat
