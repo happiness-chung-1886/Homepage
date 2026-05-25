@@ -47,7 +47,7 @@ Today’s Google I/O was awesome, giving me the hope and 설렘. In addition to 
 “Imagine there's no heaven”, “Imagine there's no countries”, “Imagine no possessions” “Nothing to kill or die for, and no religion, too”, and i imagine there is no race (distinction that divides people according to their approximated skin color category).
 
 2026/5/17 PM: In addition to AI and healthcare AI (or clinical AI) my respect and love for Nuclear Medicine continues as well\! 💙🧡💚🩷  
-<img src="images/image34.png" height="400"><img src="images/image54.png" height="200"> <br>
+<img src="images/image34.png" height="400"><img src="images/image54.png" height="400"> <br>
 i appreciate forever the invaluable supervision, lessons, advice as well 🙇‍♀️i was glad to find coincidentally the Nuclear Radiation Laboratory building at UIUC as well moving to new dormitory, the field where i grew. i sincerely appreciate and am grateful for the pioneers and leaders in Nuclear Medicine as well. 
 
 2026/5/17 AM  
