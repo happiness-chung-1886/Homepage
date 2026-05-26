@@ -12,9 +12,9 @@
 
 <br>
 
-2026/5/26 1:53PM: Navigating a current status of difficulties
+2026/5/26 1:53PM: Navigating a current status of difficulties <br>
 Due to the combination of factors, I have been under extreme stress and pressure recently. This has begun to manifest as physical pain, accompanied by sudden spikes in my blood pressure and heart rate during the day and night. These blood pressure spikes are new to me, which is causing me a great deal of anxiety. I thinke this would be ok, and this information is not misused. <br>
-<img src="images/image55.png" height="200"> <br>
+<img src="images/image55.jpeg" height="200"> <br>
 
 2026/5/23 12:01PM: This environment should be okay as well (source image from “Hidden Figures”)  
 <img src="images/image28.png" height="200">
