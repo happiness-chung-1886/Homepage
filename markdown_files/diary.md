@@ -27,7 +27,7 @@ Symptoms that I do not experience (https://www.nimh.nih.gov/sites/default/files/
 * Feeling like you are unusually important, talented, or powerful without evdidence<br>
 
 Medications that I have provided: Sertraline (Zoloft), Benzodiazepines (Xanax)
-* Side effect of Zoloft (https://www.ncbi.nlm.nih.gov/books/NBK547689/): syncope, lightheadedness, diarrhea, nausea, sweating, dizziness, xerostomia, confusion, hallucinations, tremor, somnolence, impotence, a disorder of ejaculation, fatigue, rhinitis, and female sexual disorder.
+* Side effect of Zoloft (https://www.ncbi.nlm.nih.gov/books/NBK547689/): syncope, lightheadedness, diarrhea, nausea, sweating, dizziness, xerostomia, confusion, hallucinations, tremor, somnolence, impotence, a disorder of ejaculation, fatigue, rhinitis, and female sexual disorder
 * Side effect of Xanax (https://pmc.ncbi.nlm.nih.gov/articles/PMC8629021/): dependency, extreme sedation, dizziness, and temporal cognitive impairment like anterograde amnesia
 * More information about it: https://www.nimh.nih.gov/health/topics/mental-health-medications <br>
 
