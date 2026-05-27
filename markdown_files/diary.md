@@ -13,7 +13,7 @@
 <br>
 
 2026/5/27 12:33PM: Preparing to visit the hospital to receive the pills (I hope this is useful for others as well!) <br>
-Symptoms that I experience (https://www.nimh.nih.gov/health/publications/depression)
+Symptoms that I experience (https://www.nimh.nih.gov/health/publications/depression):
 * During the daily life: Feelings of worthlessness, feeling lack of energy, sleep disturbances, unexplainable headaches, thinking about suicide, persistent worry,  feeling on edge
 * During panic attack: Intense fear accompanied by physical symptoms that include heart palpitations, shortness of breath, dizziness, tremor, a choking sensation, nausea, chills, paresthesias, blood pressure often rises significantly as a short-term response (https://pmc.ncbi.nlm.nih.gov/articles/PMC8101888/)
 * Recently, the frequency of panic attack and its severety are worsened<br>
@@ -24,7 +24,12 @@ Symptoms that I do not experience (https://www.nimh.nih.gov/sites/default/files/
 * Needing less sleep
 * Becoming easily distracted
 * Doing risky things, such as spending a lot of money
-* Feeling like you are unusually important, talented, or powerful without evdidence
+* Feeling like you are unusually important, talented, or powerful without evdidence<br>
+
+Medications that I have provided: Sertraline (Zoloft), Benzodiazepines (Xanax)
+* Side effect of Zoloft (https://www.ncbi.nlm.nih.gov/books/NBK547689/): syncope, lightheadedness, diarrhea, nausea, sweating, dizziness, xerostomia, confusion, hallucinations, tremor, somnolence, impotence, a disorder of ejaculation, fatigue, rhinitis, and female sexual disorder.
+* Side effect of Xanax (https://pmc.ncbi.nlm.nih.gov/articles/PMC8629021/): dependency, extreme sedation, dizziness, and temporal cognitive impairment like anterograde amnesia
+* More information about it: https://www.nimh.nih.gov/health/topics/mental-health-medications <br>
 
 2026/5/27 9:51AM <br>
 When i was younger, i sometimes heard in news that the perspective that political differences could justify violence, and it was often treated as just another viewpoint that made me frustrated. However, observing recent news in South Korea, i see a promising shift. People now appear to more clearly distinguish between political stances and fundamental ethics. i find this change to be very hopeful. <br>
