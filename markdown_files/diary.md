@@ -13,12 +13,12 @@
 <br>
 
 2026/5/27 12:33PM: Preparing to visit the hospital to receive the pills <br>
-Symptoms That I Experience (https://www.nimh.nih.gov/health/publications/depression)
+Symptoms that I experience (https://www.nimh.nih.gov/health/publications/depression)
 * During the daily life: Feelings of worthlessness, feeling lack of energy, sleep disturbances, unexplainable headaches, thinking about suicide, persistent worry,  feeling on edge
 * During panic attack: Intense fear accompanied by physical symptoms that include heart palpitations, shortness of breath, dizziness, tremor, a choking sensation, nausea, chills, paresthesias, blood pressure often rises significantly as a short-term response (https://pmc.ncbi.nlm.nih.gov/articles/PMC8101888/)
 * Recently, the frequency of panic attack and its severety are worsened<br>
 
-Symptoms That I Do Not Experience (https://www.nimh.nih.gov/sites/default/files/health/publications/bipolar-disorder/bipolar-disorder_0.pdf): 
+Symptoms that I do not experience (https://www.nimh.nih.gov/sites/default/files/health/publications/bipolar-disorder/bipolar-disorder_0.pdf): 
 * Feeling very up, high, or elated for no reason
 * Feeling jumpy or wired for no reason
 * Needing less sleep
