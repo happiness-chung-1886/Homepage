@@ -13,7 +13,7 @@
 <br>
 
 2026/5/27 3:49PM <br>
-About the usage of terminologies, "recipe" is a terminology that is used from various fields in scientific field as widely known. 
+About the usage of terminologies, "recipe" is a terminology that is used from scientific field as well, as widely known. 
 * Site: https://www.researchgate.net/figure/Process-manufacturing-example-recipes_tbl1_332763133, https://www.erpfocus.com/process-manufacturing-erp-formulas-recipes-2440.html, https://docs.sepasoft.com/articles/user-manual/what-is-a-machine-recipe, https://sgsystemsglobal.com/glossary/recipe-management-system/
 * Debenedetti, Edoardo, Vikash Sehwag, and Prateek Mittal. "A light recipe to train robust vision transformers." 2023 IEEE conference on secure and trustworthy machine learning (SaTML). IEEE, 2023.
 * Maddukuri, Abhiram, et al. "Sim-and-real co-training: A simple recipe for vision-based robotic manipulation." arXiv preprint arXiv:2503.24361 (2025).
