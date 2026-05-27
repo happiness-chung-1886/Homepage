@@ -4,7 +4,7 @@
 * **Contact Address**: hc101@illinois.edu / hb0522@snu.ac.kr / rhtn9088@ewhain.net / LinkedIn message <br>
 If you have any question, feel free to contact me :D
 
-<br><br>
+<br>
 
 ## Efforts for Safe Work Environment (editied in 5/27)
 * **Literal and direct communication**: I do not use hidden metaphors that are out of context of work or icebreaking small talk and I interpret other's expression in the same way. 
