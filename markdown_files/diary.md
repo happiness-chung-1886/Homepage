@@ -25,7 +25,7 @@ If the "recipe" is related to cooking, there is often the clarification and the 
 * Salvador, Amaia, et al. "Learning cross-modal embeddings for cooking recipes and food images." Proceedings of the IEEE conference on computer vision and pattern recognition. 2017.
 * Chen, Jing-Jing, et al. "Deep understanding of cooking procedure for cross-modal recipe retrieval." Proceedings of the 26th ACM international conference on Multimedia. 2018.<br>
 
-Therefore, i personally think that the usage of terminology "recipe" in AI projects following previous convention is not inappropriate considering the previous work. <br>
+Therefore, i personally think that the usage of terminology "recipe" in AI projects following previous convention is not inappropriate respecting the previous work. <br>
 
 
 2026/5/27 12:33PM: Preparing to visit the hospital to receive the pills (I hope this is useful for others as well!) <br>
