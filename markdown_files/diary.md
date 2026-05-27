@@ -12,7 +12,7 @@
 
 <br>
 
-2026/5/27 9:51AM
+2026/5/27 9:51AM <br>
 When i was younger, i sometimes heard the perspective that political differences could justify violence, and it was often treated as just another viewpoint that made me frustrated. However, observing recent news in South Korea, i see a promising shift. People now appear to more clearly distinguish between political stances and fundamental ethics. i find this change to be very hopeful. <br>
 
 2026/5/26 1:53PM: Navigating a current status of difficulties <br>
