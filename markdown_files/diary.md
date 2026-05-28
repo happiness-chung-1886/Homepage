@@ -19,8 +19,8 @@ This is a widely known phenomenon that persists today, but I believe we are seei
 
 2026/5/27 9:04PM: i'm with her as well, one of my childhood heros <br>
 She is brave, authentic, protective of minorities, and very smart and thoughtful. She has a diamond heart. i owe so much to her.
-If i remind her? OMG, that would be one of the greatest honors of my life!
-<img src="images/image56.jpeg" height="200"><img src="images/image28.jpg" height="200"><br>
+If i remind her? OMG, that would be one of the greatest honors of my life! <br>
+<img src="images/image56.jpeg" height="200"><img src="images/image57.jpeg" height="200"><br>
 
 2026/5/27 3:49PM <br>
 About the usage of terminologies, "recipe" is a terminology that is used from scientific field as well, as widely known. 
