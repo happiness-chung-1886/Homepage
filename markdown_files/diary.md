@@ -13,7 +13,7 @@
 <br>
 
 2026/5/27 9:13PM: How people erase minorities in the workplace <br>
-When observing news and history that i learned, i have found that society often commits violence against social minorities to an extent that they cannot withstand. In response to this violence, there are generally two options: staying quiet suffering irreversible mental/physical harm, or choosing to resist. <br>
+When observing news and history that i learned, i have found that society often commits violence against social minorities to an extent that they cannot withstand. In response to this violence, there are generally two options: staying quiet suffering from irreversible mental/physical harm, or choosing to resist. <br>
 When one resists, the violence often frames the victim as 'noise' or a 'threat', framing the resistance as an attack on the 'entire community'. Using this framing, the community erases the victim easily, effectively treating them as the aggressor. Even if the victim succeeds in proving the violence is unjust, the 'growth story' for the actual attacker often emerges, making them appear more visible and understandable, while simultaneously erasing the victim as a mere 'tool' for the attacker’s narrative. <br>
 This is a widely known phenomenon that persists today, but i see an era where this power slowly hits its limits, as an enlightened public moves toward a more ethical society as history has proved.<br>
 
