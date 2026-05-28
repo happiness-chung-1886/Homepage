@@ -12,6 +12,12 @@
 AI Disclosure: Image generated from Nano Banana, Gemini-Pro 3.0 <br>
 
 <br>
+**Proposal: Exploring Advanced Brain Structure for Physical AI** <br>
+<img src="images/image59.png" height="200">  <br>
+AI Disclosure: image generated from ideogram <br>
+It is widely known that the architecture of the neural networks are different from human or non-human animal's brain. To improve fundamental capability of neural network, there is a research direction of aligning neural networks with actual human brain architecture. And there are promising approaches to mimic the capability of human's cognitive capability. However, can we be certain that the actual brain structure is ideal for the advanced intelligence? Are their any limitations of actual biological brain? From this question, we can explor what is the key factor of the higher intelligence of human brain and their limitations. Based on this observation, we can design and build advanced neural networks that are grounded on the current neural networks and actual human brain. For the safety, the logical foundation of this refinement "brain design" should be explainable, based on formal verification. Combined with the "super-human" humanoid that are different from human body but has advanced capability with advanced architecture, this direction of research can boost the convinience, safety of life of the lives in the universe and further increase efficiency of their performance. Regarding the ethical consideration, inspired from the cars, and airplanes, the objective of the builder of this advanced neural architecture and "super-human" humanoid must be discussed in public and verified from experts from diverse fields in both academia and industry. <br>
+
+<br>
 
 <img src="images/image41.png" height="300"><img src="images/image45.png" height="300"> <br>
 **Dream Robot Design 💚: Will You Placate me in the Painful and Panicful Night 🌙? (May 2026)** <br>
