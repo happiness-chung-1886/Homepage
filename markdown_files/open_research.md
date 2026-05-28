@@ -12,6 +12,7 @@
 AI Disclosure: Image generated from Nano Banana, Gemini-Pro 3.0 <br>
 
 <br>
+
 <img src="images/image59.jpeg" height="200"> <br>
 **Proposal: Exploring Advanced Brain Structure for Physical AI (May 2026)** <br>
 AI Disclosure: image generated from ideogram <br>
