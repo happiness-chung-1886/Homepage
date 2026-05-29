@@ -8,7 +8,7 @@ AI Disclosure: Gemini-Pro 3.0 gave the feedbacks, image generated from ChatGPT, 
 
 **Motion Editing: MysticMorphor** <br>
 <img src="images/image58.png" height="400"> <br>
-Preprinted under the official approvement
+Preprinted under the official approvement <br>
 Github: https://github.com/Happiness-Chung/VE/tree/main <br>
 [https://drive.google.com/drive/folders/1eOTmBH0bpvLPsvMHXW6MCozLGSMvNtXe?usp=drive_link](https://drive.google.com/drive/folders/1eOTmBH0bpvLPsvMHXW6MCozLGSMvNtXe?usp=drive_link)
 
