@@ -12,6 +12,10 @@
 
 <br>
 
+2026/5/29 11:43AM: Medical record <br>
+After taking Xanax, my biosignals became better. <br>
+<img src="images/image65.jpeg" height="200"><img src="images/image66.jpeg" height="200"> <br>
+
 2026/5/29 11:01AM: "Survivor" or "Winner"? <br>
 Of course from the different and independent context of previous entries, i'm always with the victims survived from violences refusing them from labeled as "winner" and the attacker as a "loser" that erases victims' actual damage and pain. This is totally different from the academic debates. This erase the unethical attacks reversing the attacker's position as a minority and "loser" who need protection and empathy. Remembering the lesson, there should be the logical evidence beyond the argument "something is something'", agreeing that this is closer to framing. i endorse the survivors' from unethical attacks deserve safe, peaceful life, and career achievement of course, out of the box of "피해자다움" as well. <br>
 
