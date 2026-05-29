@@ -14,6 +14,7 @@
 
 2026/5/29/26 3:15PM <br>
 If i see the "Google Drive Help Desk" i can easily find there are postings saying that the archived files are deleted unexpectedly or deprecated for unknown reason. In addition, also i can find the open-sources archived in could services are disabled to access. After the same experience, i recommend archiving important files more safely with several backups in various safe locations in addtion to the could services. Although the cloud services are definitely useful, i think entirely relying on this is dangerous. And if you lost your research results or other files that are your precious assets? i understand the frustration, and this is not your fault. i believe you, you are not alone. <br>
+Refere to: https://docs.cloud.google.com/ <br>
 
 2026/5/29 11:43AM: Medical record <br>
 After taking Xanax, my biosignals became better. <br>
@@ -54,6 +55,7 @@ Therefore, i personally think that the usage of terminology "recipe" in AI proje
 
 
 2026/5/27 12:33PM: Preparing to visit the hospital to receive the pills (I hope this is useful for others as well!) <br>
+Maintenance therapy (or treatment) and dependency is entirely different from Substance Use Disorder(SUD). Think about diabetes. There should be no malicious stigma related to mental health, so people can recieve appropriate medication and treatment as soon as possible.<br>
 Symptoms that I experience (https://www.nimh.nih.gov/health/publications/depression):
 * During the daily life: Feelings of worthlessness, feeling lack of energy, sleep disturbances, unexplainable headaches, thinking about suicide, persistent worry, feeling on edge
 * During panic attack: Intense fear accompanied by physical symptoms that include heart palpitations, shortness of breath, dizziness, tremor, a choking sensation, nausea, chills, paresthesias, blood pressure often rises significantly as a short-term response (https://pmc.ncbi.nlm.nih.gov/articles/PMC8101888/)
