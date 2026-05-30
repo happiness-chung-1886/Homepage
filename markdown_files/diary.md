@@ -13,7 +13,7 @@
 <br>
 
 2026/5/30 11:21AM: Another thought I’ve been reflecting on: <br>
-I've personally thought about it, and if a large organization were to find value in an open research that I proposed, I do not think there would be any reason for them to engage in irrational favoritism toward me, although their recognition of my ideas would be a tremendous honor.<br>
+I've personally thought about it, and if an organization were to find value in an open research that I proposed, I do not think there would be any reason for them to engage in irrational favoritism toward me, although their recognition of my ideas would be a tremendous honor.<br>
 As far as I understand, organizations ultimately have a responsibility to make decisions based on their own mission, values, and responsibilities, not only for themselves but also for the broader society they commit. At the same time, different organizations may prioritize different values.<br>
 In fact, I would consider it innovative and admirable if they focused on scientific progress itself rather than authority, seniority, status, or position. And if an organization and I happen to share similar values, working together to move the progress forward would be the good news for the organization, me, and for the progress of course, why not? To better contribute to society, I believe that studying ideas, reflecting critically on what is worth pursuing, and engaging with knowledge in good faith can help both science and society move forward, even if only in a small way.<br>
 
