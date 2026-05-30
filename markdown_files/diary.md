@@ -13,7 +13,7 @@
 <br>
 
 2026/5/30 12:52AM: Clarification<br>
-I cancled sycophancy related posting to prevent misundertanding (I think this is insightful) to further clarify. And I understood bridge-out, build-out, and eye-out based on the context <br>
+I canceled the post related to sycophancy to prevent misunderstanding (I think this is insightful) to further clarify. And I understood bridge-out, build-out, and eye-out based on the context <br>
 
 2026/5/30 11:21AM: Another thought I’ve been reflecting on: <br>
 I've personally thought about it, and if an organization were to find value in an open research that I proposed, I do not think there would be any reason for them to engage in irrational favoritism toward me, although their recognition of my ideas would be a tremendous honor.<br>
