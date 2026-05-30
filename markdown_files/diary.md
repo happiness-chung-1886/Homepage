@@ -12,7 +12,7 @@
 
 <br>
 
-2026/5/30 12:52AM: Clarification
+2026/5/30 12:52AM: Clarification<br>
 I cancled sycophancy related posting to prevent misundertanding (I think this is insightful) to further clarify. And I understood bridge-out, build-out, and eye-out based on the context <br>
 
 2026/5/30 11:21AM: Another thought I’ve been reflecting on: <br>
