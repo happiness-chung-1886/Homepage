@@ -13,7 +13,7 @@
 <br>
 
 2026/5/31 : After Participating Patient Education Day from SNMMI <br>
-Learning the medical knowledge was much more interesting than I expected. Although I'm experiencing worsened mental and physical pains, learning always gives me the hope. It would be great to have more lectures about disease diagnosis with patient metadata and medical images, therefore, people can apply it into their respective research although it looks not easy. If AI can serve those functions, it would be good as well. <br>
+Learning the medical knowledge was much more interesting than I expected. Although I'm experiencing worsened mental and physical pains, learning always gives me the hope. It would be good to have more lectures about disease diagnosis with patient metadata and medical images, therefore, people can apply it into their respective research although it looks not easy. If the AI can execute those functions, it would be good as well. <br>
 I think that high-fidelity simulation environments for clinical research (encompassing medicine itself and hardware) could be very helpful for researchers as well. Accurately reconstructing real-world physics, including medical physics, looks difficult, but I hope such simulations become available in the near future. If learning how to build good research becomes easier and the verification of its findings become more transparent and automated, we may be able to accelerate the scientific progress. <br>
 
 <br>
