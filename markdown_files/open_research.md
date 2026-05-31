@@ -70,6 +70,14 @@ For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) <br
 
 ## Brainstorming
 
+<img src="images/image68.jpg" height="200"><img src="images/image69.jpg" height="200"><br>
+**One of the Future Directions of Theranostics (May 2026)**<br>
+Inspired under SNMMI Patient Education Day <br>
+I think one future direction of theranostics in nuclear medicine is the invention of a “single-agent theranostic” beyond ligand-matched theranostic pairs that enables both diagnosis via simultaneous PET-related imaging and therapy.To achieve this goal, designing, constructing, and building a novel tracer that is effective for both imaging and therapeutic purposes could be a promising starting point. <br>
+Such an approach may facilitate real-time treatment monitoring thereby reducing the time required for the entire clinical procedure and potentially reducing unnecessary radiation exposure to normal organs while maintaining or boosting therapeutic efficacy.<br>
+
+<br>
+
 **The Possibility of Medical Image Superresolution (May 2026)** <br>
 Inspired under Professor Fei-Fei Li and Professor Simon Cherry <br>
 Superesolutions in the natural images and PET images would share the common characteristic that they generate hardware that does not exist before. And i learned that the number of detectors in a PET is more than 500,000 (a lot more than i expected) according to the open lecture from Professor Simon Cherry ([https://www.kcl.ac.uk/events/inaugural-lecture-professor-simon-cherry](https://www.kcl.ac.uk/events/inaugural-lecture-professor-simon-cherry)). Then, the superresolution of a PET image that does not severely distort the initial shape looks quite possible. Thinking about modality translation research between CT and MRI are executed although they are different medical modalities, the superresolution conventionally regarded as impossible may also be possible. <br>
