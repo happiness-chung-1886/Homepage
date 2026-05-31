@@ -16,19 +16,13 @@
 Learning the medical knowledge was much more interesting than I expected. Although I'm experiencing worsened mental and physical pains, learning always gives me the hope. It would be good to have more lectures about disease diagnosis with patient metadata and medical images, therefore, people can apply it into their respective research although it looks not easy. If the AI can execute those functions, it would be good as well. <br>
 I think that high-fidelity simulation environments for clinical research (encompassing medicine itself and hardware) could be very helpful for researchers as well. Accurately reconstructing real-world physics, including medical physics, looks difficult, but I hope such simulations become available in the near future. If learning how to build good research becomes easier and the verification of its findings become more transparent and automated, we may be able to accelerate the scientific progress. <br>
 
-<br>
-
 2026/5/30 12:52AM: Clarification<br>
 I canceled the post related to sycophancy to prevent misunderstanding (I think this is insightful) to further clarify. And I understood bridge-out, build-out, and eye-out based on the context <br>
-
-<br>
 
 2026/5/30 11:21AM: Another thought I’ve been reflecting on: <br>
 I've personally thought about it, and if an organization were to find value in an open research that I proposed, I do not think there would be any reason for them to engage in irrational favoritism toward me, although their recognition of my ideas would be a tremendous honor.<br>
 As far as I understand, organizations ultimately have a responsibility to make decisions based on their own mission, values, and responsibilities, not only for themselves but also for the broader society they commit. At the same time, different organizations may prioritize different values.<br>
 In fact, I would consider it innovative and admirable if they focused on scientific progress itself rather than authority, seniority, status, or position. And if an organization and I happen to share similar values, working together to move the progress forward would be the good news for the organization, me, and for the progress of course, why not? To better contribute to society, I believe that studying ideas, reflecting critically on what is worth pursuing, and engaging with knowledge in good faith can help both science and society move forward, even if only in a small way.<br>
-
-<br>
 
 2026/5/30 8:29AM <br>
 What I'm thinking about more firmly, personally (unrelated to others), is that I must not misuse others' benevolent trust, dependency, and respect as tools to find their weaknesses and unethically attack them for my benefit.<br>
