@@ -75,7 +75,7 @@ For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) <br
 Inspired under SNMMI Patient Education Day <br>
 AI Disclosure: image generated from ideogram <br>
 I think one future direction of theranostics in nuclear medicine is the invention of a “single-agent theranostic” beyond ligand-matched theranostic pairs that enables simultaneous diagnosis via PET-related imaging and therapy.To achieve this goal, designing, constructing, and building a novel tracer that is effective for both imaging and therapeutic purposes could be a promising starting point. <br>
-Such an approach may facilitate real-time treatment monitoring thereby reducing the time required for the entire clinical procedure and potentially reducing unnecessary radiation exposure to normal organs while maintaining or boosting therapeutic efficacy.<br>
+Such an approach may facilitate real-time treatment monitoring thereby reducing the time required for the entire clinical procedure potentially reducing unnecessary radiation exposure to normal organs while maintaining or boosting therapeutic efficacy.<br>
 
 <br>
 
