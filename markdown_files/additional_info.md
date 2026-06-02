@@ -1,4 +1,4 @@
-edited (2026/5/16)
+edited (2026/6/2)
 
 🌟 **i’m not the mouth of anyone but i’m learner under the supervision of the OWNERS and the Professor  as well as my position as a student. And i appreciate the Professors’ invaluable lessons as well** 🙇‍♀️  
 🌟 The order of emojis that i use is meaningless, and these are metaphors        
