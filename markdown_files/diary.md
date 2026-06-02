@@ -12,6 +12,9 @@
 
 <br>
 
+2026/6/2 6:05PM <br>
+When i was younger, in a TV program, a person (one of my childhood hero) posed ✌️ during the program. Then, another person negatively talked about posing ✌️ strongly as i feel. To me, a person who posed ✌️ looked intimidated. i'm still failing to understand why ✌️ is wrong or other casual poses. i've failed to learn ✌️ or other poses is unethical in the officail context. But i thought i have to say sorry if people don't like it as well. If there are people who think ✌️ or other poses are ok, i hope the scar of the person maybe a bit more heale even though it maybe a lot late. <br>
+
 2026/5/31 : After Participating Patient Education Day from SNMMI <br>
 Learning the medical knowledge was much more interesting than I expected. Although I'm experiencing worsened mental and physical pains, learning always gives me the hope. It would be good to have more lectures about disease diagnosis with patient metadata and medical images, therefore, people can apply it into their respective research although it looks not easy. If the AI can execute those functions, it would be good as well. <br>
 I think that high-fidelity simulation environments for clinical research (encompassing medicine itself and hardware) could be very helpful for researchers as well. Accurately reconstructing real-world physics, including medical physics, looks difficult, but I hope such simulations become available in the near future. If learning how to build good research becomes easier and the verification of its findings become more transparent and automated, we may be able to accelerate the scientific progress. <br>
