@@ -13,7 +13,7 @@
 <br>
 
 2026/6/2 9:46PM <br>
-Although i do not know about the field, but i personally endorse bioprinting. This technology could enable organ transplants without the need for donors, eliminate the need to slaughter animals (of course non-human animals considering reality) for meat, and potentially foster safer and more ethical approaches to in vitro pregnancy. And thinking about precise simulation, discerning stochastical things and non-stochastical things may be helpful for its implementation.<br>
+Although i do not know about the field, but i personally endorse bioprinting. This technology could enable organ transplants without the need for donors, eliminate the need to slaughter animals (of course non-human animals considering reality) to obtain meat, and potentially foster safer and more ethical approaches to in vitro pregnancy.<br>
 
 2026/6/2 6:05PM <br>
 When i was younger, in a TV program, a person (one of my childhood heros) posed ✌️ during the program. Then, another person negatively talked about posing ✌️ strongly as i feel. To me, a person who posed ✌️ looked intimidated. i'm still failing to understand why ✌️ or other casual poses are wrong. Maybe i've failed to learn ✌️ or other poses is unethical in the official context. i thought i have to say sorry if people don't like it as well. If there are people who think ✌️ or other poses are ok, i just hope the scar of the person maybe a bit more healed even though it maybe a lot late. <br>
