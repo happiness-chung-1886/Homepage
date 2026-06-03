@@ -33,12 +33,13 @@ AI Disclosure: Images generated from Nano Banana, Gemini-Pro 3.0 <br>
 
 <br>
 
-**Proposal: Realistic and Non-Invasive Simulations** <br>
+**Proposal: Realistic and Non-Invasive Simulations (May 2026)** <br>
 Inspired under Professor Andrew Ng, Professor Bohyung Han, Professor D. Livingston McPherson, Professor Dilek Hakkani-Tur, Professor Fei-Fei Li, Professor Jae Sung Lee (Alphabetical order, which has no meaning, and additional names may be added) |  Google Deepmind <br>
 AI Disclosure: Gemini-Pro 3.0 gave the feedbacks to my ideas <br>
 Simulation frameworks such as Unity simulates various physics-based simulations efficiently, demonstrating its strong potential for the digital-twin AI hospital that can enable simulating a wide range of interactions such as  patient treatments, medical device construction, and biological experiments. Enhancing Unity with AI-Powered prefabs and detailed physics law based on physics neural networks (PNN) can replace animal experiment by simulating the biological mechanisms. This can increase entire efficiency via fast computing while saving lives of animals leveraged for the experiments. To realize this, novel methodologies look integral.   <br>
 AI-powered prefab generation: generate 3D objects then apply segmentation for dividing each object for each segment, classify their types and what kind of physics rules should be applied then the pre-defined physics law of the simulation framework  is applied to the objects respectively.   <br>
 Detailed physics law application: if the segments require currently implemented physics law, it can be solved via classification, if not, such as for the cases of atomic scale particles movements, reconstructing the path of rays, and complicated chemical reactions, new implementations of physics law can be applied via finding their physics law leveraging PNN trained from the various observation data.<br>
+And thinking about precise simulation, discerning stochastical things and non-stochastical things may be helpful for its implementation.<br>
 
 <br>
 
