@@ -12,6 +12,15 @@
 
 <br>
 
+2026/6/3 10:51AM: About ethics <br>
+i think "there is no malicious intention" is rather more dangerous in many cases when it is related to ethics (this is related to but different from policy or rule). And "the mediocrity of evil" should not erase the victims. <br>
+
+2026/6/3 10:34AM: About research area <br>
+If the goal and functions of a study is diverse, i think we do not have to strictly divide the work in a single acedemic field. For example, i think based on the finding's functions and goals, those findings about LMMs can be included in the several academic fields such as general "AI", "Medical AI" (sub-area of general AI as far as i understand), and "Medicine", (independent from "AI") simulataneously as well (i mentioned these just because i'm interested in these acedemic fields, but of course i sincerely respect other academic fields). Maybe one day, AI would be acknowledged as a broad academic fields such as science and medicine. And i've thought and thinking the products related to AI is not AI itself. <br>
+
+2026/6/3 10:27AM: About terminologies <br>
+As far as i know, because physics (including medical physics) is one of the grounds of AI and there is a work such as PNN, i personally think "Embodied AI" is more precise terminology for the intersection of robotics and AI. In addition, i understood "Generative AI" includes "Generative Model".<br>
+
 2026/6/2 9:46PM <br>
 Although i do not know about the field, but i personally endorse bioprinting. This technology could enable organ transplants without the need for donors, eliminate the need to slaughter animals (of course non-human animals considering reality) to obtain meat, and potentially foster safer and more ethical approaches to in vitro pregnancy.<br>
 
