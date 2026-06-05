@@ -13,7 +13,7 @@
 <br>
 
 2026/6/5 12:01PM <br>
-About the terminology of "world model" i'm not sure but recently i think this terminology is closer to the point-of-view of "AI"'s progress rather a category, because all the trained neural networks have a proportion of "knowledge" that the definition of "world model" requres. In the point of view, maybe categorizing the "world model" is similar to the mechanism that categorizing "AI", "AGI", and "ASI". <br>
+About the terminology of "world model" i'm not sure but recently i think this terminology is closer to the point-of-view of "AI"'s progress rather a category, because all the trained neural networks have a proportion of "knowledge" that the definition of "world model" requres. In the point of view, maybe categorizing the "world model" is similar to the mechanism that categorizing "AI", "AGI", and "ASI". But also to this terminologies.. i think these are too broad considering there are various aspects of intelligence such as memorizing capability, sensing capabilities, the reasonings capabilities, embodied action capabilities and more. In the memorizing capabilities, it looks obvious that we are in "ASI" era. But in terms of empodies action capabilities, it looks not even "AGI" yet. <br>
 
 2026/6/5 11:53AM <br>
 i personally think that all the licenses do not guarantee the expertise in other areas that are not required to know to obtain the license. It is deeply frustrating to witness instances in the news where professional licenses are weaponized or misused in unethical ways as a citizen as well. <br>
