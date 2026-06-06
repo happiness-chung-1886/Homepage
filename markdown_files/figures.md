@@ -4,6 +4,15 @@
 🌟The order of figures follows Alphabetical order, which has no meaning🌟
 </div>
 
+
+<img src="images/image71.png" height="200"><img src="images/image72.png" height="200"><br>
+Albert Einstein <br>
+1879 - 1955, German -> Stateless -> Switzerland -> German -> Prussia -> United States<br>
+Was against the atomic bomb <br>
+<div style="font-size: 7px;  margin-bottom: 100px;">
+(Reference: https://en.wikipedia.org/wiki/Albert_Einstein)
+</div>
+
 <img src="images/image39.png" height="400"> <br>
 Alan Mathison Turing  <br>
 1912 - 1954, United Kingdom  <br>
