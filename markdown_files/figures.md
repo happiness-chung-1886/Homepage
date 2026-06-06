@@ -32,7 +32,7 @@ Discovered Alzheimer's Dementia <br>
 
 <img src="images/image33.png" height="400"> <br>
 Hannah Arendt<br>
-1906 - 1975, Germany -> Prussia -> [Stateless](https://en.wikipedia.org/wiki/Statelessness) -> United States<br>
+1906 - 1975, Germany -> Prussia -> Stateless -> United States<br>
 Eichmann in Jerusalem: A Report on the Banality of Evil <br>
 <div style="font-size: 7px;  margin-bottom: 100px;">
 (Reference: https://en.wikipedia.org/wiki/Hannah\_Arendt)
