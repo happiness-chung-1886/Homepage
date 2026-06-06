@@ -12,6 +12,10 @@
 
 <br>
 
+2026/6/6 6:46PM <br>
+네 손이 일을 얻는 대로 힘을 다하여 할지어다 네가 장차 들어갈 스올에는 일도 없고 계획도 없고 지식도 없고 지혜도 없음이니라 (전도서 9:10) <br>
+마음이 안정되는 성경 구절을 발견했다!❤️ 그저 내가 좋아하는 공부를 할 수 있음을 평생 감사하고 사랑하고싶다.<br>
+
 2026/6/5 5:16PM <br>
 What is the definition of computer? In the course that was led from Professor Bohyung Han, I remember one of the sudents presented that quantum computer does not need to be the typical shape of computer that we used to know that functions with mouse, keyboard, and more. If a glass recieves inputs, process the inputs (thinking), and outputs information, is it glass or computer? Or both? Hmm... And robot is similar, when the machine starts to recieve inputs, process them (thinking), and then outputs something, what is it? Conventional robot could not think as far as I know.. I'm a bit confused...<br>
 
