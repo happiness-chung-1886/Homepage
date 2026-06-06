@@ -5,7 +5,7 @@
 </div>
 
 
-<img src="images/image71.png" height="200"><img src="images/image72.png" height="200"><br>
+<img src="images/image71.jpeg" height="200"><img src="images/image72.png" height="200"><br>
 Albert Einstein <br>
 1879 - 1955, German -> Stateless -> Switzerland -> German -> Prussia -> United States<br>
 Was against the atomic bomb <br>
