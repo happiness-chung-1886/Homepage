@@ -9,7 +9,7 @@
 Albert Einstein <br>
 1879 - 1955, German -> Stateless -> Switzerland -> German -> Prussia -> United States<br>
 Was Against The Atomic Bomb. <br>
-(The Meaning of the Photos of Albert Einstein: The Professor Was Even Greater Than The Professor's Work.) <br>
+(The Meaning Of The Photos of Albert Einstein: The Professor Was Even Greater Than The Professor's Work.) <br>
 <div style="font-size: 7px;  margin-bottom: 100px;">
 (Reference: https://en.wikipedia.org/wiki/Albert_Einstein)
 </div>
