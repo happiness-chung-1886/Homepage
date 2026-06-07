@@ -12,6 +12,9 @@
 
 <br>
 
+2026/6/7 11:39AM<br>
+Hazards of embodied agent OMG... i just read the paper..pls make the protection solution...as quickly as possible;;TT;;<br>
+
 2026/6/7 9:21AM <br>
 I found that the evaluation framework for report generation is similar to my recent work of head and neck cancer diagnostic assistance via LMM and other advanced metrics, that is quite a relief honestly 💦 However, I remain convinced that being a board-certified radiologist does not inherently guarantee expertise across all the license-related tasks, nor does it guarantee absolute integrity related to intentional misdiagnosis or gatekeeping. The 실질적인 specific expertise should be focused on to verify the expertise at least as far as i worry. This is precisely why I believe democratizing diagnostic and other knowledge including medicine is the most important—to better protect patients and research. The degree of mine is no exception as well. The degree itself does not guarantee other than the its minimum requirement to obtain it. The declaration of "something is something" based on the authority without rational and scientific evidence 막아야됩니다 (should be stopped) even though it will ultimately eliminate me in the future because of the self-contradiction. Searching through the news frequently reveals recurring unethical practices within medical institutions. And if ask people "Why do you want to be a "Medical Expert"?", the frequent answer is not "To save lives" sadly.. apart from it, I keep remind myself that I should not aim to achieve the "success" attained through unethical behaviors.<br> 
 
