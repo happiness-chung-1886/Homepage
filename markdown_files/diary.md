@@ -12,6 +12,12 @@
 
 <br>
 
+2026/6/7 9:21AM <br>
+I found that the evaluation framework for report generation is similar to my recent work of head and neck cancer diagnostic assistance via LMM and other advanced metrics, that is quite a relief honestly 💦 However, I remain convinced that being a board-certified radiologist does not inherently guarantee expertise across all the license-related tasks, nor does it guarantee absolute integrity related to intentional misdiagnosis or gatekeeping. The 실질적인 specific expertise should be focused on for the expertise at least as far as i worry. This is precisely why I believe democratizing diagnostic and other medical knowledge is the most important—to better protect patients and esearch. Searching through the news frequently reveals recurring unethical practices within medical institutions. And if ask people "Why do you want to be a "Medical Expert"?", the frequent answer is not "To save lives" sadly.. apart from it, I keep remind myself that I should not aim to achieve the "success".<br> 
+
+2026/6/7 9:19AM <br>
+After running Lean 4, I realized that the translation from an algorithm to mathematical equations must be rigorously verified as publically as possible. Talking 'We verified our method via formal verification' looks not enough to me. <br>
+
 2026/6/7 8:05AM <br>
 As far as i understand, JEPA bring coarse teacher-forcing in the inference as well rather than the autoregressive to prevent the error-propagation , that is correct? To robustly prevent self-contradiction and to refine limited window size of the context and the output, harmonizing with the autoregressive may one of the options that can be explored..? Hmm... i'm not sure.. and if there is a more efficient model architecture, that would be always a good news<br>
 
