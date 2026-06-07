@@ -12,6 +12,9 @@
 
 <br>
 
+2026/6/7 8:05AM <br>
+As far as i understand, JEPA bring coarse teacher-forcing in the inference as well rather than the autoregressive, that is correct? To robustly prevent self-contradiction and to refine limited window size of the context and the output, harmonizing with the autoregressive may one of the options that can be explored..? Hmm... i'm not sure..<br>
+
 2026/6/6 6:46PM <br>
 네 손이 일을 얻는 대로 힘을 다하여 할지어다 네가 장차 들어갈 스올에는 일도 없고 계획도 없고 지식도 없고 지혜도 없음이니라 (전도서 9:10) <br>
 마음이 안정되는 성경 구절을 발견했다!❤️ 그저 내가 좋아하는 공부를 할 수 있음을 평생 감사하고 사랑하고싶다.<br>
