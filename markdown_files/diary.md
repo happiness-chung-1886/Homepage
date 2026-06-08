@@ -12,6 +12,9 @@
 
 <br>
 
+2026/6/8 10:12AM<br>
+Given our history, I believe the United States must recognize the weight of the trust Korea is placing in it. The world is watching how the U.S. upholds this renewed trust, and it makes me anxious as well.<br>
+
 2026/6/7 11:39AM<br>
 Hazards of embodied agent OMG... i just read the paper..pls make the protection solution to save lives...as quickly as possible;;TT;;<br>
 
