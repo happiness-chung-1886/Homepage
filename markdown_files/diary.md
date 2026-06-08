@@ -13,7 +13,7 @@
 <br>
 
 2026/6/8 10:37AM<br>
-The word choice in this diary is not related to any name of all the people, so the usage of words should not be misused arbitrarily.<br>
+The word choice in this diary is not related to any name of all the people, so the usage of words should not be misinterpreted arbitrarily.<br>
 
 2026/6/8 10:12AM<br>
 Given our history, I believe the United States must recognize the weight of the trust Korea is placing in it. The world is watching how the U.S. upholds this renewed trust, and it makes me anxious as well.<br>
