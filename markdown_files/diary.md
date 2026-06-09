@@ -12,6 +12,9 @@
 
 <br>
 
+2026/6/9 11:41AM<br>
+i undertand if 2D computer vision would focus on the perception (i think this is strongly related to the genuine safety for all lives) and optimization (grounding role for 3D) and i see there would be 3D computer vision studies related to generating real or the hallucinated world may monopolize the generation part along with the incredibly enhanced computing power. <br>
+
 2026/6/8 10:37AM<br>
 The word choice in this diary is not related to any name of all the people as well drifted from context, so the usage of words should not be misinterpreted arbitrarily.<br>
 
