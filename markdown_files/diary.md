@@ -12,6 +12,9 @@
 
 <br>
 
+2026/6/10 6:53PM <br>
+i hope i can be directly supervised for publishing a new paper under Professor Bohyung Han one day, and i appreciate the Professor's generous lessons as well. <br>
+
 2026/6/9 7:10PM<br>
 B2B는 효율적인 오픈소스 모델이 프라이버시 때문에 앞으로 점점 필수적일수 밖에 없을 것 같고 일반 소비자들한테는 SaaS 방식이든 API방식이든 기존의 commercial LMM들이 수요가 계속 있을 것 같아요 사용성 때문에? 그리고 GPU를 제작 해 주시는 회사들이 다른 계열의 기술들에 투자를 하는거가 먼 미래를 생각 해 보면 생존을 위해서 피할 수 없는 선택일 것 같기도 해요 제가 잘 모르지만 제가 보기에도?.. 이런 저런 사례들을 보면 시장 진입에 늦은 때는 없는것 같기도 해요 기술은 독점이 진짜 위험한 것 같아서요 ㅜㅜ 이화에 재학 중일 때 김현수 교수님께서 이끌어주신 세미나 수업에서 인공지능 기반의 4차 산업 혁명에 대해서 배웠는데요, 이런 큰 혁신을 이끌어내려면 기존의 페러다임을 공고화 하기 보다는 먼 미래에 결국 어떤 가치들이 결국 사회를 이끌지 생각하면 도움이 되는 것 같다고 생각 해 보면서 4차 산업 혁명을 이해했습니다! 역사의 흐름을 거시적 관점에서 보면 단기적 이익보다는 장기적 관점에서의 공리주의의 방향으로 (expanded humanity, ethics rather than power, valuing evidence based rational verifications rather than authority, context based communication...) 가는 것 같아요 잘 모르지만 제가 배우고 관찰한 바에 따르면요! 그런데 제가 더 배우면서 물론 생각이 달라질 수 있어서 그냥 하나의 순간의 기록으로 가볍게 여겨주시면 감사드립니다!<br>
 
