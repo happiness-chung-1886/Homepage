@@ -13,7 +13,7 @@ AI Disclosure: Image generated from Nano Banana, Gemini-Pro 3.0 <br>
 
 <br>
 
-**Uncertainty-Aware Positron-Emission-Tomography (PET) Super-Resolution**
+**Uncertainty-Aware Positron-Emission-Tomography (PET) Super-Resolution**<br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
 Positron Emission Tomography (PET) inherently reconstructs a radiotracer distribution from stochastic decay and detection events, making image formation a statistical inverse problem rather than a direct measurement process. While recent deep learning–based PET super-resolution methods have demonstrated promising visual improvements, concerns remain regarding quantitative reliability and the potential introduction of artificial uptake patterns. <br>
 We hypothesize that these limitations can be substantially mitigated through large-scale data-driven training and physics-informed learning frameworks that explicitly incorporate PET acquisition constraints, including detector physics, Time-of-Flight (TOF) information, attenuation, and scatter models to prevent the severe distortion. Rather than generating new anatomical or metabolic structures, the proposed approach aims to recover and enhance existing stochastic hypermetabolic signals while preserving quantitative biomarkers such as SUV. <br>
