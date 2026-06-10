@@ -13,6 +13,14 @@ AI Disclosure: Image generated from Nano Banana, Gemini-Pro 3.0 <br>
 
 <br>
 
+**Uncertainty-Aware Positron-Emission-Tomography (PET) Super-Resolution**
+AI Disclosure: Feedback recieved from CharGPT<br>
+Positron Emission Tomography (PET) inherently reconstructs a radiotracer distribution from stochastic decay and detection events, making image formation a statistical inverse problem rather than a direct measurement process. While recent deep learning–based PET super-resolution methods have demonstrated promising visual improvements, concerns remain regarding quantitative reliability and the potential introduction of artificial uptake patterns. <br>
+We hypothesize that these limitations can be substantially mitigated through large-scale data-driven training and physics-informed learning frameworks that explicitly incorporate PET acquisition constraints, including detector physics, Time-of-Flight (TOF) information, attenuation, and scatter models to prevent the severe distortion. Rather than generating new anatomical or metabolic structures, the proposed approach aims to recover and enhance existing stochastic hypermetabolic signals while preserving quantitative biomarkers such as SUV. <br>
+Future work can be expanded to uncertainty-aware and quantification-preserving PET resolution recovery beyond precision imaging considering the inherent stochastic nature of PET imaging, with rigorous validation with the ground truth images (reference images) that can be generalizable across diverse scanners, institutions, patient demographics, hyper-parameter settings, tracers to ensure clinical reliability efficiency. The evaluation framework may can be built as follows: executing AI-based super-resolution in various timing resolutions (for example: 500ps -> 200ps / 200ps -> 100ps / 100ps ->50ps) on the same TOF-PET image obtain from a single patient at the same status (within several hours or days based on affordability), then compare their consistency and performances. If the enhanced images are well aligned with the ground truth, we may can expected to be applied to the PET with the best timing resolution to obtain inexistent higher-resolution PET images. <br>
+
+<br>
+
 <img src="images/image67.jpeg" height="200"> <br>
 **Mitigating The Trade-Off Between Sovereign Physics Engine And Real-World Physics Principles (May 2026)**<br>
 AI Disclosure: image generated from ideogram <br>
