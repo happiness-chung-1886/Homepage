@@ -12,6 +12,9 @@
 
 <br>
 
+2026/6/9 7:10PM<br>
+B2B 기업용으로는 효율적인 오픈소스 모델이 프라이버시 때문에 앞으로 점점 필수적일수 밖에 없을거 같고 일반 소비자들한테는 SaaS 방식이든 API방식이든 기존의 commercial LMM들이 수요가 계속 있을 것 같아요 사용성 때문에? 그리고 GPU를 제작 해 주시는 회사들이 다른 계열의 기술들에 투자를 하는게 먼 미래를 보면 생존을 위해서 피할 수 없는 선택일 것 같기도 해요 이런 저런 사례들을 보면 늦은 때는 없는것 같기도 해요 기술은 독점이 진짜 위험한 것 같아서요 ㅜㅜ<br>
+
 2026/6/9 12:02AM<br>
 Regarding the precise simluation, if there is no clear physics that can be applied to reconstruct the realistic embodied interaction, may be data-driven approach with the methods based on AI to find physics equations may one of the options. Maybe the grounding physics studies started from the observations and finding a pattern that can be summarized? And i think this type of approach can be applied to inventing tracer type of studies.<br>
 
