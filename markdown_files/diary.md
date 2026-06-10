@@ -4,7 +4,7 @@
 </div>
 
 <div style="font-size: 15px;  margin-bottom: 100px;">
-🚀 Metaphors: i do not intentionally use metaphors with my very best in this diary. i aim for literal, precise communication as i am developing my professional writing skills as well. Each entry is written in not continued from the previous entries (do not form a logically continuous narrative), separating my thoughts that pop up in my mind with the time it is written. And the scope of this diary is of course not limited to the UNIVERSE but broader. <br>
+🚀 Metaphors: i do not intentionally use metaphors with my very best in this diary. i aim for literal, precise communication as i am developing my professional writing skills as well. Each entry is written in not continued from the previous entries (do not form a logically continuous narrative), separating my thoughts that pop up in my mind with the time it is written. And the scope of this diary is of course not limited to the UNIVERSE but broader. If there is correlations between entries or my other LinkedIn participations, i mention those. <br>
 🚀 Mentions: i mention specific names to express sincere appreciation. While some entries may contain critical observations regarding anonymized societal behaviors or systemic architectures, these reflections are intended to contribute to a deeper understanding and a better future for all. <br>
 🚀 Guidance and Monitoring: This is an open record of my personal and academic growth. i learn under the Professors, and i appreciate their monitoring and implicit or explicit advising of course. <br>
 🚀 Authorship and Knowledge: this personal diary is for common good and to share my learnings. If i have inadvertently overlooked relevant work, i sincerely apologize and appreciate corrections that would make me learn. <br>
@@ -39,9 +39,8 @@ After running Lean 4, I realized that the translation from an algorithm to mathe
 2026/6/7 8:05AM <br>
 As far as i understand, JEPA bring coarse teacher-forcing in the inference as well rather than the autoregressive to prevent the error-propagation , that is correct? To robustly prevent self-contradiction and to refine limited window size of the context and the output, harmonizing with the autoregressive may one of the options that can be explored..? Hmm... i'm not sure.. and if there is a more efficient model architecture, that would be always a good news<br>
 
-2026/6/6 6:46PM <br>
-네 손이 일을 얻는 대로 힘을 다하여 할지어다 네가 장차 들어갈 스올에는 일도 없고 계획도 없고 지식도 없고 지혜도 없음이니라 (전도서 9:10) <br>
-마음이 안정되는 성경 구절을 발견했다!❤️ 그저 내가 좋아하는 공부를 할 수 있음을 평생 감사하고 사랑하고싶다.<br>
+2026/6/6 6:46PM ~ 2026/6/10 2:23PM <br>
+여러모로 힘든 일이 많아 건강도 악화된 상황에 조여준 Ethan Cho (CIO & Partner @ TheVentures) 님의 최근 posting을 보고 큰 위로를 받았습니다. 네 손이 일을 얻는 대로 힘을 다하여 할지어다 네가 장차 들어갈 스올에는 일도 없고 계획도 없고 지식도 없고 지혜도 없음이니라 (전도서 9:10) 마음이 안정되는 성경 구절 (해당 포스팅 내의 성경 글귀) 이라고 생각합니다!❤️ 남들과 비교하여 승자 또는 패자로 존재하기 보다 그저 제가 늘 해오던 좋아하는 공부 (제 일) 를 있는 힘을 다하여 하루하루 하는 것에 평생 감사하고 사랑하고싶습니다. 그분께서 혹여라도 왜곡된 공격들을 겪지 않으시고 또는 존재하더라도 극복하시어 세상에 더 많은 선한 영향력을 전파 해 주실 수 있으시기를 기원드립니다.<br>
 
 2026/6/5 5:16PM <br>
 What is the definition of computer? In the course that was led from Professor Bohyung Han, I remember one of the sudents presented that quantum computer does not need to be the typical shape of computer that we used to know that functions with mouse, keyboard, and more. If a glass recieves inputs, process the inputs (thinking), and outputs information, is it glass or computer? Or both? Hmm... And robot is similar, when the machine starts to recieve inputs, process them (thinking), and then outputs something, what is it? Conventional robot could not think as far as I know.. I'm a bit confused...<br>
