@@ -1,5 +1,5 @@
 🌟 A journey for an official internship, funded PhD, and to be a paid researcher (or scholar) as well, in addition to the SUMMER TRAINEE under the OWNERS (that is the best to me 😆) like other students in a SAFE ENVIRONMENT. i never stop hoping and will never give up! <br>
-🌟 Also i open this proposal to public in addition to the OWNERS, without claims of authorship, hoping for this will be useful even a little bit, for benevolent usage. However, your mentioning about it if this is useful, it is a kindest and warmest grace for me and i sincerely appreciate it!  And i appreciate every respectful work invitation that is related to any studies in this open research.🙇‍♀️<br>
+🌟 Also i open this proposal to public in addition to the OWNERS, without claims of authorship, hoping for this will be useful even a little bit, for benevolent usage. However, your mentioning about it if this is useful, it is a kindest and warmest grace for me and i sincerely appreciate it!  And i appreciate every respectful work invitation that is related to any study in this open research 🙇‍♀️.<br>
 🌟There is no metaphor or implicit meaning in this open research which drift from context<br>
 🌟These are part of my research interests<br>
 
