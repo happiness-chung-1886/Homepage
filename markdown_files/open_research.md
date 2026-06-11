@@ -13,7 +13,7 @@ AI Disclosure: Image generated from Nano Banana, Gemini-Pro 3.0 <br>
 
 <br>
 
-**Uncertainty-Aware Positron-Emission-Tomography (PET) Super-Resolution**<br>
+**Uncertainty-Aware Positron-Emission-Tomography (PET) 4D Video Super-Resolution**<br>
 Inspired under Professor Bohyung Han, IEEE-NPSS Nuclear Engineering Summer School <br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
 Positron Emission Tomography (PET) inherently reconstructs a radiotracer distribution from stochastic decay and detection events, making image formation a statistical inverse problem rather than a direct measurement process. While recent deep learning–based PET super-resolution methods have demonstrated promising visual improvements, concerns remain regarding quantitative reliability and the potential introduction of artificial uptake patterns. <br>
