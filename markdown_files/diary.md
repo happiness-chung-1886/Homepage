@@ -8,6 +8,7 @@
 🚀 Mentions: i mention specific names to express sincere appreciation. While some entries may contain critical observations regarding anonymized societal behaviors or systemic architectures, these reflections are intended to contribute to a deeper understanding and a better future for all. <br>
 🚀 Guidance and Monitoring: This is an open record of my personal and academic growth. i learn under the Professors, and i appreciate their monitoring and implicit or explicit advising of course. <br>
 🚀 Authorship and Knowledge: this personal diary is for common good and to share my learnings. If i have inadvertently overlooked relevant work, i sincerely apologize and appreciate corrections that would make me learn. <br>
+🚀 If there are demends, this diary can be summarized and than distributed without profit as a pdf format! <br>
 </div>
 
 <br>
