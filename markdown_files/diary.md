@@ -12,6 +12,9 @@
 
 <br>
 
+2026/6/10 8:03PM <br>
+Although there are terminologies "LLM", "VLM", "LAM", "MLLM", "LMM", maybe the "Large" in those terminologies may dissapear one day because the "Large" model will be regarded as not that large in the future maybe?<br>
+
 2026/6/10 6:53PM <br>
 i hope i can be directly supervised for publishing a new paper under Professor Bohyung Han again one day, and i appreciate the Professor's generous lessons as well. My aspiration for my studies is burning 🔥 even further thanks to the Professor's highly inspiring lessons. i appreciate the inspiration from the Professor for the open research that i wrote today. Motion Editing study is almost finished as far as i see, that is extremely grateful for the Professor as well. As always, i hope the world where everyone (all) is healthy and happy. <br>
 
