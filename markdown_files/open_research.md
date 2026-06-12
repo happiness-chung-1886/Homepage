@@ -81,6 +81,7 @@ For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) <br
 
 ## Brainstorming
 
+<img src="images/image73.png" height="200">
 **About the Future of Video Generation(June 2026)** <br>
 Extended from the below thought that i wrote in the Diary,
 
