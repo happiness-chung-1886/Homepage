@@ -81,6 +81,17 @@ For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) <br
 
 ## Brainstorming
 
+**About the Future of Video (June 2026)**
+Extended from the below thought that i wrote in the Diary,
+
+2026/6/9 11:41AM<br>
+i undertand if 2D computer vision would focus on the perception (i think this is strongly related to the genuine safety for all lives) and optimization (grounding role for 3D) and i see there would be 3D computer vision studies related to generating real or the hallucinated world may monopolize the generation part along with the incredibly enhanced computing power. The studies of generation methods of 2D computer vision would be the ground ot the 3D computer vision as far as i understand. <br>
+
+i think the 2D animations can be made in this way: 3D rendering -> 2D styling -> recording. <br>
+If this is possible, to make the 2D style animations, people do not have to draw all the frames that can reduce the cost ro make it. This can make the quality of 2D style animation as well preventing the violation of physically plausible interaction within the animation. <br>
+
+<br>
+
 <img src="images/image68.jpg" height="200"><img src="images/image69.jpg" height="200"><br>
 **One of the Future Directions of Theranostics (May 2026)**<br>
 Inspired under SNMMI Patient Education Day <br>
