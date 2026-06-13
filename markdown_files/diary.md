@@ -13,6 +13,10 @@
 
 <br>
 
+2026/6/12 8:05PM <br>
+조여준 Ethan Cho (CIO & Partner @ TheVentures) 님의 오눌 포스팅을 통해 오늘 또 개몽된것 같은? 생각이 들었다. 어려서부터 특정 지역의 집값이 오르는 근본적인 이유에 대해서 알기가 어려웠는데, 어떤 지역이 발전하고, 사람들이 그 안전함을 위해서 그 지역에 진입하고싶어하고 군중심리와 확증편향, 그리고 "정상성"에 큰 가치를 두는 분위기로 인해 수요가 몰려서 계속 해당 지역의 집값이 오를수도 있겠다는 생각이 들었다. 그런데 나는 어려서부터 "이렇게 사는게 정답이이고 성공이야" 라는 말을 들으면 그것도 하나의 성공일수는 있겠지만 어쩐지 나 자신을 잃어버리는 것 같은 느낌이 들었다. 최근 NVIDIA가 OpenAI에서 상을 받는걸 봤는데 어쩐지 나는 그 상의 가치가 invaluable 해 보였다. 예전부터 존재하왔던 상은 아니지만 4차산업 혁명을 개척하며 많은 비판과 비난들을 견디며 서로를 믿고 이루어낸 진정한 진보 (정치색 아니에요!). 어떻게 그렇게 단단하고 오랜 믿음이 여러 사람들 사이에 가능했을까? 용어가 딱 맞는지는 모르겠지만 어쩐지 나에게는 그 두 회사의 혁신적인 파트너십, 그리고 그 수상이 왠지 낭만적으로 보였다. <br>
+내가 미국에 와서 좋은건, 좀 더 나 자신에 가까워진듯한 기분? 소수자를 향한 편견, 그로 인한 공격들을 겪을 때면 아파서 생으로부터 도망치고 싶은 충동이 들때도 있지만, 그래도 내가 아닌 다른 사람을 연기하며 "안전하게" 살아가야되는 것 보단, 나로 존재한다는 이유로 보이지 않는 돌을 맞고 지워지고 아픈 삶을 산다 해도 난 그래도 더 행복한것 같다. 난 여성이고 동양인, 유색인종에 성소수자이다, 또 정신 질환도 있다, 체형도 정상성에서 벗어났으며 가정을 위해 헌신하기 보다는 일을 통해 사회에 선한 기여를 할 수 있는 것에 훨씬 더 큰 끌림을 느낀다. 아마 몇백년, 아니 몇십년 전에 태어났다면 무사하지 못했을 가능성이 압도적으로 높다는걸 안다. 하지만 역사 안에서의 슬프고도 아픈 많은 소수자들의 희생으로 소수자를 향한 억압은 점점 힘을 잃어갔고, 지금 나는 그런 나 자신의 특징들이 죄가 아니라는걸 미국에 와서, 이제는 조금씩 더 피부로 느껴질만큼 알아간다 (물론 미국에서도 모든 미국 사람들이 소수자에게 open mind인건 아니지만 말이다.). <br>
+
 2026/6/12 7:01PM <br>
 The LinkedIn posting from Di Jin (VP, AI Training @ Nebius) that i found in the Professor Dilek's LinkedIn today, looks constructive to me because also i think this de-centralizing is safer in that it does not make a sigle-point-failure risk. And i do not disagree to the necessity of cloud services or datacenters because i learned the importance of redundant archiving to better preserve the data.<br>
 When i see world history, it looks like to me that humans try to build the ideal world although they do not know what exactly it is. But as i mentioned earlier, there looks like a values such as expanded humanity, ethics rather than power, valuing evidence based rational verifications rather than authority, context based communication, that is quite hopeful to me. In this context, i hope my work can be one of the building block for the paradise where everyine (all) can be healthy and happy.  <br>
