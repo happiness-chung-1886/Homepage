@@ -15,6 +15,7 @@
 
 2026/6/14 4:30PM ~ 2026/6/14 6:31PM: About The Grounds of AI <br>
 <img src="images/image74.jpeg" height="300"><br>
+AI Disclosure: image generated from Gemini
 Thinking about the "Physical AI" again, although the physics are inherently exist in AI, until recently, the AI-based demos, products, and services cannot output the results that does not violate physics in real-world. Considering this, many people feel that the "Physical AI" is quite innovative may understandable, although it sounds like "behavioral cooking" or "calculating computer".. Considering there are several grounding academic fields, i think AI is not recognized as an academic field yet.. There are computers that cannot calculate well, there are AI-based demos, product, and services that cannot represent real-world physics well and i think this maybe one of the starting point to refine the architecture of AI models. <br>
 
 2026/6/14 12:12PM <br>
