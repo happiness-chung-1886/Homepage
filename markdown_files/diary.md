@@ -14,7 +14,7 @@
 <br>
 
 2026/6/14 12:12PM <br>
-i found Lukas M. Ziegler (Robotics evangelist @ planet Earth 🌍)'s posting today that looks like have a correlations with my recent work about step-by-step behavior reasoning and this is insightful to me as well in that the intermediate milestones of the behavior of the protagonist in the virtual world works well, that looks quite promising to me. <br>
+i found Lukas M. Ziegler (Robotics evangelist @ planet Earth 🌍)'s posting today that looks like have a correlations with my recent work about step-by-step behavior reasoning and the posting is insightful to me as well in that the intermediate milestones of the behavior of the protagonist in the virtual world works well very smoothly, that looks quite promising to me. <br>
 
 2026/6/12 8:05PM <br>
 조여준 Ethan Cho (CIO & Partner @ TheVentures) 님의 오눌 포스팅을 통해 오늘 또 개몽된것 같은? 생각이 들었다. 어려서부터 특정 지역의 집값이 오르는 근본적인 이유에 대해서 알기가 어려웠는데, 어떤 지역이 발전하고, 사람들이 그 안전함을 위해서 그 지역에 진입하고싶어하고 군중심리와 확증편향, 그리고 그 "정상성"에 큰 가치를 두는 사회 분위기로 인해 수요가 몰려서 계속 해당 지역의 집값이 오를수도 있겠다는 생각이 들었다. 그런데 나는 어려서부터 "이렇게 사는게 정답이이고 성공이야" 라는 말을 들으면 그것도 하나의 성공일수는 있겠지만 어쩐지 나 자신을 잃어버리는 것 같은 느낌이 들었다. 최근 NVIDIA가 OpenAI에서 상을 받는걸 봤는데 어쩐지 나는 그 상의 가치가 invaluable 해 보였다. 예전부터 존재하왔던 상은 아니지만 4차산업 혁명을 개척하며 많은 비판과 비난들을 견디며 서로를 믿고 이루어낸 진정한 진보 (정치색 아니에요!). 어떻게 그렇게 단단하고 오랜 믿음이 여러 사람들 사이에 가능했을까? 용어가 딱 맞는지는 모르겠지만 어쩐지 나에게는 그 두 회사의 혁신적인 파트너십, 그리고 그 수상이 왠지 낭만적으로 보였다. <br>
