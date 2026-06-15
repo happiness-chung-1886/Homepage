@@ -13,6 +13,12 @@
 
 <br>
 
+2026/6/15 2:55PM <br>
+One of the reasons that i use literal communication (as the people who worked with me may know) is that this is efficient because people do not have to guess hidden meanings spending their precious energy and it minimizes potential misunderstanding or misinterpretations because of the subjectivity. For example when i use the word "supervision" this does not mean "super" + "vison" but the literal supervision that includes the academic guidance, feedback, teaching (random order) related to study. Of course, this literal communication should be constructive and would be better if it is kind. And if people understand that my personal, special respect for the Professor, i would be very grateful.<br>
+
+2026/6/15 2:50PM <br>
+Building the better where everyone (or all) can be healthy and happy can be progressed not by making more weapon, but by sharing knowledges based on ethics as far as i learned. To better build our ethics we should divide what we already learned and what shold be explored further. <br>
+
 2026/6/14 4:30PM ~ 2026/6/14 6:31PM: About The Grounds of AI <br>
 <img src="images/image74.jpeg" height="300"><br>
 AI Disclosure: image generated from Gemini
