@@ -13,8 +13,9 @@
 
 <br>
 
-2026/6/15 2:55PM <br>
-One of the reasons that i use literal communication (as the people who worked with me may know) is that this is efficient because people do not have to guess hidden meanings spending their precious energy and it minimizes potential misunderstandings or misinterpretations because of the subjectivity. For example when i use the word "supervision" this does not mean "super" + "vison" but the literal supervision that includes the academic guidance, feedback, teaching (random order) related to study. Of course, this literal communication should be constructive and would be better if it is kind. And if people understand that my personal, special respect for the Professor, i would be very grateful and i do not 강요하다 others to do the same to their 스승님들 of course.<br>
+2026/6/15 2:55PM ~ 2026/6/15 4:15PM<br>
+<img src="images/image75.jpeg" height="300"><br>
+One of the reasons that i use literal communication (as the people who worked with me may know) is that this is efficient because people do not have to guess hidden meanings spending their precious energy and it minimizes potential misunderstandings or misinterpretations because of the subjectivity. For example when i use the word "supervision" this does not mean "super" + "vison" but the literal supervision that includes the academic guidance, feedback, teaching (random order) related to study. Of course, this literal communication should be constructive and would be better if it is kind. And if people understand that my personal, special respect for the Professor, i would be very grateful and i do not 강요하다 others to do the same to their 스승님들 of course. In this context, also i respect the UN's goal for the peaceful and better world for all. <br>
 
 2026/6/15 2:50PM <br>
 Building the better world where everyone (or all) can be healthy and happy can be progressed not by making more weapons, but by sharing knowledges based on ethics as far as i learned. To better build our ethics we should divide what we already learned and what shold be explored further. <br>
