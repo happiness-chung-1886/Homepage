@@ -13,6 +13,10 @@
 
 <br>
 
+2026/6/16 11:59AM <br>
+<img src="images/image76.jpeg" height="300"><br>
+It is a good news that AI-related academic programs are newly launched. i hope these can accelerate ethical, and efficient progresses AI. <br>
+
 2026/6/15 2:55PM ~ 2026/6/15 4:15PM<br>
 <img src="images/image75.png" height="300"><br>
 One of the reasons that i use literal communication (as the people who worked with me may know) is that this is efficient because people do not have to guess hidden meanings spending their precious energy and it minimizes potential misunderstandings or misinterpretations because of the subjectivity. For example when i use the word "supervision" this does not mean "super" + "vison" but the literal supervision that includes the academic guidance, feedback, teaching (random order) related to study. Of course, this literal communication should be constructive and would be better if it is kind. And if people understand that my personal, special respect for the Professor, i would be very grateful and i do not 강요하다 others to do the same to their 스승님들 of course. In this context, also i respect the UN's goal for the peaceful and better world for all. <br>
