@@ -18,7 +18,7 @@ After reading the most recent posting from NVIDIA today, i would like to say i p
 
 2026/6/16 11:59AM <br>
 <img src="images/image76.jpeg" height="300"><br>
-It is a good news that AI-related academic programs are newly launched. i hope these can accelerate ethical, and efficient progresses AI. <br>
+It is a good news that AI-related academic programs are newly launched. i hope these can accelerate ethical, and efficient progresses of AI. <br>
 
 2026/6/15 2:55PM ~ 2026/6/15 4:15PM<br>
 <img src="images/image75.png" height="300"><br>
