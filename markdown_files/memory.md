@@ -63,7 +63,7 @@ This image is from: [https://www.brtnx.com/en/index.php](https://www.brtnx.com/e
 <p align="center">
 <img src="images/image77.jpeg" height="400"> 
 </p>
-🌟💖 i appreciate Professor Jae Sung Lee for the supervision so i can have a precious opportunity for the presentation. 💖🌟
+🌟💖 i appreciate Professor Jae Sung Lee for the supervision so i can have a precious opportunity for the presentation as well. 💖🌟
 🌟💖 In addition, i appreciate Professor Jong Chul Ye for the supervision during my undergraduate internship. 💖🌟
 
 **IEEE NPSS Seoul Chapter (2023 📷🙇‍♀️)**   
