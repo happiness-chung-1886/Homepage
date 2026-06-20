@@ -1,4 +1,4 @@
-<img src="images/image3.png" height="200"> </br>
+<img src="images/image79.png" height="200"> </br>
 <div style="font-size: 15px;  margin-bottom: 10px;">
 🌈 i appreciate the alliance for the sexual minority as well, as an ally as well 😃🌈
 </div>
@@ -12,6 +12,9 @@
 </div>
 
 <br>
+
+2026/6/20 9:39AM <br>
+Today i learned about "intersex" and i ally with them as well of course!<br>
 
 2026/6/19 2:55PM <br>
 Although there is a strong point-of-view that views scientist or engineer (or both simulataneously) in medical field as "tool" for clinician, to me, i see the state-of-the-art knowledge that advances entire medicine is built from the scientist or engineer (or both simulataneously). If medicine exists to make patients healthy, then there may be two categories of experts in the medicine (in the mountain view) who focuses on clinical expertise and who focuses on scientific or engineering expertise (or both simulataneously) as far as i learned until now. <br>
