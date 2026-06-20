@@ -13,6 +13,9 @@
 
 <br>
 
+2026/6/20 1:32PM <br>
+i started to study about the business models of companies (or corporation, 기업, 회사) and the harmonization of B2B and open-sourcing for public looks interesting. <br>
+
 2026/6/20 1:12PM <br>
 Whether restricting access to AI-based products or services is closer to the 'weaponization' or a the 'penalty' maybe depend on how individual countries perceive the impact of such bans. This perspective is inspired under the recent discussions from Professor Yoshua Bengio, Professor Yann LeCun, and CIO & Partner 조여준 Ethan Cho.<br>
 
