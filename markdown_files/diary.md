@@ -9,6 +9,7 @@
 🚀 Guidance and Monitoring: This is an open record of my personal and academic growth. i learn under the Professors, and i appreciate their monitoring and implicit or explicit advising of course. <br>
 🚀 Authorship and Knowledge: this personal diary is for common good and to share my learnings. If i have inadvertently overlooked relevant work, i sincerely apologize and appreciate corrections that would make me learn. <br>
 🚀 If there are demends, this diary can be summarized and then distributed without profit as a pdf format as well! <br>
+🚀 i do not and refuse to interpret every name of people or non-human animals or institutions as the semantic metaphor 🙇‍♀️. <br>
 </div>
 
 <br>
