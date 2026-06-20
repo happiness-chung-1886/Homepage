@@ -14,7 +14,7 @@
 <br>
 
 2026/6/20 1:12PM <br>
-Whether restricting access to AI-based products or services is closer to the 'weaponization' or a the 'penalty' maybe depend on how individual countries perceive the impact of such bans. This perspective is inspired under the recent discussions from Professor Yoshua Bengio, Professor Yann LeCun, and CIO & Partner Ethan Cho.<br>
+Whether restricting access to AI-based products or services is closer to the 'weaponization' or a the 'penalty' maybe depend on how individual countries perceive the impact of such bans. This perspective is inspired under the recent discussions from Professor Yoshua Bengio, Professor Yann LeCun, and CIO & Partner 조여준 Ethan Cho.<br>
 
 2026/6/20 9:39AM <br>
 Today i learned about "intersex" and i ally with them as well of course!<br>
