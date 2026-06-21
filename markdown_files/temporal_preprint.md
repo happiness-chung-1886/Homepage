@@ -10,11 +10,12 @@ AI Disclosure: Gemini-Pro 3.0 gave the feedbacks, image generated from ChatGPT, 
 AI Disclosure: ChatGPT gave the feedback<br>
 [https://drive.google.com/drive/folders/1fEJOzVAdLx6Rk5oyANrhbVEl9tUTKsuF?usp=drive_link](https://drive.google.com/drive/folders/1fEJOzVAdLx6Rk5oyANrhbVEl9tUTKsuF?usp=drive_link)
 
-**Motion Editing: MysticMorphor** <br>
-<img src="images/image58.png" height="400"> <br>
+**TeleMorpher: TeleMorpher: Toward Robust Simultaneous Motion-Location Editing** <br>
+<img src="images/image80.png" height="400"> <br>
 Preprinted under the official approvement <br>
+arXiv: https://arxiv.org/abs/2606.19676 <br>
 Github: https://github.com/Happiness-Chung/VE/tree/main <br>
-[https://drive.google.com/drive/folders/1eOTmBH0bpvLPsvMHXW6MCozLGSMvNtXe?usp=drive_link](https://drive.google.com/drive/folders/1eOTmBH0bpvLPsvMHXW6MCozLGSMvNtXe?usp=drive_link)
+edits: [https://drive.google.com/drive/folders/1eOTmBH0bpvLPsvMHXW6MCozLGSMvNtXe?usp=drive_link](https://drive.google.com/drive/folders/1eOTmBH0bpvLPsvMHXW6MCozLGSMvNtXe?usp=drive_link)
 
 **Practicing Writing Opinions:**  
 AI Disclosure: Gemini-3.1-Flash-Light gave the feedbacks  
