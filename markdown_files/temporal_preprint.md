@@ -6,9 +6,13 @@ AI Disclosure: Gemini-Pro 3.0 gave the feedbacks, image generated from ChatGPT, 
 [https://drive.google.com/drive/folders/1mKj4l435p05ZO0d5s1slSbvD1PkXme-W?usp=drive\_link](https://drive.google.com/drive/folders/1mKj4l435p05ZO0d5s1slSbvD1PkXme-W?usp=drive_link)  
 (Hope to further improve this work and where to submit can be changed 🙇‍♀️ And also i appreciate acknowledging me missing gratitude or reference 🙇‍♀️)
 
-**Training-Free Bounding-Box Annotation for Pre-Trained Clinical MLLMs**<br>
+**Training-Free Bounding-Box Annotation for Pre-Trained Clinical MMs**<br>
 AI Disclosure: ChatGPT gave the feedback<br>
-[https://drive.google.com/drive/folders/1fEJOzVAdLx6Rk5oyANrhbVEl9tUTKsuF?usp=drive_link](https://drive.google.com/drive/folders/1fEJOzVAdLx6Rk5oyANrhbVEl9tUTKsuF?usp=drive_link)
+[https://docs.google.com/document/d/1tEQa6Moo7Wrk4iYir5hXTdA17729M8QrmBFNOb1zTvE/edit?usp=drive_link](https://docs.google.com/document/d/1tEQa6Moo7Wrk4iYir5hXTdA17729M8QrmBFNOb1zTvE/edit?usp=drive_link)
+
+**Multi-Modal Frequency Gradient Consensus for Robust Tumor Boundary Delineation**<br>
+AI Disclosure: ChatGPT gave the feedback<br>
+[https://docs.google.com/document/d/12EE2NdAI8TH55n1YnApPYauv4-byynUSRH785HCNGG8/edit?usp=drive_link](https://docs.google.com/document/d/12EE2NdAI8TH55n1YnApPYauv4-byynUSRH785HCNGG8/edit?usp=drive_link)
 
 **TeleMorpher: Toward Robust Simultaneous Motion-Location Editing** <br>
 <img src="images/image80.png" height="400"> <br>
