@@ -6,7 +6,7 @@ AI Disclosure: Gemini-Pro 3.0 gave the feedbacks, image generated from ChatGPT, 
 [https://drive.google.com/drive/folders/1mKj4l435p05ZO0d5s1slSbvD1PkXme-W?usp=drive\_link](https://drive.google.com/drive/folders/1mKj4l435p05ZO0d5s1slSbvD1PkXme-W?usp=drive_link)  
 (Hope to further improve this work and where to submit can be changed 🙇‍♀️ And also i appreciate acknowledging me missing gratitude or reference 🙇‍♀️)
 
-**Training-Free Bounding-Box Annotation for the Pre-Trained Clinical MLLM**<br>
+**Training-Free Bounding-Box Annotation for Pre-Trained Clinical MLLMs**<br>
 AI Disclosure: ChatGPT gave the feedback<br>
 [https://drive.google.com/drive/folders/1fEJOzVAdLx6Rk5oyANrhbVEl9tUTKsuF?usp=drive_link](https://drive.google.com/drive/folders/1fEJOzVAdLx6Rk5oyANrhbVEl9tUTKsuF?usp=drive_link)
 
