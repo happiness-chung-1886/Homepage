@@ -15,7 +15,7 @@
 <br>
 
 2026/6/22 12:35PM<br>
-The similarity between what i studied in the 3D Vision course and the curriculum of the course led by Professor Gyeongsik Moon (Korea University) is very very honorable to me! 😮 The final projects from the students in the course look remarkably high-quality as well! i'm not sure about the reason, but i feel very proud of it as well!!<br>
+The similarity between what i studied in the 3D Vision course and the curriculum of the course led by Professor Gyeongsik Moon (Korea University) is very very honorable to me! 😮 The final projects from the students in the course look remarkably high-quality as well! Dexterous manipulation? Super cool undergraduate students..🤔 i'm not sure about the reason, but i feel very proud of it as well!!<br>
 
 2026/6/20 1:32PM <br>
 i started to study about the business models of companies (or corporation, 기업, 회사) and the harmonization of B2B and open-sourcing for public looks interesting. <br>
