@@ -14,6 +14,9 @@
 
 <br>
 
+2026/6/22 3:11PM<br>
+The common factor that degrades the potential practicality of the categorization-based tasks in several cases is that the finite types of the labels that can may degrade the safety of the products or services based on the categorization-based task as well. At the same time, the label-free methods (usually machine learning based methods) show the inherent ambiguity or redundancy of their results.. Apart from that, occlusions in segmentation may rather can be the advantage in several cases as far as i learned. <br>
+
 2026/6/22 1:46PM<br>
 Abaout AI field, it looks like the studies in the AI field has a potential that proposing new theories (including dataset construction, framework (sounds like a humble or downing expression), ...) within AI can be included in the various academic fields at the same time depending on what "benchmarks" the authors used. <br>
 
