@@ -15,7 +15,7 @@
 <br>
 
 2026/6/22 1:22PM<br>
-Regarding the safety, what i'm concerning about is that safety can be arbitrarily misused because of the inherent ambiguity of the terminology. Such as .. "Safety for who?". So i think the safefy should be based on the established ethics, with the flexibility to refine it following the progressive social consensus basen on the expanded humanity. And that is the reason that i think braod enguagements of the communities and citizens to design, construct, and build the univeral safety guidline may be important to more widely encompass various cases and minorities. <br>
+Regarding the safety, what i'm concerning about is that safety can be arbitrarily misused because of the inherent ambiguity of the terminology. Such as .. "Safety for whom?". So i think the safefy should be based on the established ethics, with the flexibility to refine it following the progressive social consensus basen on the expanded humanity. And that is the reason that i think braod enguagements of the communities and citizens to design, construct, and build the univeral safety guidline may be important to more widely encompass various cases and minorities. <br>
 
 2026/6/22 1:16PM<br>
 Maybe there would be two tracks in the Robotics: (1) Focusing on hardware (2) Focusing on software. Of course both can be persued at the same time, similar to the medicine. To me, there looks the respective advantages beyond the hierarchy. Maybe what i'm interested in is focusing the software than the hardware of the Robotics especially the AI-based robot manipulation. <br>
