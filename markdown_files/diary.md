@@ -15,7 +15,7 @@
 <br>
 
 2026/6/22 4:23PM~2026/6/23 10:04AM<br>
-i just read the edited version of the draft from Prof. Jae Sung Lee in detail now, i do not know why i'm crying ;^;.. even the location of the citations were changed..! TㅁT!<br>
+i just read the edited version of the draft from Prof. Jae Sung Lee in detail now, i do not know why i'm crying ;^;.. even the locations of the citations were changed..! TㅁT!<br>
 
 2026/6/22 3:11PM<br>
 The common factor that degrades the potential practicality of the categorization-based tasks in several cases is that the finite types of the labels that can may degrade the safety of the products or services based on the categorization-based task as well. At the same time, the label-free methods (usually machine learning based methods) show the inherent ambiguity or redundancy of their results.. Apart from that, occlusions in segmentation may rather can be the advantage in several cases as far as i learned. <br>
