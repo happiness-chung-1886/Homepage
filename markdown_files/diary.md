@@ -14,6 +14,9 @@
 
 <br>
 
+2026/6/24 1:02PM <br>
+i found via Prof. Yann LeCun's posting today that there are people trying to design, construct, and build the global open-scource language models, that would be the good news to many countries! i can't wait to learn how the models would be like. Maybe that would be the good news for the Brightonix Imaging if they are interested in the products or services related to the multi-modal models that include language generation additionally, as well. Although i do not no their progress other than the published papers, of course i hope the company where Prof. Jae Sung Lee works as well as Founder and CEO, who have granted the lessons to me would realize (이루다) the benevolent life-saving visions with a lot of successful collaborations as well! :D In addition, i of course appreciate their allies when i was in difficuties as well of course, hoping for their successes. Apart from that, i'm curious about how the experts in the company would think about my recent open proposals (and their constructive feedback as well) that aims to achieve higher resolutions that must be harmonized with the advancement of hardware research, but i guess all of they are extremely busy as well.. Anyway, i appreciate the good news related to the Professors always, hoping for there would be more of them! :D <br>
+
 2026/6/22 4:23PM~2026/6/23 10:04AM~2026/5/23 1:17PM<br>
 i just read the edited version of the draft from Prof. Jae Sung Lee in detail now, i do not know why i'm crying ;^;.. even the locations of the citations were changed..! TㅁT! i sincerely appreciate for the support as well and i hope i can refine it further with my very best via the grateful knowledge that i newly learned and additional experiments.<br>
 
