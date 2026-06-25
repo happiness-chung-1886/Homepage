@@ -15,7 +15,7 @@
 <br>
 
 2026/6/25 2:41PM <br>
-Although i have always sincerely respected art, i have become concerned that placing too much emphasis on artistic aspects may lead to less logical or too subjective consequences. As i have learned, the goals and focus of art and academic study are related, but they are not the same. <br>
+Although I have always sincerely respected art, I have become concerned that placing too much emphasis on artistic aspects may lead to less logical or too subjective consequences. As I have learned, the goals and focus of art and academic study are related, but they are not the same. <br>
 
 2026/6/25 8:34PM <br>
 <img src="images/image82.jpeg" height="300"><br>
