@@ -1,4 +1,4 @@
-edited (2026/6/24)
+edited (2026/6/25)
 
 🌟 **i’m not the mouth of anyone but i’m learner under the supervision of the OWNERS and the Professor  as well as my position as a student. And i appreciate the Professors’ invaluable lessons as well** 🙇‍♀️  
 🌟 The order of emojis that i use is meaningless, and these are metaphors        
@@ -22,3 +22,4 @@ edited (2026/6/24)
 🌟 The terminology of Summer Trainee is for following (of course respectfully because i think following is one of the expressions of respect or revere or love or other positive emotions) Professor Bohyung Han 🙇‍♀️. After official inquiry to Seoul National University, following their guideline, i changed this to Research Assistant.  
 🌟 i do not and refuse to interpret every name of people or non-human animals or institutions as the semantic metaphor 🙇‍♀️. <br>
 🌟 Although i'm quite afraid of about it, i appreciate if anyone shares the literal contents of the studies that i particiapted if those can be useful for anyone as well (but i think preserving the postings expressing only respects for the 은사님들 are preserved as it is maybe better to be more respectful..?).🙇‍♀️
+🌟 i’m sincerely grateful for every lesson and protection so i just hope to dedicate myself to honoring who have granted me those, both in the past and in the present 🙇‍♀️
