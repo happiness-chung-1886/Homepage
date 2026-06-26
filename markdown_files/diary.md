@@ -10,6 +10,7 @@
 🚀 Authorship and Knowledge: this personal diary is for common good and to share my learnings. If i have inadvertently overlooked relevant work, i sincerely apologize and appreciate corrections that would make me learn. <br>
 🚀 If there are demends, this diary can be summarized and then distributed without profit as a pdf format as well! <br>
 🚀 i do not and refuse to interpret every name of people or non-human animals or institutions as the semantic metaphor 🙇‍♀️. <br>
+🚀 i say in Korean when i have low energy to say in English T.T <br>
 </div>
 
 <br>
