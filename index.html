@@ -1,342 +1,129 @@
 <!DOCTYPE html>
 <html lang="ko">
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-H74Y57LT1M"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-H74Y57LT1M');
 </script>
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
     <title>Antiweapon</title>
-
     <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
-
     <style>
-        body {
-            font-family: 'Calibri', 'Segoe UI', Arial, sans-serif;
-            line-height: 1.7;
-            max-width: 900px;
-            margin: 40px auto;
-            padding: 20px;
-            color: #333;
-            background: #ffffff;
-        }
-
-        nav {
-            display: flex;
-            gap: 14px;
-            border-bottom: 2px solid #ddd;
-            padding-bottom: 10px;
-            margin-bottom: 30px;
-
-            flex-wrap: nowrap;
-            overflow-x: auto;
-        }
-
-        nav button {
-            cursor: pointer;
-            border: none;
-            background: transparent;
-            color: #666;
-            font-weight: bold;
-            padding: 8px 10px;
-            font-size: 15px;
-            transition: 0.2s;
-        }
-
-        nav button:hover,
-        nav button.active {
-            color: #000;
-            border-bottom: 2px solid #000;
-        }
-
-        .tab-content {
-            display: none;
-        }
-
-        .tab-content.active {
-            display: block;
-        }
-
-        img {
-            border-radius: 10px;
-        }
-
-        .error {
-            color: #b00020;
-            background: #fff3f3;
-            padding: 12px;
-            border-radius: 8px;
-        }
-
-        .banner {
-        width: 100%;
-        margin-bottom: 30px;
-        overflow: hidden;
-        border-radius: 20px;
-        }
-
-        .banner video {
-            width: 100%;
-            max-height: 600px;
-            object-fit: contain;
-            display: block;
-        }
-        .banner img {
-            width: 100%;
-            max-height: 260px;
-            object-fit: cover;
-            border-radius: 20px;
-        }
-
-        a {
-            color: #969696;
-        }
-        .diary-card {
-            border: 1px solid #eee;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 16px;
-            transition: transform 0.2s, box-shadow 0.2s;
-            background: #fafafa;
-        }
-
-        .diary-card:hover {
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-        }
-
-        .diary-meta {
-            font-size: 0.85em;
-            color: #888;
-            margin-bottom: 10px;
-        }
-
-        .diary-actions {
-            margin-top: 15px;
-            display: flex;
-            gap: 15px;
-            border-top: 1px solid #eee;
-            padding-top: 10px;
-        }
-
-        .action-btn {
-            cursor: pointer;
-            background: none;
-            border: none;
-            color: #555;
-            font-size: 0.9em;
-            display: flex;
-            align-items: center;
-            gap: 5px;
-        }
-
+        body { font-family: 'Calibri', 'Segoe UI', Arial, sans-serif; line-height: 1.7; max-width: 900px; margin: 40px auto; padding: 20px; color: #333; background: #ffffff; }
+        nav { display: flex; gap: 14px; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-bottom: 30px; flex-wrap: nowrap; overflow-x: auto; }
+        nav button { cursor: pointer; border: none; background: transparent; color: #666; font-weight: bold; padding: 8px 10px; font-size: 15px; transition: 0.2s; }
+        nav button:hover, nav button.active { color: #000; border-bottom: 2px solid #000; }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        img { border-radius: 10px; }
+        .error { color: #b00020; background: #fff3f3; padding: 12px; border-radius: 8px; }
+        .banner { width: 100%; margin-bottom: 30px; overflow: hidden; border-radius: 20px; }
+        .banner video { width: 100%; max-height: 600px; object-fit: contain; display: block; }
+        
+        /* 카드 UI 스타일 */
+        .diary-card { border: 1px solid #eee; padding: 20px; margin-bottom: 20px; border-radius: 16px; background: #fafafa; }
+        .diary-meta { font-size: 0.85em; color: #888; margin-bottom: 10px; }
+        .diary-actions { margin-top: 15px; display: flex; gap: 15px; border-top: 1px solid #eee; padding-top: 10px; }
+        .action-btn { cursor: pointer; background: none; border: none; color: #555; font-size: 0.9em; display: flex; align-items: center; gap: 5px; }
         .action-btn:hover { color: #000; }
+        a { color: #969696; }
     </style>
 </head>
-
 <body>
-
     <div class="banner">
-        <video autoplay muted loop playsinline>
-            <source src="images/banner.mp4" type="video/mp4">
-        </video>
+        <video autoplay muted loop playsinline><source src="images/banner.mp4" type="video/mp4"></video>
     </div>
-
     <nav>
-        <button onclick="openTab(event, 'tab0')" class="active">
-            Intro
-        </button>
-        <button onclick="openTab(event, 'tab1')">
-            MEMORY
-        </button>
-
-        <button onclick="openTab(event, 'tab2')">
-            Gratitude
-        </button>
-
-        <button onclick="openTab(event, 'tab3')">
-            Additional Introduction
-        </button>
-
-        <button onclick="openTab(event, 'tab4')">
-            Figures
-        </button>
-
-        <button onclick="openTab(event, 'tab5')">
-            Course Project
-        </button>
-
-        <button onclick="openTab(event, 'tab6')">
-            Open Research
-        </button>
-
-        <button onclick="openTab(event, 'tab7')">
-            Diary
-        </button>
-        <button onclick="openTab(event, 'tab8')">
-            Preprint
-        </button>
+        <button onclick="openTab(event, 'tab0')" class="active">Intro</button>
+        <button onclick="openTab(event, 'tab1')">MEMORY</button>
+        <button onclick="openTab(event, 'tab2')">Gratitude</button>
+        <button onclick="openTab(event, 'tab3')">Additional Introduction</button>
+        <button onclick="openTab(event, 'tab4')">Figures</button>
+        <button onclick="openTab(event, 'tab5')">Course Project</button>
+        <button onclick="openTab(event, 'tab6')">Open Research</button>
+        <button onclick="openTab(event, 'tab7')">Diary</button>
+        <button onclick="openTab(event, 'tab8')">Preprint</button>
     </nav>
 
-    <div id="tab0"
-         class="tab-content active"
-         data-md="markdown_files/intro.md">
-    </div>
-    <div id="tab1"
-         class="tab-content"
-         data-md="markdown_files/memory.md">
-    </div>
-
-    <div id="tab2"
-         class="tab-content"
-         data-md="markdown_files/gratitude.md">
-    </div>
-
-    <div id="tab3"
-         class="tab-content"
-         data-md="markdown_files/additional_info.md">
-    </div>
-
-    <div id="tab4"
-         class="tab-content"
-         data-md="markdown_files/figures.md">
-    </div>
-
-    <div id="tab5"
-         class="tab-content"
-         data-md="markdown_files/course_project.md">
-    </div>
-
-    <div id="tab6"
-         class="tab-content"
-         data-md="markdown_files/open_research.md">
-    </div>
-
-    <div id="tab7"
-         class="tab-content"
-         data-md="markdown_files/diary.md">
-    </div>
-    <div id="tab8"
-         class="tab-content"
-         data-md="markdown_files/temporal_preprint.md">
-    </div>
+    <div id="tab0" class="tab-content active" data-md="markdown_files/intro.md"></div>
+    <div id="tab1" class="tab-content" data-md="markdown_files/memory.md"></div>
+    <div id="tab2" class="tab-content" data-md="markdown_files/gratitude.md"></div>
+    <div id="tab3" class="tab-content" data-md="markdown_files/additional_info.md"></div>
+    <div id="tab4" class="tab-content" data-md="markdown_files/figures.md"></div>
+    <div id="tab5" class="tab-content" data-md="markdown_files/course_project.md"></div>
+    <div id="tab6" class="tab-content" data-md="markdown_files/open_research.md"></div>
+    <div id="tab7" class="tab-content" data-md="markdown_files/diary.md"></div>
+    <div id="tab8" class="tab-content" data-md="markdown_files/temporal_preprint.md"></div>
 
     <script>
-
         async function fetchText(path) {
-
             const response = await fetch(path);
-
-            if (!response.ok) {
-                throw new Error(`${path} 파일을 찾을 수 없습니다.`);
-            }
-
+            if (!response.ok) throw new Error(`${path} 파일을 찾을 수 없습니다.`);
             return await response.text();
         }
 
         async function resolveIncludes(markdown) {
-
             const includeRegex = /\[include:(.*?)\]/g;
-
             const matches = [...markdown.matchAll(includeRegex)];
-
             for (const match of matches) {
-
                 const includePath = match[1].trim();
-
                 try {
-
                     const includedText = await fetchText(includePath);
-
-                    markdown = markdown.replace(
-                        match[0],
-                        includedText
-                    );
-
+                    markdown = markdown.replace(match[0], includedText);
                 } catch {
-
-                    markdown = markdown.replace(
-                        match[0],
-                        `\n\n> include 파일을 불러오지 못했습니다: ${includePath}\n\n`
-                    );
+                    markdown = markdown.replace(match[0], `\n\n> include 파일을 불러오지 못했습니다: ${includePath}\n\n`);
                 }
             }
-
             return markdown;
         }
 
         async function loadMarkdown(tabElement) {
-
-            const mdPath = tabElement.getAttribute("data-md");
-
-            if (tabElement.dataset.loaded === "true") {
-                return;
-            }
-
+            if (tabElement.dataset.loaded === "true") return;
             tabElement.innerHTML = "<p>Loading...</p>";
-
             try {
-
-                let text = await fetchText(mdPath);
-
+                let text = await fetchText(tabElement.getAttribute("data-md"));
                 text = await resolveIncludes(text);
-
-                tabElement.innerHTML = marked.parse(text);
-
+                
+                // 마크다운 파싱
+                let html = marked.parse(text);
+                
+                // Diary 탭일 경우 [diary] 태그를 카드로 변환
+                if (tabElement.id === 'tab7') {
+                    // 1. 전체 내용을 날짜 패턴(예: 2026/6/26 3:50PM) 기준으로 쪼개기
+                    const dateRegex = /(\d{4}\/\d{1,2}\/\d{1,2}\s+\d{1,2}:\d{2}(?:AM|PM))/g;
+                    let content = html;
+                    
+                    // 날짜 앞에 특정 마커(예: <div class="card-marker">)를 넣어서 나눌 준비를 함
+                    content = content.replace(dateRegex, '</div><div class="diary-card"><div class="diary-meta">$1</div>');
+                    
+                    // 2. 카드 마커 정리 및 마무리
+                    html = content + '</div>';
+                    
+                    // 첫 번째 빈 div 제거
+                    html = html.replace('<div class="diary-card"></div>', '');
+                }
+                
+                tabElement.innerHTML = html;
                 tabElement.dataset.loaded = "true";
-
             } catch (error) {
-
-                tabElement.innerHTML = `
-                    <p class="error">
-                        파일을 불러오지 못했습니다.<br>
-                        경로를 확인해주세요:<br>
-                        ${mdPath}
-                    </p>
-                `;
+                tabElement.innerHTML = `<p class="error">파일을 불러오지 못했습니다.</p>`;
             }
         }
 
         function openTab(evt, tabId) {
-
-            document
-                .querySelectorAll(".tab-content")
-                .forEach(tab => {
-                    tab.classList.remove("active");
-                });
-
-            document
-                .querySelectorAll("nav button")
-                .forEach(button => {
-                    button.classList.remove("active");
-                });
-
-            const selectedTab =
-                document.getElementById(tabId);
-
+            document.querySelectorAll(".tab-content").forEach(tab => tab.classList.remove("active"));
+            document.querySelectorAll("nav button").forEach(button => button.classList.remove("active"));
+            const selectedTab = document.getElementById(tabId);
             selectedTab.classList.add("active");
-
             evt.currentTarget.classList.add("active");
-
             loadMarkdown(selectedTab);
         }
 
-        document.addEventListener(
-            "DOMContentLoaded",
-            () => {
-                loadMarkdown(
-                    document.getElementById("tab0")
-                );
-            }
-        );
-
+        document.addEventListener("DOMContentLoaded", () => loadMarkdown(document.getElementById("tab0")));
     </script>
-
 </body>
 </html>
