@@ -14,7 +14,10 @@
 
 <br>
 
-2026/6/26 6:40PM <br>
+2026/6/26 10:03AM <br>
+한국 외의 지역에 계신 분들도 한국 학회에 쉽게 가입하거나 원격으로도 참석할 수 있다면 모두에게 더 좋지 않을까? ㅇㅁㅇ.. <br>
+
+2026/6/26 6:40AM <br>
 I hope there would be more public lectures from Prof. Bohyung Han & Prof. Jae Sung Lee and their public knowledge sharings in addition to their article (or paper) publications as well.. <br>
 
 2026/6/25 2:41PM <br>
