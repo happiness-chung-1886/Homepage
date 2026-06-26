@@ -14,6 +14,9 @@
 
 <br>
 
+2026/6/26 3:50PM <br>
+최근 David Stutz (Staff research scientist at Google DeepMind) 님의 홈페이지를 보게 되었는데 inspiring하고 그래서 내 홈페이지를 디자인도 좀 더 개선 해 봐야겠다는 생각도 들었다. <br>
+
 2026/6/26 11:15AM <br>
 생김새로 자책하거나 우울해하지 않아도 되는 세상이 온다면 어떨까? 😶 <br>
 
