@@ -98,6 +98,45 @@
         a {
             color: #969696;
         }
+        .diary-card {
+            border: 1px solid #eee;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 16px;
+            transition: transform 0.2s, box-shadow 0.2s;
+            background: #fafafa;
+        }
+
+        .diary-card:hover {
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .diary-meta {
+            font-size: 0.85em;
+            color: #888;
+            margin-bottom: 10px;
+        }
+
+        .diary-actions {
+            margin-top: 15px;
+            display: flex;
+            gap: 15px;
+            border-top: 1px solid #eee;
+            padding-top: 10px;
+        }
+
+        .action-btn {
+            cursor: pointer;
+            background: none;
+            border: none;
+            color: #555;
+            font-size: 0.9em;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+
+        .action-btn:hover { color: #000; }
     </style>
 </head>
 
