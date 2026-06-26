@@ -15,7 +15,7 @@
 <br>
 
 2026/6/26 6:40PM <br>
-I hope there would be more public lectures from Prof. Bohyung Han & Prof. Jae Sung Lee and their public knowledge sharings in addition to the publications as well. <br>
+I hope there would be more public lectures from Prof. Bohyung Han & Prof. Jae Sung Lee and their public knowledge sharings in addition to their article (or paper) publications as well. <br>
 
 2026/6/25 2:41PM <br>
 Although I have always sincerely respected art, I have become concerned that placing too much emphasis on artistic aspects may lead to less logical or too subjective consequences. As I have learned, the goals and focus of art and academic study are related, but they are not the same. <br>
