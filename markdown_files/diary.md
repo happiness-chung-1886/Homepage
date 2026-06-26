@@ -15,7 +15,7 @@
 <br>
 
 2026/6/26 10:03AM <br>
-한국 외의 지역에 계신 분들도 한국 학회에 쉽게 가입하거나 원격으로도 참석할 수 있다면 모두에게 더 좋지 않을까? ㅇㅁㅇ.. 학회 운영 자금 확보에도 한국과 학회를 널리 알리는데도 또 한국 기업들 홍보에도 좋을것 같은데.. ㅇㅁㅇ.. <br>
+한국 외의 나라의 지역에 계신 분들도 한국 학회에 쉽게 가입하거나 원격으로도 참석할 수 있다면 모두에게 더 좋지 않을까? ㅇㅁㅇ.. 학회 운영 자금 확보에도 한국과 학회를 널리 알리는데도 또 한국 기업들 홍보에도 좋을것 같은데 국제 사회에서 한국 전문가분들의 전문성이 더 널리 알려질 수 있을 것 같기도 하구.. ㅇㅁㅇ.. 지식을 share하고 humanism을 중시하는 하는 국가로 나아가서 국제적으로 진정한 신뢰를 더 쌓을수 있다면 또 모두에게 좋을 것 같기도 하고..<br>
 
 2026/6/26 6:40AM <br>
 I hope there would be more public lectures from Prof. Bohyung Han & Prof. Jae Sung Lee and their public knowledge sharings in addition to their article (or paper) publications as well.. <br>
