@@ -27,7 +27,7 @@ I hope there would be more public lectures from Prof. Bohyung Han & Prof. Jae Su
 Although I have always sincerely respected art, I have become concerned that placing too much emphasis on artistic aspects may lead to less logical or too subjective consequences. As I have learned, the goals and focus of art and academic study are related, but they are not the same. <br>
 
 2026/6/25 8:34PM <br>
-<img src="images/image82.jpeg" height="300"><br>
+<img src="images/image82.jpeg" height="600"><br>
 Good news from Korea! :D <br>
 
 2026/6/24 10:43PM <br>
