@@ -93,19 +93,25 @@
                 
                 // Diary 탭일 경우 수정된 로직
                 if (tabElement.id === 'tab7') {
-                    // 1. 텍스트를 빈 줄 두 개(\n\n) 기준으로 쪼개서 블록 만들기
+                    let newHtml = ''; // 모든 걸 담을 변수웅
+
+                    // 1. 운영 원칙(diary_info.md) 먼저 추가
+                    try {
+                        let introText = await fetchText('markdown_files/diary_info.md');
+                        newHtml += `<div class="diary-intro">${marked.parse(introText)}</div>`;
+                    } catch (e) {
+                        console.log("운영 원칙 파일을 불러오지 못했웅, 계속 진행웅!");
+                    }
+
+                    // 2. 기록 블록들 추가
                     const blocks = text.split(/\n\s*\n/);
-                    let newHtml = '';
-
                     blocks.forEach(block => {
-                        if (block.trim() === '') return; // 빈 블록은 건너뛰기
+                        if (block.trim() === '') return;
 
-                        // 2. 블록의 첫 줄을 제목(날짜 포함), 나머지를 본문으로 분리
                         const lines = block.trim().split('\n');
-                        const header = lines[0]; // 첫 줄
-                        const body = lines.slice(1).join('\n'); // 나머지 본문
+                        const header = lines[0];
+                        const body = lines.slice(1).join('\n');
                         
-                        // 3. 카드 생성
                         newHtml += `
                             <div class="diary-card">
                                 <div class="diary-meta" style="font-weight: bold; color: #333; margin-bottom:10px;">${header}</div>
@@ -116,6 +122,8 @@
                                 </div>
                             </div>`;
                     });
+                    
+                    // 3. 완성된 전체 HTML을 덮어씌움웅
                     html = newHtml;
                 }
                 

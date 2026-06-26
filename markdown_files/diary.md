@@ -1,28 +1,6 @@
-<img src="images/image79.png" height="200"> </br>
-<div style="font-size: 15px;  margin-bottom: 10px;">
-🌈 i appreciate the alliance for the sexual minority as well, as an ally as well 😃🌈
-</div>
 
-<div style="font-size: 15px;  margin-bottom: 100px;">
-🚀 Metaphors: i do not intentionally use metaphors with my very best in this diary. i aim for literal, precise communication as i am developing my professional writing skills as well. Each entry is written in not continued from the previous entries (do not form a logically continuous narrative), separating my thoughts that pop up in my mind with the time it is written. And the scope of this diary is of course not limited to the UNIVERSE but broader. If there is correlations between entries or my other LinkedIn participations, i mention those. <br>
-🚀 Mentions: i mention specific names to express sincere appreciation. While some entries may contain critical observations regarding anonymized societal behaviors or systemic architectures, these reflections are intended to contribute to a deeper understanding and a better future for all. <br>
-🚀 Guidance and Monitoring: This is an open record of my personal and academic growth. i learn under the Professors, and i appreciate their monitoring and implicit or explicit advising of course. <br>
-🚀 Authorship and Knowledge: this personal diary is for common good and to share my learnings. If i have inadvertently overlooked relevant work, i sincerely apologize and appreciate corrections that would make me learn. <br>
-🚀 If there are demends, this diary can be summarized and then distributed without profit as a pdf format as well! <br>
-🚀 i do not and refuse to interpret every name of people or non-human animals or institutions as the semantic metaphor 🙇‍♀️. <br>
-🚀 i say in Korean when i have not enough energy to say in English T.T <br>
-</div>
-
-<br>
-
-<div class="diary-card">
-    <div class="diary-meta">2026/06/26 3:50PM</div>
-    <p>최근 David Stutz (Staff research scientist at Google DeepMind) 님의 홈페이지를 보게 되었는데 나랑 약간 비슷한 구성이라서 굉장히 큰 영광이었다. 그런데 그 홈페이지가 훨씬 더 훌륭해 보였고 그런 면에서 굉장히 inspiring했다. 본받아서 내 홈페이지 디자인이랑 구성도 틈틈히 좀 더 개선 해 봐야겠다! </p>
-    <div class="diary-actions">
-        <button class="action-btn" onclick="alert('좋아요 눌렀웅!')">❤️ 좋아요</button>
-        <button class="action-btn">💬 댓글</button>
-    </div>
-</div>
+2026/6/26 3:50PM <br>
+최근 David Stutz (Staff research scientist at Google DeepMind) 님의 홈페이지를 보게 되었는데 나랑 약간 비슷한 구성이라서 굉장히 큰 영광이었다. 그런데 그 홈페이지가 훨씬 더 훌륭해 보였고 그런 면에서 굉장히 inspiring했다. 본받아서 내 홈페이지 디자인이랑 구성도 틈틈히 좀 더 개선 해 봐야겠다! <br>
 
 2026/6/26 11:15AM <br>
 생김새로 자책하거나 우울해하지 않아도 되는 세상이 온다면 어떨까? 😶 <br>
