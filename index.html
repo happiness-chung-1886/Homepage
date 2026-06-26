@@ -91,38 +91,31 @@
                 // 마크다운 파싱
                 let html = marked.parse(text);
                 
-                // Diary 탭일 경우 [diary] 태그를 카드로 변환
                 // Diary 탭일 경우 수정된 로직
                 if (tabElement.id === 'tab7') {
-                    const tempDiv = document.createElement('div');
-                    tempDiv.innerHTML = html;
-                    
-                    // 날짜 패턴 (한 줄 전체를 잡도록 수정)
-                    const dateLineRegex = /^(\d{4}\/\d{1,2}\/\d{1,2}\s+\d{1,2}:\d{2}(?:AM|PM)(?:\s+~\s+\d{4}\/\d{1,2}\/\d{1,2}\s+\d{1,2}:\d{2}(?:AM|PM))?.*)$/gm;
-                    
-                    let content = tempDiv.innerHTML;
-                    // 날짜가 포함된 줄 전체를 구분자로 삼아 쪼개기
-                    const parts = content.split(dateLineRegex);
-                    
+                    // 1. 텍스트를 빈 줄 두 개(\n\n) 기준으로 쪼개서 블록 만들기
+                    const blocks = text.split(/\n\s*\n/);
                     let newHtml = '';
-                    // 쪼개진 부분들을 하나씩 확인하며 카드 생성
-                    for (let i = 1; i < parts.length; i += 2) {
-                        const headerStr = parts[i]; // 날짜 + 제목이 포함된 줄 전체
-                        let bodyContent = parts[i + 1] || '';
+
+                    blocks.forEach(block => {
+                        if (block.trim() === '') return; // 빈 블록은 건너뛰기
+
+                        // 2. 블록의 첫 줄을 제목(날짜 포함), 나머지를 본문으로 분리
+                        const lines = block.trim().split('\n');
+                        const header = lines[0]; // 첫 줄
+                        const body = lines.slice(1).join('\n'); // 나머지 본문
                         
-                        // 본문 앞의 불필요한 공백/줄바꿈 정리
-                        bodyContent = bodyContent.replace(/^(\s*<br\s*\/?>\s*)+/, '').trim();
-                        
+                        // 3. 카드 생성
                         newHtml += `
                             <div class="diary-card">
-                                <div class="diary-meta" style="font-weight: bold; color: #333;">${headerStr}</div>
-                                <div class="diary-body">${marked.parse(bodyContent)}</div>
-                                <div class="diary-actions">
-                                    <button class="action-btn" onclick="toggleLike(this)">❤️ like</button>
-                                    <button class="action-btn" onclick="openComments()">💬 comment</button>
+                                <div class="diary-meta" style="font-weight: bold; color: #333; margin-bottom:10px;">${header}</div>
+                                <div class="diary-body">${marked.parse(body)}</div>
+                                <div class="diary-actions" style="margin-top:15px; border-top:1px solid #eee; padding-top:10px;">
+                                    <button class="action-btn" onclick="toggleLike(this)">❤️ 좋아요</button>
+                                    <button class="action-btn" onclick="openComments()">💬 댓글</button>
                                 </div>
                             </div>`;
-                    }
+                    });
                     html = newHtml;
                 }
                 
