@@ -1,4 +1,7 @@
 
+2026/6/26 8:37PM <br>
+The volunteer research experience that i wrote today was referred the following sources : https://legacy.nau.edu/wp-content/uploads/sites/177/2018/12/Highlighting_Research_On_Resume.pdf, https://www.linkedin.com/pulse/how-include-unpaid-work-experience-your-resume-jenn-gardner-cprw-ikntc?utm_source=share&utm_medium=member_ios&utm_campaign=share_via, https://www.visualcv.com/unpaid-work-on-resume/. If there are people who are in the similar environment, i hope these sources are useful as well (Because the people i asked and me couldn't clearly designate about how to write the reseach experiences. But as i learned, there are quite many people who are in the similar environment)! :D If there is another better way to record it, i appreciate if any of you let me know!<br>
+
 2026/6/26 3:50PM <br>
 최근 David Stutz (Staff research scientist at Google DeepMind) 님의 홈페이지를 보게 되었는데 나랑 약간 비슷한 구성이라서 굉장히 큰 영광이었다. 그런데 그 홈페이지가 훨씬 더 훌륭해 보였고 그런 면에서 굉장히 inspiring했다. 본받아서 내 홈페이지 디자인이랑 구성도 틈틈히 좀 더 개선 해 봐야겠다! <br>
 
