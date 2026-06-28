@@ -1,5 +1,5 @@
 2026/6/28 10:52PM <br>
-Although i do not always make reactions to all the postings that i appreciate, inspired for several reasons, i gratefully learn from the postings from the people and the companies who i follow. <br>
+Although i do not always make reactions to all the postings that i appreciate, inspired for several reasons, i gratefully learn  from the people and the companies who i follow including their posings on LinkedIn.<br>
 
 2026/6/27 11:26PM <br>
 사람들의 프로필 사진들이 전부 동물들 사진이나 그림으로 바뀌면 어떤 일이 일어날까? ㅎㅁㅎ ㅋㅁㅋ 어렸을 땐 그런 생각을 했다. 만약에 사람들에게 전부 날개나 꼬리가 있다면? 아마 학교 복도에 "쉬는시간에 복도에서 날지 마세요" "수업 중에는 꼬리를 얌전히 말아 다리 위에 올려둡니다" 와 같은 예절 교육이 있지 않았을까? 🤔<br>
