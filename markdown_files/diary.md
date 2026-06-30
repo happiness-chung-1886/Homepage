@@ -1,5 +1,5 @@
 2026/6/30 4:25PM <br>
-오늘의 새로운 링크드인의 소식 (일종의 scientific progress 뉴스?) 들을 보면 Artificial Intelligence의 advancement가 scientific founding을 accelerating 하는데 큰 도움이 되는 방향으로 이루어지고 있는것 같아서 기쁩니다! 하지만 저 개인적으로는 아무래도 분야가 밀접해서 이런 progress가 자연스러울 수 있지만 아직도 인문사회과학 분야에서는 AI의 진전이 많이 이루어져야 더 reliable한 co-scientist가 될 수 있지 않을까? 생각하고 있습니다. 그래도 제가 다행이라고 생각하는 부분은, commercial multi-modal model product 나 service들이 제도의 허점을 파고드는 비윤리적인 행동들을 하는 방법들에 대해서 큰 위험성을 인지하고 제한하고 있다는 점입니다. <br>
+오늘의 새로운 링크드인의 소식 (일종의 scientific progress 뉴스?) 들을 보면 Artificial Intelligence의 advancement가 scientific founding을 accelerating 하는데 큰 도움이 되는 방향으로 이루어지고 있는것 같아서 기쁩니다! 하지만 저 개인적으로는 아무래도 분야가 밀접해서 이런 progress가 자연스러울 수 있지만 아직도 인문사회과학 분야에서는 AI의 진전이 많이 이루어져야 더 reliable한 co-scientist가 될 수 있지 않을까? 생각하고 있습니다. 그래도 제가 다행이라고 생각하는 부분은, commercial multi-modal model product 나 service들이 제도의 허점을 파고드는 비윤리적인 행동들을 하는 방법들에 대해서 알려주는 것에 대해 큰 위험성을 인지하고 제한하고 있다는 점입니다. <br>
 
 2026/6/29 11:44AM <br>
 사적 모임을 공적 관계에서 독려하지 말라는 비판들의 본질은 업무와 직접 관련이 없는 사항들, 그리고 혐오 (“미움”과는 다른 의미라고 사회정의 관련 수업에서 배웠습니다) 의 소지가 있는 이유들, 즉 소위 그 “정치적인” 이유들로 공적인 관계에서 불이익을 주는 행동을 하지 말라는 뜻으로 이해했습니다. 또 회식 자리에서 그 “충성도”를 확인하기 위해 가혹 행위를 하다가 인명 피해가 발생하는 일들도 종종 한국 뉴스에서도 볼 수 있습니다. 최근에 국제적으로 여러 기관 차원에서도 이를 방지하려는 시도가 있는 것으로 알고 있어 희망적인 것 같습니다. 제가 이러한 논의를 올리는 시점과 최근 링크드인의 flow들은 무관합니다. <br>
