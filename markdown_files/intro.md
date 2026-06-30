@@ -4,7 +4,7 @@
 
 ## Always open to work
 <img src="images/image78.png" height="300"><br>
-* **Research Focus**: AI, Medicine, Robotics with Ethics and Formal Verification
+* **Research Focus**: The intersection of AI, Medicine, and Robotics with Ethics and Formal Verification
 * **Contact Address**: hc101@illinois.edu / hb0522@snu.ac.kr / rhtn9088@ewhain.net / LinkedIn message <br>
 If you have any question, feel free to contact me :D
 
