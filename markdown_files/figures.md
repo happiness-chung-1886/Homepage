@@ -29,7 +29,7 @@ Discovered Alzheimer's Dementia <br>
 (Reference: https://namu.wiki/w/%EC%95%8C%EB%A1%9C%EC%9D%B4%EC%8A%A4%20%EC%95%8C%EC%B8%A0%ED%95%98%EC%9D%B4%EB%A8%B8)
 </div>
 
-<img src="images/image83.png" height="400"> <br>
+<img src="images/image83.jpg" height="400"> <br>
 Marie Skłodowska Curie<br>
 1867 - 1934, Poland <br>
 Pioneered Medical Imaging and Nuclear Medicine <br>
