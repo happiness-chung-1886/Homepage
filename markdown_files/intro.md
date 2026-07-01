@@ -4,7 +4,7 @@
 
 ## Always open to work
 <img src="images/image78.png" height="300"><br>
-* **Research Focus**: Advancing Artificial Intelligence across Medicine and Robotics grounded in Ethics and Formal Verification
+* **Research Focus**: Advancing Artificial Intelligence across Medicine and Robotics, grounded in Ethics and Formal Verification
 * **Contact Address**: hc101@illinois.edu / hb0522@snu.ac.kr / rhtn9088@ewhain.net / LinkedIn message <br>
 If you have any question, feel free to contact me :D
 
