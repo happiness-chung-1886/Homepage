@@ -23,7 +23,7 @@ Was Against The Atomic Bomb <br>
 
 <img src="images/image25.png" height="400"> <br>
 Alois Alzheimer <br>
-1864-1915, Germany <br>
+1864 - 1915, Germany <br>
 Discovered Alzheimer's Dementia <br>
 <div style="font-size: 7px;  margin-bottom: 100px;">
 (Reference: https://namu.wiki/w/%EC%95%8C%EB%A1%9C%EC%9D%B4%EC%8A%A4%20%EC%95%8C%EC%B8%A0%ED%95%98%EC%9D%B4%EB%A8%B8)
