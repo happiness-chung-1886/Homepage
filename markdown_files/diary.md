@@ -1,3 +1,7 @@
+
+2026/7/2 6:23PM <br>
+After listening to the lecture of Prof. Jae Sung Lee at SNMMI 2026, i'm studying the work of the professor cited in the lecture. i plan to share this study focusing on how to conduct creative research in nuclear medicine as well! :D <br> 
+
 2026/7/1 8:23AM <br>
 On the upcoming commemoration of Marie Curie's passing, I will write honoring her scientific legacy while reflecting on women in workplace. As I learned in "Gender Studies", although women have made remarkable progress in entering society, I hope more women will study about sociology so that they can better understand and help reduce the historical and structural inequities for social minorities including women. I think this is meaningful in that this historical, structural othering is repeated not only to women, that is also understudied as well. Although I have much to learn, I sincerely hope that my small efforts, like those of the people who came before me, may contribute in some way to building a society that is genuinely more fair, equitable, and inclusive.<br>
 

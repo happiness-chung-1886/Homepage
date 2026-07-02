@@ -31,6 +31,14 @@
         .action-btn { cursor: pointer; background: none; border: none; color: #555; font-size: 0.9em; display: flex; align-items: center; gap: 5px; }
         .action-btn:hover { color: #000; }
         a { color: #969696; }
+        .perspective-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px;}
+        .perspective-card { border: 1px solid #eee; border-radius: 18px; padding: 22px; background: linear-gradient(135deg, #fafafa, #ffffff); box-shadow: 0 6px 18px rgba(0,0,0,0.04); cursor: pointer; transition: transform 0.2s, box-shadow 0.2s;}
+        .perspective-card:hover {transform: translateY(-4px); box-shadow: 0 10px 24px rgba(0,0,0,0.08);}
+        .perspective-date { font-size: 0.85em; color: #888; margin-bottom: 10px;}
+        .perspective-title { font-size: 1.25em; font-weight: bold; color: #222; margin-bottom: 10px;}
+        .perspective-desc { color: #666; font-size: 0.95em;}
+        .back-btn { margin-bottom: 20px; cursor: pointer; border: none; background: #f1f1f1; padding: 8px 14px; border-radius: 10px; color: #444;}
+        .back-btn:hover {background: #e6e6e6;}
     </style>
 </head>
 <body>
@@ -47,6 +55,7 @@
         <button onclick="openTab(event, 'tab6')">Open Research</button>
         <button onclick="openTab(event, 'tab7')">Diary</button>
         <button onclick="openTab(event, 'tab8')">Preprint</button>
+        <button onclick="openTab(event, 'tab9')">Perspectives</button>
     </nav>
 
     <div id="tab0" class="tab-content active" data-md="markdown_files/intro.md"></div>
@@ -140,7 +149,11 @@
             const selectedTab = document.getElementById(tabId);
             selectedTab.classList.add("active");
             evt.currentTarget.classList.add("active");
-            loadMarkdown(selectedTab);
+            if (tabId === "tab9") {
+                renderPerspectivesList();
+            } else {
+                loadMarkdown(selectedTab);
+            }
         }
 
         function toggleLike(btn) {
@@ -150,6 +163,62 @@
 
         function openComments() {
             alert('connecting comments ~ 🐰');
+        }
+
+        const perspectives = [
+            {
+                title: "Remembering Marie Curie: Her Legacy and the Ongoing Pursuit of Equity in Academia",
+                date: "July, 2026",
+                file: "markdown_files/perspectives/07042026.md"
+            },
+            {
+                title: "Why True Negatives Matter as Much as True Positives Especially in the Mental Health Diagnosis",
+                date: "May 2026",
+                file: "markdown_files/perspectives/05192026.md"
+            }
+        ];
+
+        function renderPerspectivesList() {
+            const tab = document.getElementById("tab9");
+
+            let html = `
+                <h1>Perspectives</h1>
+                <p>Personal reflections based on lectures, readings, research experiences, and literature.</p>
+                <div class="perspective-grid">
+            `;
+
+            perspectives.forEach((item, index) => {
+                html += `
+                    <div class="perspective-card" onclick="openPerspective(${index})">
+                        <div class="perspective-date">${item.date}</div>
+                        <div class="perspective-title">${item.title}</div>
+                        <div class="perspective-desc">${item.desc}</div>
+                    </div>
+                `;
+            });
+
+            html += `</div>`;
+            tab.innerHTML = html;
+        }
+
+        async function openPerspective(index) {
+            const tab = document.getElementById("tab9");
+            const item = perspectives[index];
+
+            tab.innerHTML = "<p>Loading...</p>";
+
+            try {
+                const text = await fetchText(item.file);
+                tab.innerHTML = `
+                    <button class="back-btn" onclick="renderPerspectivesList()">← Back to Perspectives</button>
+                    ${marked.parse(text)}
+                `;
+            } catch (error) {
+                tab.innerHTML = `
+                    <button class="back-btn" onclick="renderPerspectivesList()">← Back to Perspectives</button>
+                    <p class="error">글을 불러오지 못했습니다.</p>
+                `;
+            }
         }
 
         document.addEventListener("DOMContentLoaded", () => loadMarkdown(document.getElementById("tab0")));
