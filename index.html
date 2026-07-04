@@ -40,8 +40,6 @@
         .back-btn { margin-bottom: 20px; cursor: pointer; border: none; background: #f1f1f1; padding: 8px 14px; border-radius: 10px; color: #444;}
         .back-btn:hover {background: #e6e6e6;}
     </style>
-    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-database-compat.js"></script>
 </head>
 <body>
     <div class="banner">
@@ -70,34 +68,6 @@
     <div id="tab9" class="tab-content"></div>
 
     <script>
-        
-        const firebaseConfig = {
-            apiKey: "여기에_apiKey",
-            authDomain: "여기에_authDomain",
-            databaseURL: "여기에_databaseURL",
-            projectId: "여기에_projectId",
-            storageBucket: "여기에_storageBucket",
-            messagingSenderId: "여기에_messagingSenderId",
-            appId: "여기에_appId"
-        };
-
-        firebase.initializeApp(firebaseConfig);
-        const db = firebase.database();
-
-
-        window.setupInspiring = function(postId) {
-            const btn = document.getElementById("inspiring-btn");
-            const countSpan = document.getElementById("inspiring-count");
-            const likeRef = ref(db, "likes/" + postId);
-
-            onValue(likeRef, snapshot => {
-                countSpan.innerText = snapshot.val() || 0;
-            });
-
-            btn.onclick = () => {
-                runTransaction(likeRef, current => (current || 0) + 1);
-            };
-        };
         async function fetchText(path) {
             console.log("fetch path:", path);
             const response = await fetch(path);
@@ -158,9 +128,7 @@
                                 <div class="diary-meta" style="font-weight: bold; color: #333; margin-bottom:10px;">${header}</div>
                                 <div class="diary-body">${marked.parse(body)}</div>
                                 <div class="diary-actions" style="margin-top:15px; border-top:1px solid #eee; padding-top:10px;">
-                                    <button class="action-btn" onclick="toggleLike(this)">
-                                        💡 inspiring <span class="like-count">0</span>
-                                    </button>
+                                    <button class="action-btn" onclick="toggleLike(this)">💡 inspiring</button>
                                     <button class="action-btn" onclick="openComments()">💬 comments</button>
                                 </div>
                             </div>`;
@@ -171,17 +139,6 @@
                 }
                 
                 tabElement.innerHTML = html;
-                if (tabElement.id === "tab7") {
-                    document.querySelectorAll(".diary-card").forEach(card => {
-                        const title = card.querySelector(".diary-meta").innerText.trim();
-                        const diaryId = title.replace(/[.#$/\[\]]/g, "_");
-                        const countSpan = card.querySelector(".like-count");
-
-                        db.ref("diary_likes/" + diaryId).on("value", snapshot => {
-                            countSpan.innerText = snapshot.val() || 0;
-                        });
-                    });
-                }
                 tabElement.dataset.loaded = "true";
             } catch (error) {
                 tabElement.innerHTML = `<p class="error">파일을 불러오지 못했습니다.</p>`;
@@ -201,18 +158,9 @@
             }
         }
 
-        function getDiaryId(btn) {
-            const card = btn.closest(".diary-card");
-            const title = card.querySelector(".diary-meta").innerText.trim();
-            return title.replace(/[.#$/\[\]]/g, "_");
-        }
-
         function toggleLike(btn) {
-            const diaryId = getDiaryId(btn);
-            const countSpan = btn.querySelector(".like-count");
-            const likeRef = db.ref("diary_likes/" + diaryId);
-
-            likeRef.transaction(current => (current || 0) + 1);
+            btn.style.color = btn.style.color === 'red' ? '#555' : 'red';
+            btn.textContent = btn.textContent.includes('like') ? '💡 inspiring ' : '💡 inspiring ';
         }
 
         function openComments() {
@@ -223,12 +171,12 @@
             {
                 title: "Remembering Marie Curie: Her Legacy and the Ongoing Pursuit of Equity for Everyone",
                 date: "July 2026",
-                file: "markdown_files/Perspectives/07042026.md"
+                file: "markdown_files/perspectives/07042026.md"
             },
             {
                 title: "Why True Negatives Matter as Much as True Positives Especially in the Mental Health Diagnosis",
                 date: "May 2026",
-                file: "markdown_files/Perspectives/05192026.md"
+                file: "markdown_files/perspectives/05192026.md"
             }
         ];
 
@@ -271,31 +219,6 @@
             backBtn.innerText = "← Back to Perspectives";
             backBtn.onclick = renderPerspectivesList;
             tab.prepend(backBtn);
-
-            const commentsDiv = document.createElement("div");
-            commentsDiv.style.marginTop = "40px";
-            tab.appendChild(commentsDiv);
-            addGiscus(commentsDiv);
-        }
-
-        function addGiscus(container) {
-            const giscus = document.createElement("script");
-            giscus.src = "https://giscus.app/client.js";
-            giscus.setAttribute("data-repo", "happiness-chung-1886/레포이름");
-            giscus.setAttribute("data-repo-id", "여기에_repo_id");
-            giscus.setAttribute("data-category", "General");
-            giscus.setAttribute("data-category-id", "여기에_category_id");
-            giscus.setAttribute("data-mapping", "pathname");
-            giscus.setAttribute("data-strict", "0");
-            giscus.setAttribute("data-reactions-enabled", "1");
-            giscus.setAttribute("data-emit-metadata", "0");
-            giscus.setAttribute("data-input-position", "bottom");
-            giscus.setAttribute("data-theme", "light");
-            giscus.setAttribute("data-lang", "en");
-            giscus.crossOrigin = "anonymous";
-            giscus.async = true;
-
-            container.appendChild(giscus);
         }
 
         document.addEventListener("DOMContentLoaded", () => loadMarkdown(document.getElementById("tab0")));
