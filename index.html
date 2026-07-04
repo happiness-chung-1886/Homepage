@@ -157,11 +157,11 @@
 
         function toggleLike(btn) {
             btn.style.color = btn.style.color === 'red' ? '#555' : 'red';
-            btn.textContent = btn.textContent.includes('like') ? '❤️ liked ' : '❤️ liked';
+            btn.textContent = btn.textContent.includes('like') ? '💡 inspiring ' : '💡 inspiring ';
         }
 
         function openComments() {
-            alert('connecting comments ~ 🐰');
+            alert('connecting comments 🐰');
         }
 
         const perspectives = [
@@ -181,8 +181,6 @@
             const tab = document.getElementById("tab9");
 
             let html = `
-                <h1>Perspectives</h1>
-                <p>Personal reflections based on lectures, readings, research experiences, and literature.</p>
                 <div class="perspective-grid">
             `;
 
@@ -191,7 +189,6 @@
                     <div class="perspective-card" onclick="openPerspective(${index})">
                         <div class="perspective-date">${item.date}</div>
                         <div class="perspective-title">${item.title}</div>
-                        <div class="perspective-desc">${item.desc}</div>
                     </div>
                 `;
             });
