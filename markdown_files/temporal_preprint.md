@@ -20,7 +20,3 @@ Preprinted under the official approvement <br>
 arXiv: https://arxiv.org/abs/2606.19676 <br>
 Github: https://github.com/Happiness-Chung/VE/tree/main <br>
 edits: [https://drive.google.com/drive/folders/1eOTmBH0bpvLPsvMHXW6MCozLGSMvNtXe?usp=drive_link](https://drive.google.com/drive/folders/1eOTmBH0bpvLPsvMHXW6MCozLGSMvNtXe?usp=drive_link)
-
-**Practicing Writing Opinions:**  
-AI Disclosure: Gemini-3.1-Flash-Light gave the feedbacks  
-[https://drive.google.com/drive/folders/1wxkAPdghjmQ6aZy1tayptWlelVfAmQip?usp=drive\_link](https://drive.google.com/drive/folders/1wxkAPdghjmQ6aZy1tayptWlelVfAmQip?usp=drive_link)
