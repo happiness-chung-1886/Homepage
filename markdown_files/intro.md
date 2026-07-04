@@ -1,4 +1,4 @@
-## Let's Hope for a Better World Where Happiness Is for Everyone (or All)! 
+## Let's Hope for a Better World Where Happiness Is for "EVERYONE"! 
 
 <br>
 
