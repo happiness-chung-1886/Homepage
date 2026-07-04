@@ -204,22 +204,21 @@
             const tab = document.getElementById("tab9");
             const item = perspectives[index];
 
-            tab.innerHTML = "<p>Loading...</p>";
+            // 1. 선택된 파일 경로를 data-md 속성에 할당
+            tab.setAttribute("data-md", item.file);
+            
+            // 2. 이미 로드된 상태일 수 있으니 데이터 초기화 (다시 불러오기 위해)
+            tab.dataset.loaded = "false";
+            
+            // 3. 기존 loadMarkdown 함수를 그대로 사용
+            await loadMarkdown(tab);
 
-            try {
-                const text = await fetchText(item.file);
-                tab.innerHTML = `
-                    <button class="back-btn" onclick="renderPerspectivesList()">← Back to Perspectives</button>
-                    ${marked.parse(text)}
-                `;
-            } catch (error) {
-            tab.innerHTML = `
-                <button class="back-btn" onclick="renderPerspectivesList()">← Back to Perspectives</button>
-                <p class="error">글을 불러오지 못했습니다.<br>
-                경로: ${item.file}<br>
-                에러: ${error.message}</p>
-            `;
-        }
+            // 4. Back 버튼 추가 (loadMarkdown이 내용을 덮어쓰므로 맨 뒤에 추가)
+            const backBtn = document.createElement("button");
+            backBtn.className = "back-btn";
+            backBtn.innerText = "← Back to Perspectives";
+            backBtn.onclick = renderPerspectivesList;
+            tab.prepend(backBtn);
         }
 
         document.addEventListener("DOMContentLoaded", () => loadMarkdown(document.getElementById("tab0")));
