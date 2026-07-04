@@ -2,7 +2,7 @@
 
 <br>
 
-## Always open to work
+## Always Open to Work
 <img src="images/image78.png" height="300"><br>
 * **Research Focus**: Advancing Artificial Intelligence across Medicine and Robotics, grounded in Ethics and Formal Verification
 * **Contact Address**: hc101@illinois.edu / hb0522@snu.ac.kr / rhtn9088@ewhain.net / LinkedIn message <br>
