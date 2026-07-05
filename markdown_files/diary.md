@@ -1,3 +1,5 @@
+2026/7/4 7:21PM <br>
+The workshop that i learned from Prof. Manling Li's LinkedIn recently, 'ACL 2026 Workshop on Toward Knowledgeale Foundation Models (KnowFM)', was graceful as well and i appreciate their generousity of opening the workshop via the online as well. i will study the papers (or articels) introduced from the workshop to further extend the current project report, that is highly related to the workshop! (i'm not sure how can i sharing the analysis of mine related to the papers yet..) <br>
 
 2026/7/2 6:23PM <br>
 After listening to the lecture of Prof. Jae Sung Lee at SNMMI 2026, i'm studying the work of the professor cited in the lecture. i plan to share this study focusing on how to conduct more creative research in nuclear medicine as well! :D <br> 
