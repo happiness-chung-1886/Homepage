@@ -1,3 +1,6 @@
+2026/7/6 3:57PM <br>
+i'm not sure but improving timing resolution of CMOS sensors via interpreting the pulse-shape with machine learning methods may inherit the philosophy of SiPMs.. <br>
+
 2026/7/4 7:21PM <br>
 The workshop that i learned from Prof. Manling Li's LinkedIn recently, 'ACL 2026 Workshop on Toward Knowledgeale Foundation Models (KnowFM)', was graceful as well and i appreciate their generousity of opening the workshop via the online as well. i will study the papers (or articels) introduced from the workshop to further extend the current project report, that is highly related to the workshop! (i'm not sure how can i sharing the analysis of mine related to the papers yet..) <br>
 
