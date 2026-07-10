@@ -1,5 +1,5 @@
 2026/7/10 10:50AM <br>
-The non-human animal sound is intepretated while harmonized with non-human animal rights, there may be the findings as well.
+The non-human animal sound intepretation harmonized with non-human animal rights, may engender the findings as well. <br>
 
 2026/7/6 3:57PM <br>
 i'm not sure but improving timing resolution of CMOS sensors via interpreting the pulse-shape with machine learning methods may inherit (or follow) the philosophy of SiPMs.. <br>
