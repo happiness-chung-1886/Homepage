@@ -2,7 +2,7 @@
 i personally think that i observed the relevance of the solutions for a better world and the global leadership considering today's landscape within what i have learned. <br>
 
 2026/7/10 10:50AM <br>
-The interpretation of non-human animal sounds, harmonized with non-human animal right, may engender findings similar to those studied from University of Michigan. <br>
+The interpretation of non-human animal sounds, harmonized with non-human animal right, may engender findings similar to those studied from University of Michigan. And the sound may be better to be paired with their corresponding actions.<br>
 
 2026/7/6 3:57PM <br>
 i'm not sure but improving timing resolution of CMOS sensors via interpreting the pulse-shape with machine learning methods may inherit (or follow) the philosophy of SiPMs.. <br>
