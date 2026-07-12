@@ -4,7 +4,7 @@ i personally think that i observed the relevance of the solutions for a better w
 2026/7/10 10:50AM <br>
 The interpretation of non-human animal sounds, harmonized with non-human animal right, may engender findings similar to those studied from University of Michigan. And the sound may be better to be paired with their corresponding actions.<br>
 
-2026/7/6 3:57PM ~ 2026/7/11 2:25PM <br>
+2026/7/6 3:57PM ~ 2026/7/11 7:09PM <br>
 i'm not sure but improving timing resolution of CMOS sensors via interpreting the pulse-shape with machine learning methods may inherit (or follow) the philosophy of SiPMs.. (As far as i studied, while SiPMs with microcells are constrained by analog readout architectures that require complex wiring for each segment, limiting their spatial resolution due to the physical constraints. CMOS-based systems mitigate resolution limits via the pre-segmented, more easily scalable pixel-based architecture, the inherent thresholding mechanism of the pixel-based architecture, that reduce signal detection ambiguity (thereby reducing the need for flood map optimization), and the synergy with the state-of-the-art intersection between pixel-based Computer Vision, Machine Learning, and Medical Imaging (alphabetical order) methods.). If this is useful even a little bit, i appreciate all the lessons that i have learned under Prof. Jae Sung Lee. <br>
 
 2026/7/4 7:21PM <br>
