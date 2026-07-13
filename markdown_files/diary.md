@@ -1,3 +1,6 @@
+2026/7/13 11:13AM <br>
+Thinking about the lessons from the professors, if there are people who understand work as not the part of 'zero-sum' games, but the effort to enlarge the entire 'pie', and align their behaviors with this understanding, their energy may function like a solar energy for all life on Earth. <br>
+
 2026/7/11 12:09AM <br>
 i personally think that i observed the relevance of the solutions for a better world and the global leadership considering today's landscape within what i have learned. <br>
 
