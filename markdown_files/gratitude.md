@@ -20,8 +20,8 @@ This record is a personal testament of my sincere heart, faith and reverence, de
 
 **𝗣𝘂𝗯𝗹𝗶𝗰 𝗟𝗲𝗰𝘁𝘂𝗿𝗲 𝗼𝗳 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻 & 𝗡𝘂𝗰𝗹𝗲𝗮𝗿 𝗠𝗲𝗱𝗶𝗰𝗶𝗻𝗲 (𝗳𝗼𝗿 𝗯𝗲𝗴𝗶𝗻𝗻𝗲𝗿𝘀 𝗮𝘀 𝘄𝗲𝗹𝗹)** <br>
 ⚡️ *Lecture of PROFESSOR 𝗕𝗢𝗛𝗬𝗨𝗡𝗚 𝗛𝗔𝗡*
-* The Present and the Future of Computer Vision and Deep Learning (2021): https://www.youtube.com/watch?v=Tjz5M75Uw5w\&t=5561s
-   
+* The Present and the Future of Computer Vision and Deep Learning (2021): https://www.youtube.com/watch?v=Tjz5M75Uw5w\&t=5561s <br>
+
 ⚡️ *Lecture of PROFESSOR 𝗝𝗔𝗘 𝗦𝗨𝗡𝗚 𝗟𝗘𝗘* 
 * The Seminar of Nuclear Engineering \- Nuclear Medicine (2023): https://www.youtube.com/watch?v=n7y0HBR3cFQ\&t=2012s
 * The Evolving Roles of AI in Nuclear Medicine (2026): https://www.youtube.com/watch?v=JjA1Z0HlCRE 
