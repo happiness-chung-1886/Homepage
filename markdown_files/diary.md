@@ -1,5 +1,5 @@
 2026/7/16 10:51AM <br>
-i agree that work should not exist as forced labor only for livelihood or a mean to prove one's superiority in the better future. Instead, it may be much more meaningful when it serves as a way to realize one's own benevolent faith and vision based on ethical social systems, so everyone can be healthier and happier. Personally, if i can work together with the people who have similar point-of-view, that would be one of the greatest blessing to me as well. <br>
+i agree that work should not exist as forced labor only for livelihood or a mean to prove one's superiority in the better future. Instead, it may be much more meaningful when it serves as a way to realize one's own benevolent faith and vision based on ethical social systems, so everyone can be healthier and happier. Personally, if i can work together with the people who have similar point-of-view, that would be one of the greatest blessings to me as well. <br>
 
 2026/7/13 11:13AM <br>
 Thinking about the lessons from the professors, if there are people who understand work as not the part of 'zero-sum' games, but the effort to enlarge the entire 'pie', and align their behaviors with this understanding, their energy may function like a solar energy for all life on Earth. <br>
