@@ -92,6 +92,8 @@ For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) <br
 
 Although there are lots of pioneering studies that have advanced Nuclear Medicine as well, the shortage of benchmark datasets remains a bottleneck in advancing Nuclear Medicine and its harmonization with AI. The listed datasets can be used to construct the public benchmark datasets that are more easy to use to thorougly evaulte the performances of various methodologies accross various tasks in nuclear medicine. In addition, there are available data from the publications that are related to the Nuclear Medicine as well. i hope there would be more of these! :D.  <br>
 
+The task examples that are obtained from commercial LLM are as follows: Acquisition (dose reduction, scan time reduction), Analysis (diagnosis, education, prognosis assessment, and treatment planning), Reconstructions, Enhancement (attenuation correction, denoising, motion correction, scatter correction, and super-resolution), Rregistration, Synthesis (cross-modality synthesis, data augmentation), Quantification (dosimetry, kinetic modeling, metabolic tumor volume (MTV), SUV estimation, total lesion glycolysis (TLG)). The tasks can be implemented via AI-based methods, such as classification, detection, generation, and segmentation. <br>
+
 <br>
 
 <img src="images/image73.png" height="200"><br>
