@@ -279,7 +279,7 @@
 
         async function openIdea(index) {
 
-            const tab = document.getElementById("tab10");
+            const tab = document.getElementById("tab6");
             const item = ideas[index];
 
             tab.dataset.loaded = "false";
@@ -289,7 +289,7 @@
 
             const backBtn = document.createElement("button");
             backBtn.className = "back-btn";
-            backBtn.innerText = "← Back to Brainstorming";
+            backBtn.innerText = "← Back to Ideas";
             backBtn.onclick = renderIdeaList;
 
             tab.prepend(backBtn);
