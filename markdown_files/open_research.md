@@ -90,7 +90,7 @@ For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) <br
 * TCIA cancer imaging archive: https://www.cancerimagingarchive.net/browse-collections/<br>
 * Related Challenges: PETRIC, HECKTOR, AutoPET<br>
 
-Although there are lots of pioneering studies that have advanced nuclear medicine as well, the shortage of benchmark datasets remains a bottleneck in advancing nuclear medicine and its harmonization with AI. The listed datasets can be used to construct the public benchmark datasets that are more easy to use to evaulte the performances of various methodologies accross various tasks in nuclear medicine. In addition, there are available data from the publications that are related to the nuclear medicine as well. i hope there would be more of these! :D.  <br>
+Although there are lots of pioneering studies that have advanced Nuclear Medicine as well, the shortage of benchmark datasets remains a bottleneck in advancing Nuclear Medicine and its harmonization with AI. The listed datasets can be used to construct the public benchmark datasets that are more easy to use to evaulte the performances of various methodologies accross various tasks in nuclear medicine. In addition, there are available data from the publications that are related to the Nuclear Medicine as well. i hope there would be more of these! :D.  <br>
 
 <br>
 
