@@ -1,6 +1,7 @@
 **Constructing Open Benchmark Datasets in Nuclear Medicine (July 2026)** <br>
 Inspired under Professor Jae Sung Lee <br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
+
 * ENHANCE.PET 1.6k: https://www.scidb.cn/en/detail?dataSetId=c06e548588694eca8477006e806ed70d <br>
 * Myocardial perfusion scintigraphy image database: https://physionet.org/content/myocardial-perfusion-spect/1.0.0/<br>
 * OASIS: https://sites.wustl.edu/oasisbrains/home/access/ <br>
@@ -16,6 +17,7 @@ The task examples that are obtained from the ChatGPT are as follows: Acquisition
 **Uncertainty-Aware Positron-Emission-Tomography (PET) 4D Video Super-Resolution (June 2026)**<br>
 Inspired under Professor Bohyung Han, IEEE-NPSS Nuclear Engineering Summer School <br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
+
 Positron Emission Tomography (PET) inherently reconstructs a radiotracer distribution from stochastic decay and detection events, making image formation a statistical inverse problem rather than a direct measurement process. While recent deep learning–based PET super-resolution methods have demonstrated promising visual improvements, concerns remain regarding quantitative reliability and the potential introduction of artificial uptake patterns. <br>
 
 We hypothesize that these limitations can be substantially mitigated through large-scale data-driven efficient training (awaring how and when to scale) and physics-informed learning frameworks that explicitly incorporate PET acquisition constraints, including detector physics, Time-of-Flight (TOF) information, attenuation, and scatter models to prevent the severe distortion. Rather than generating new anatomical or metabolic structures, the proposed approach aims to recover and enhance existing stochastic hypermetabolic signals while preserving quantitative biomarkers such as SUV. <br>
@@ -28,6 +30,7 @@ The evaluation framework may can be built is as follows: executing AI-based supe
 
 **The Possibility of Medical Image Superresolution (May 2026)** <br>
 Inspired under Professor Fei-Fei Li and Professor Simon Cherry <br>
+
 Superesolutions in the natural images and PET images would share the common characteristic that they generate hardware that does not exist before. And i learned that the number of detectors in a PET is more than 500,000 (a lot more than i expected) according to the open lecture from Professor Simon Cherry ([https://www.kcl.ac.uk/events/inaugural-lecture-professor-simon-cherry](https://www.kcl.ac.uk/events/inaugural-lecture-professor-simon-cherry)). Then, the superresolution of a PET image that does not severely distort the initial shape looks quite possible. Thinking about modality translation research between CT and MRI are executed although they are different medical modalities, the superresolution conventionally regarded as impossible may also be possible. <br>
 
 <br>
@@ -36,6 +39,7 @@ Superesolutions in the natural images and PET images would share the common char
 <img src="images/image68.jpg" height="200"><img src="images/image69.jpg" height="200"><br>
 Inspired under SNMMI Patient Education Day <br>
 AI Disclosure: image generated from ideogram <br>
+
 I think one future direction of theranostics in nuclear medicine is the invention of a “single-agent theranostic” beyond ligand-matched theranostic pairs that enables simultaneous diagnosis via PET-related imaging and therapy.To achieve this goal, designing, constructing, and building a novel tracer that is effective for both imaging and therapeutic purposes could be a promising starting point. <br>
 
 Such an approach may facilitate real-time treatment monitoring thereby reducing the time required for the entire clinical procedure potentially reducing unnecessary radiation exposure to normal organs while maintaining or boosting therapeutic efficacy.<br>
