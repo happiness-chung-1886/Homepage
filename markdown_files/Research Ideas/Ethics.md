@@ -17,14 +17,20 @@ AI Disclosure: there is no AI usage in this entry <br>
 
 <br>
 
-**Proposal: Biological Justification for Computationally Protecting Transgender Suffering Against Gender Dysphoria (March, 2026)** <br> 
+**AI-Powered Unity to Replace Animal Experiment (March 2026)** <br>
+<img src="images/image29.png" height="300">  <br>
+AI Disclosure: Image generated from Nano Banana, Gemini-Pro 3.0 <br>
+
+<br>
+
+**Biological Justification for Computationally Protecting Transgender Suffering Against Gender Dysphoria (March, 2026)** <br> 
 Inspired under Professor Bohyung Han, Professor Dilek Hakkani-Tur, Professor Haeng Ji, Professor Mohammed El-Kebir, Professor Jae Sung Lee | Google Deepmind <br>
 AI Disclosure: Gemini-Pro 3.0 gave the feedbacks to my ideas <br>
 Dear Beauvoir, did you know the detailed structures of XX, XY? How can you explain “the feeling”? You released the book, and i liked that, and i saw those.. Gender dysphoria presence, then it may be encrypted in the DNA of XX or XY. Maybe methods like contrastive learning can be one of the solutions.  To realize this, novel methodologies look integral.<br>
 
 <br>
 
-**Proposal: Automated Harmful Behavior Detection in the Workplace and School Environment Based on Context Understanding (2026)**<br>
+**Automated Harmful Behavior Detection in the Workplace and School Environment Based on Context Understanding (2026)**<br>
 Inspired under Professor Dilek Hakkani-Tur, Professor Yoshua Bengio | KakaoTalk, OpenClaw <br>
 cctv + audio device required + voice interpretation AI for reconstructing dialogue then defining situations according to the context understanding capability of LLM
 
