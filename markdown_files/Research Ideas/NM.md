@@ -1,5 +1,6 @@
 **Constructing Open Benchmark Datasets in Nuclear Medicine (July 2026)** <br>
 Inspired under Professor Jae Sung Lee <br>
+AI Disclosure: Feedback recieved from ChatGPT<br>
 * ENHANCE.PET 1.6k: https://www.scidb.cn/en/detail?dataSetId=c06e548588694eca8477006e806ed70d <br>
 * Myocardial perfusion scintigraphy image database: https://physionet.org/content/myocardial-perfusion-spect/1.0.0/<br>
 * OASIS: https://sites.wustl.edu/oasisbrains/home/access/ <br>
@@ -8,7 +9,7 @@ Inspired under Professor Jae Sung Lee <br>
 
 Although there are pioneering studies that have advanced Nuclear Medicine as well, the shortage of benchmark datasets remains a bottleneck in advancing Nuclear Medicine and its harmonization with AI. The listed datasets can be used to construct the public benchmark datasets that are more easy to use to thoroughly evaluate the performances of various methodologies accross various tasks in nuclear medicine. In addition, there are available data from the publications that are related to the Nuclear Medicine as well. i hope there would be more of these kind of advancements as well! :D.  <br>
 
-The task examples that are obtained from commercial LLM are as follows: Acquisition (dose reduction, scan time reduction), Analysis (diagnosis, education, prognosis prediction and assessment, and treatment planning), Detector (Detector optimization, DOI estimation, Timing estimation, Energy estimation), Digital Twins (precise simulation and virtual scanner modeling), Enhancement (attenuation correction, denoising, motion correction, scatter correction, and super-resolution), Quantification (dosimetry, kinetic modeling, metabolic tumor volume (MTV) estimation, SUV estimation, total lesion glycolysis (TLG) estimation), Reconstructions, Registration, Synthesis (cross-modality synthesis, data augmentation). The tasks can be implemented via AI-based methods as well, such as classification, detection, generation, and segmentation. <br>
+The task examples that are obtained from the ChatGPT are as follows: Acquisition (dose reduction, scan time reduction), Analysis (diagnosis, education, prognosis prediction and assessment, and treatment planning), Detector (Detector optimization, DOI estimation, Timing estimation, Energy estimation), Digital Twins (precise simulation and virtual scanner modeling), Enhancement (attenuation correction, denoising, motion correction, scatter correction, and super-resolution), Quantification (dosimetry, kinetic modeling, metabolic tumor volume (MTV) estimation, SUV estimation, total lesion glycolysis (TLG) estimation), Reconstructions, Registration, Synthesis (cross-modality synthesis, data augmentation). The tasks can be implemented via AI-based methods as well, such as classification, detection, generation, and segmentation. <br>
 
 <br>
 
@@ -28,8 +29,8 @@ Superesolutions in the natural images and PET images would share the common char
 
 <br>
 
-<img src="images/image68.jpg" height="200"><img src="images/image69.jpg" height="200"><br>
 **One of the Future Directions of Theranostics (May 2026)**<br>
+<img src="images/image68.jpg" height="200"><img src="images/image69.jpg" height="200"><br>
 Inspired under SNMMI Patient Education Day <br>
 AI Disclosure: image generated from ideogram <br>
 I think one future direction of theranostics in nuclear medicine is the invention of a “single-agent theranostic” beyond ligand-matched theranostic pairs that enables simultaneous diagnosis via PET-related imaging and therapy.To achieve this goal, designing, constructing, and building a novel tracer that is effective for both imaging and therapeutic purposes could be a promising starting point. <br>

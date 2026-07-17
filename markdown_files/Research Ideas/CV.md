@@ -1,5 +1,5 @@
-<img src="images/image29.png" height="300">  <br>
 **Proposal: AI-Powered Unity to Replace Animal Experiment (March 2026)** <br>
+<img src="images/image29.png" height="300">  <br>
 AI Disclosure: Image generated from Nano Banana, Gemini-Pro 3.0 <br>
 
 <br>
@@ -14,8 +14,8 @@ And thinking about precise simulation, discerning stochastical things and non-st
 
 <br>
 
-<img src="images/image73.png" height="200"><br>
 **About the Future of Video Generation(June 2026)** <br>
+<img src="images/image73.png" height="200"><br>
 Extended from the below thought that i wrote in the Diary,
 
 2026/6/9 11:41AM<br>
