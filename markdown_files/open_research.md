@@ -88,7 +88,7 @@ For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) <br
 * Myocardial perfusion scintigraphy image database: https://physionet.org/content/myocardial-perfusion-spect/1.0.0/<br>
 * OASIS: https://sites.wustl.edu/oasisbrains/home/access/ <br>
 * TCIA cancer imaging archive: https://www.cancerimagingarchive.net/browse-collections/<br>
-* Related Challenges: PETRIC, HECKTOR, AutoPET<br>
+* Related Challenges: AutoPET, HECKTOR, PETRIC<br>
 
 Although there are pioneering studies that have advanced Nuclear Medicine as well, the shortage of benchmark datasets remains a bottleneck in advancing Nuclear Medicine and its harmonization with AI. The listed datasets can be used to construct the public benchmark datasets that are more easy to use to thoroughly evaluate the performances of various methodologies accross various tasks in nuclear medicine. In addition, there are available data from the publications that are related to the Nuclear Medicine as well. i hope there would be more of these! :D.  <br>
 
