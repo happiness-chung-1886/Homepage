@@ -23,7 +23,7 @@ AI Disclosure: Image generated from Nano Banana, Gemini-Pro 3.0 <br>
 
 <br>
 
-**Biological Justification for Computationally Protecting Transgender Suffering Against Gender Dysphoria (March, 2026)** <br> 
+**Biological Justification for Computationally Protecting Transgender Suffering Against Gender Dysphoria (March 2026)** <br> 
 Inspired under Professor Bohyung Han, Professor Dilek Hakkani-Tur, Professor Haeng Ji, Professor Mohammed El-Kebir, Professor Jae Sung Lee | Google Deepmind <br>
 AI Disclosure: Gemini-Pro 3.0 gave the feedbacks to my ideas <br>
 
