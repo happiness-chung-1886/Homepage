@@ -266,8 +266,7 @@
             ideas.forEach((item, index) => {
                 html += `
                     <div class="perspective-card"
-                        onclick="openBrainstorming(${index})">
-                        <div class="perspective-date">${item.date}</div>
+                        onclick="openIdea(${index})">
                         <div class="perspective-title">${item.title}</div>
                     </div>
                 `;
@@ -276,6 +275,24 @@
             html += "</div>";
 
             tab.innerHTML = html;
+        }
+
+        async function openIdea(index) {
+
+            const tab = document.getElementById("tab10");
+            const item = ideas[index];
+
+            tab.dataset.loaded = "false";
+            tab.setAttribute("data-md", item.file);
+
+            await loadMarkdown(tab);
+
+            const backBtn = document.createElement("button");
+            backBtn.className = "back-btn";
+            backBtn.innerText = "← Back to Brainstorming";
+            backBtn.onclick = renderIdeaList;
+
+            tab.prepend(backBtn);
         }
 
         document.addEventListener("DOMContentLoaded", () => loadMarkdown(document.getElementById("tab0")));
