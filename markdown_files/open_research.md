@@ -82,7 +82,7 @@ For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) <br
 ## Brainstorming
 
 
-**Open Datasets in Nuclear Medicine (July 2026)** <br>
+**Constructing Open Benchmark Datasets in Nuclear Medicine (July 2026)** <br>
 
 * ENHANCE.PET 1.6k: https://www.scidb.cn/en/detail?dataSetId=c06e548588694eca8477006e806ed70d <br>
 * Myocardial perfusion scintigraphy image database: https://physionet.org/content/myocardial-perfusion-spect/1.0.0/<br>
