@@ -26,6 +26,7 @@ We hypothesize that these limitations can be substantially mitigated through lar
 Future work can be expanded to uncertainty-aware and quantification-preserving PET resolution recovery beyond precision imaging considering the inherent stochastic nature of PET imaging, and building rigorous validation framework with the ground truth images (reference images) that can be generalizable across diverse scanners, institutions, patient demographics, hyper-parameter settings, tracers to ensure clinical reliability efficiency. <br>
 The evaluation framework may can be built is as follows: executing AI-based super-resolution in various timing resolutions (for example: 500ps -> 200ps / 200ps -> 100ps / 100ps ->50ps) on the same TOF-PET image obtain from a single patient at the same status (within several hours or days based on affordability), then compare their consistency and performances. If the enhanced images are well aligned with the ground truth, we may can expect the trained model to be applied to the PET with the best timing resolution (based on the evaluation as an evidence) to obtain inexistent higher-resolution PET images beyond the "precision medicine" that requires existing exact ground truth. <br>
 
+<br>
 
 <img src="images/image68.jpg" height="200"><img src="images/image69.jpg" height="200"><br>
 **One of the Future Directions of Theranostics (May 2026)**<br>
