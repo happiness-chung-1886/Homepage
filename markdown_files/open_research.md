@@ -81,6 +81,19 @@ For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) <br
 
 ## Brainstorming
 
+
+**Open Datasets in Nuclear Medicine (July 2026)** <br>
+
+* ENHANCE.PET 1.6k: https://www.scidb.cn/en/detail?dataSetId=c06e548588694eca8477006e806ed70d <br>
+* Myocardial perfusion scintigraphy image database: https://physionet.org/content/myocardial-perfusion-spect/1.0.0/<br>
+* OASIS: https://sites.wustl.edu/oasisbrains/home/access/ <br>
+* TCIA cancer imaging archive: https://www.cancerimagingarchive.net/browse-collections/<br>
+* Related Challenges: PETRIC, HECKTOR, AutoPET<br>
+
+The shortage of benchmark datasets is one of the well-known bottlenecks to advance nuclear medicine, and its harmonization with AI. The listed datasets can be used to construct the public benchmark datasets that are more easy to use to evaulte the performances of various methodologies accross various tasks in nuclear medicine. In addition, there are available data from the publications that are related to the nuclear medicine as well. i hope there would be more of these! :D.  <br>
+
+<br>
+
 <img src="images/image73.png" height="200"><br>
 **About the Future of Video Generation(June 2026)** <br>
 Extended from the below thought that i wrote in the Diary,
