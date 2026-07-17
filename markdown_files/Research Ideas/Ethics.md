@@ -1,4 +1,4 @@
-**What is truly ethical? (May 2026)** <br>
+**What Is Truly Ethical? (May 2026)** <br>
 Inspired under Professor Michael Sandel <br>
 AI Disclosure: there is no AI usage in this entry <br>
 
