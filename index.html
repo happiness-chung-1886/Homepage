@@ -51,7 +51,7 @@
         <button onclick="openTab(event, 'tab2')">Gratitude</button>
         <button onclick="openTab(event, 'tab4')">Figures</button>
         <button onclick="openTab(event, 'tab5')">Course Project</button>
-        <button onclick="openTab(event, 'tab6')">Open Research</button>
+        <button onclick="openTab(event, 'tab6')">Research Ideas</button>
         <button onclick="openTab(event, 'tab7')">Diary</button>
         <button onclick="openTab(event, 'tab8')">Preprint</button>
         <button onclick="openTab(event, 'tab9')">Perspectives</button>
@@ -62,7 +62,7 @@
     <div id="tab2" class="tab-content" data-md="markdown_files/gratitude.md"></div>
     <div id="tab4" class="tab-content" data-md="markdown_files/figures.md"></div>
     <div id="tab5" class="tab-content" data-md="markdown_files/course_project.md"></div>
-    <div id="tab6" class="tab-content" data-md="markdown_files/open_research.md"></div>
+    <div id="tab6" class="tab-content"></div>
     <div id="tab7" class="tab-content" data-md="markdown_files/diary.md"></div>
     <div id="tab8" class="tab-content" data-md="markdown_files/temporal_preprint.md"></div>
     <div id="tab9" class="tab-content"></div>
@@ -159,7 +159,11 @@
             evt.currentTarget.classList.add("active");
             if (tabId === "tab9") {
                 renderPerspectivesList();
-            } else { 
+            } 
+            else if (tabId === "tab6") {
+                renderIdeaList();
+            }
+            else { 
                 loadMarkdown(selectedTab);
             }
         }
@@ -184,6 +188,33 @@
                 date: "May 2026",
                 file: "markdown_files/Perspectives/05192026.md"
             }
+        ];
+
+        const ideas = [
+            {
+                title: "AI for Comupter Vision",
+                file: "markdown_files/Research Ideas/CV.md"
+            },
+            {
+                title: "AI for Ethics",
+                file: "markdown_files/Research Ideas/Ethics.md"
+            },
+            {
+                title: "AI for Extended Reality",
+                file: "markdown_files/Research Ideas/XR.md"
+            },
+            {
+                title: "AI for Nuclear Medicine",
+                file: "markdown_files/Research Ideas/NM.md"
+            },
+            {
+                title: "AI for Robotics",
+                file: "markdown_files/Research Ideas/Robots.md"
+            },
+            {
+                title: "AI with Neural Networks",
+                file: "markdown_files/Research Ideas/NN.md"
+            },
         ];
 
         function renderPerspectivesList() {
@@ -225,6 +256,26 @@
             
             // 기존에 있던 로딩 텍스트나 내용을 고려해 가장 앞에 삽입
             tab.prepend(backBtn);
+        }
+
+        function renderIdeaList() {
+            const tab = document.getElementById("tab10");
+
+            let html = `<div class="perspective-grid">`;
+
+            ideas.forEach((item, index) => {
+                html += `
+                    <div class="perspective-card"
+                        onclick="openBrainstorming(${index})">
+                        <div class="perspective-date">${item.date}</div>
+                        <div class="perspective-title">${item.title}</div>
+                    </div>
+                `;
+            });
+
+            html += "</div>";
+
+            tab.innerHTML = html;
         }
 
         document.addEventListener("DOMContentLoaded", () => loadMarkdown(document.getElementById("tab0")));
