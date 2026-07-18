@@ -7,12 +7,12 @@ Specifically, we aim to annotate bounding boxes using concept-specific saliency 
 This work hypothesizes that concept-specific evidence grounding can improve the interpretability and clinical trustworthiness of medical MLLMs while preserving the visibility of the original medical image compared with conventional segmentation-based visualization approaches. In addition, because segmentation-based approaches have limited label sets, this training-free bounding-box annotation approach can be generalized to environments where precise, complete labels are scarce. <br>
 
 Reference
-[1] Cao, Bingyi, et al. "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2026.
-[2] Zhu M, Liu M, Yuan H, Ning Y, Luo Z, Zhu T, et al. Attention guided fair artificial intelligence modeling for skin cancer diagnosis. npj Digital Medicine. 2026. doi:10.1038/s41746-026-02897-8.
-[3] Blume, Ansel, et al. "PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding." Advances in Neural Information Processing Systems 38 (2026): 34705-34734.
-[4] Shlapentokh-Rothman, Michal, et al. "Region-based representations revisited." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024.
-[5] Wang, Lezi, et al. "Sharpen focus: Learning with attention separability and consistency." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.
-[6] Le, Matthieu, et al. "Computationally efficient cardiac views projection using 3D convolutional neural networks." International Workshop on Deep Learning in Medical Image Analysis. Cham: Springer International Publishing, 2017.
+[1] Cao, Bingyi, et al. "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2026. <br>
+[2] Zhu M, Liu M, Yuan H, Ning Y, Luo Z, Zhu T, et al. Attention guided fair artificial intelligence modeling for skin cancer diagnosis. npj Digital Medicine. 2026. doi:10.1038/s41746-026-02897-8. <br>
+[3] Blume, Ansel, et al. "PARTONOMY: Large Multimodal Models with Part-Level Visual Understanding." Advances in Neural Information Processing Systems 38 (2026): 34705-34734. <br>
+[4] Shlapentokh-Rothman, Michal, et al. "Region-based representations revisited." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. <br>
+[5] Wang, Lezi, et al. "Sharpen focus: Learning with attention separability and consistency." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019. <br>
+[6] Le, Matthieu, et al. "Computationally efficient cardiac views projection using 3D convolutional neural networks." International Workshop on Deep Learning in Medical Image Analysis. Cham: Springer International Publishing, 2017. <br>
 
 <br>
 
