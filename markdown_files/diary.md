@@ -1,7 +1,7 @@
 2026/7/19 4:43PM<br>
 I personally worry that the adapted workflow of the clinical procedures that are different among countries or regions can be dangerous as well, of course with the understanding that if there is the shortage of the resources, the differences maybe inevitabl unfortunately. I personally think that the adaptation of AI-based clinical services should be for the advancement of their standardized performance for patient safety. <br>
 
-2026/7/18 1:48PM~2026/7/19 4:55PM<br>
+2026/7/18 1:48PM ~ 2026/7/19 4:55PM<br>
 I personally endorse that more people from various academic or industrial fields focus on creating a more benevolent society as well, because many solutions originate from such perspectives as I have observed within my limited and biased experiences. Regarding the real-world deployment of AI-based clinical solutions, also I personally assume that there should be sufficient time for adaptation and verification before and after the deployment for the continual refinements, gradually expanding their roles toward the goal of saving lives with lower costs and easier access. For this expansion, it seems significantly safer for patients that AI-based clinical solutions to learn from clinicians in hospitals until safety concerns are almost eliminated. I believe the clinicians engaged in this process will make significant contributions to saving lives. These procedures can make the fully autonomous AI based clinicians reliable for the deployment in the countries where there are significant shortages of clinical experts.<br>
 
 2026/7/16 10:51AM <br>
