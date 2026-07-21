@@ -1,3 +1,6 @@
+2026/7/21 3:14PM <br>
+Maybe we are in the middle of the progress to build a world where we do not buy or sell at all. <br>
+
 2026/7/20 10:20AM <br>
 Could the 'Inverse Problem' serve as a versatile, multi-scale framework for problem-solving that can encompass microscopic and macroscopic controls and optimizations, much like 'Reinforcement Learning'? I tend to use a less confident tone and evidence based arguments with minimal assumptions because I learned to do so, and I think this less confident tone in the academic discussions can foster more constructive critiques accelerating knowledge construction. Of course I think there should be the moment when confident tone is required as well, but during the academic conversations, confident tone sometimes hinder the advancement of knowledge. <br>
 
