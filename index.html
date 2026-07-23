@@ -265,7 +265,31 @@
         function renderIdeaList() {
             const tab = document.getElementById("tab6");
 
-            let html = `<div class="perspective-grid">`;
+            let html = `
+                <div 
+                class="perspective-grid",
+                style="
+                    margin-bottom:28px;
+                    padding:20px;
+                    border-radius:16px;
+                    background:#fafafa;
+                    border:1px solid #e5e5e5;
+                    line-height:1.7;
+                ">
+
+                    <p>
+                        This page is dedicated to everyone who has guided, inspired, and supported my research journey.
+                        As a small way of honoring their contributions especially who have directly contributed to my research with academic supervision, I share these research ideas openly.
+                    </p>
+
+                    <p>
+                        The ideas in this page are free to use and do not contain the hidden metaphors as always.
+                        If they inspire your work, a mention or citation would be greatly appreciated, but it is completely optional :D
+                    </p>
+                </div>
+
+                <div class="perspective-grid">
+            `;
 
             ideas.forEach((item, index) => {
                 html += `
