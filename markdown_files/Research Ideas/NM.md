@@ -30,7 +30,7 @@ The task examples that are obtained from the ChatGPT are as follows: Acquisition
 
 <br>
 
-**Uncertainty-Aware Positron-Emission-Tomography (PET) 4D Video Super-Resolution (June 2026 - August 2026)**<br>
+**Uncertainty-Aware Positron-Emission-Tomography (PET) 4D Video Super-Resolution (June 2026 - September 2026)**<br>
 Inspired under Professor Bohyung Han, IEEE-NPSS Nuclear Engineering Summer School, Professor Abhijit Chaudhari, Sangjin Bae, Professor Kris Thielemans<br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
 
