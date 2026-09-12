@@ -36,17 +36,10 @@ I also appreciate Professor Philipp T. Meyer, Professor Dorin Comaniciu, Profess
 
 About my clinical AI studies, I especially inpired by the work of Professor Curtis Langlotz, who are a pioneering researcher on computer-aided diagnosis and evaluation, following the supervision of Professor Jae Sung Lee. This was an important reminder that gratitude in research is not limited to people who supervise me directly. I also grateful to learn from the researchers work whose published work becomes a foundation for my studies.
 
-... currently editing
+## The Kind Research Environment
 
-<!-- ## The Kind of Research Environment I Hope For
+Another lessons that became clearer to me this spring is that a productive research environment should be transparent, constructive, and safe enough for people to ask questions, make mistakes, and improve. I have learned constructively discussing limitation makes research meaningless, making future work encouraged. I hope to become a researcher who can receive criticism without treating it as a personal attack, while also learning how to give criticism in a way that is useful, specific, and respectful.
 
-Another thought that became clearer to me this spring is that a productive research environment should be transparent, constructive, and safe enough for people to ask questions, make mistakes, and improve. I increasingly value clear supervision, fair evaluation, reproducible research practices, and critiques that identify limitations while also helping people refine their work.
+## What I Want to Carry Forward for My Research Contributions
 
-I do not think the disclosure of a limitation makes research meaningless. In many cases, acknowledging limitations is exactly what makes future work possible. I would like to become a researcher who can receive criticism without treating it as a personal attack, while also learning how to give criticism in a way that is useful, specific, and respectful.
-
-
-## What I Want to Carry Forward
-
-By the end of spring, I felt more certain about a few things. I want to continue learning AI deeply, while also exploring its harmonization with medicine, robotics, and other academic disciplines. I want to work in environments where different fields are respected and where research is evaluated through evidence rather than status alone. Most importantly, I want to remain grateful for the people who have taught, guided, protected, challenged, and encouraged me.
-
-I still have much to learn, but I am thankful that I can continue learning at all. That opportunity itself feels precious to me. -->
+By the end of spring, I felt more certain about a few things. I want to continue learning AI deeply, with essential harmonization with medicine, robotics. I hope to contribute to work in environments where different fields are more respected and where research is evaluated through verifiable evidence rather than status or power. Most importantly, I always remain grateful for the people who have supervised, guided, protected, and generously encouraged me with their invaluable kindness.
