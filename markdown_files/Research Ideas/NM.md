@@ -40,19 +40,25 @@ We hypothesize that these limitations can be substantially mitigated through lar
 
 Future work can be expanded to uncertainty-aware and quantification-preserving PET resolution recovery beyond precision imaging considering the inherent stochastic nature of PET imaging, and building rigorous validation framework (Liu et al., 2026) with the ground truth images (reference images) that can be generalizable across diverse scanners, institutions, patient demographics, hyper-parameter settings, tracers to ensure clinical reliability efficiency. <br>
 
-The evaluation framework may can be built is as follows: executing AI-based super-resolution in various timing resolutions (Thielemans et al., 2012) (for example: 500ps -> 200ps / 200ps -> 100ps / 100ps ->50ps) on the same TOF-PET image (Hinge et al., 2026) obtain from a single patient at the same status (within several hours or days based on affordability), then compare their consistency and performances. If the enhanced images are well aligned with the ground truth, we may can expect the trained model to be applied to the PET with the best timing resolution (based on the evaluation as an evidence) to obtain inexistent higher-resolution PET images beyond the "precision medicine" that requires existing exact ground truth. <br>
+The evaluation framework may can be built is as follows: executing AI-based super-resolution in various timing resolutions (Thielemans et al., 2012) (for example: 500ps -> 200ps / 200ps -> 100ps / 100ps ->50ps) on the same TOF-PET image (Hinge et al., 2026) obtain from a single patient at the same status (within several hours or days based on affordability), powered by robust registration methods (Casamitjana et al., 2025, Li et al., 2026) then compare their consistency and performances. If the enhanced images are well aligned with the ground truth, we may can expect the trained model to be applied to the PET with the best timing resolution (based on the evaluation as an evidence) to obtain inexistent higher-resolution PET images beyond the "precision medicine" that requires existing exact ground truth. <br>
 
 Reference <br>
+
+Casamitjana, Adrià, et al. "USLR: An open-source tool for unbiased and smooth longitudinal registration of brain MRI." Medical image analysis 105 (2025): 103662. <br>
 
 Hinge, Christian, et al. "A multimodal total-body dynamic [18F] FDG PET/CT/MRI dataset of 100 healthy humans." Scientific Data (2026). <br>
 
 Lee, Junsung, et al. "Low-Resolution Editing is All You Need for High-Resolution Editing." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2026. <br>
+
+Li, Xia, et al. "Continuous sPatial‐temporal deformable image registration and 4D frame interpolation." Medical Physics 53.1 (2026): e70248. <br>
 
 Liu, Yan, et al. "NGSE-Corr: A technique for objective clinical evaluation of quantitative-imaging methods without a gold standard." IEEE Transactions on Medical Imaging (2026). <br>
 
 Polson, Luke, Joseph Grudzinski, and Frederick Wilson. "Toward Reduced Patient Scan Times: Full Monte Carlo Torch® Recon for Lu-177 SPECT Enables Improved Precision Through Dual-Energy Window Integration." (2026): 262053-262053. <br>
 
 Thielemans, Kris, et al. "STIR: software for tomographic image reconstruction release 2." Physics in medicine and biology 57.4 (2012): 867-883. <br>
+
+
 
 <br>
 
