@@ -35,7 +35,7 @@ The task examples that are obtained from the ChatGPT are as follows: Acquisition
 <br>
 
 **Uncertainty-Aware Positron-Emission-Tomography (PET) 4D Video Super-Resolution (June 2026 - September 2026)**<br>
-Inspired under Professor Bohyung Han, IEEE-NPSS Nuclear Engineering Summer School, Professor Abhijit Chaudhari, Sangjin Bae, Professor Kris Thielemans<br>
+Inspired under Professor Bohyung Han, IEEE-NPSS Nuclear Engineering Summer School, Professor Abhijit Chaudhari, Sangjin Bae, Professor Kris Thielemans, Professor Jae Sung Lee, Euijin You<br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
 
 Positron Emission Tomography (PET) inherently reconstructs a radiotracer distribution from stochastic decay and detection events, making image formation a statistical inverse problem rather than a direct measurement process. While recent deep learning–based PET super-resolution methods have demonstrated promising visual improvements (Liu et al., 2026), concerns remain regarding quantitative reliability and the potential introduction of artificial uptake patterns. <br>
@@ -44,7 +44,7 @@ We hypothesize that these limitations can be substantially mitigated through lar
 
 Future work can be expanded to uncertainty-aware and quantification-preserving PET resolution recovery beyond precision imaging considering the inherent stochastic nature of PET imaging, and building rigorous validation framework (Liu et al., 2026) with the ground truth images (reference images) that can be generalizable across diverse scanners, institutions, patient demographics, hyper-parameter settings, tracers to ensure clinical reliability efficiency. <br>
 
-The evaluation framework may can be built is as follows: executing AI-based super-resolution in various timing resolutions (Thielemans et al., 2012) (for example: 500ps -> 200ps / 200ps -> 100ps / 100ps ->50ps) on the same TOF-PET image (Hinge et al., 2026) obtain from a single patient at the same status (within several hours or days based on affordability), powered by robust registration methods (Casamitjana et al., 2025, Li et al., 2026) then compare their consistency and performances. If the enhanced images are well aligned with the ground truth, we may can expect the trained model to be applied to the PET with the best timing resolution (based on the evaluation as an evidence) to obtain inexistent higher-resolution PET images beyond the "precision medicine" that requires existing exact ground truth. <br>
+The evaluation framework may can be built is as follows: executing AI-based super-resolution in various timing resolutions (Thielemans et al., 2012) (for example: 500ps -> 200ps / 200ps -> 100ps / 100ps ->50ps) on the same TOF-PET image (Hinge et al., 2026) obtain from a single patient at the same status (within several hours or days based on affordability), powered by robust registration methods (Casamitjana et al., 2025, Li et al., 2026, You et al., 2026) then compare their consistency and performances. If the enhanced images are well aligned with the ground truth, we may can expect the trained model to be applied to the PET with the best timing resolution (based on the evaluation as an evidence) to obtain inexistent higher-resolution PET images beyond the "precision medicine" that requires existing exact ground truth. <br>
 
 Reference <br>
 
@@ -62,7 +62,7 @@ Polson, Luke, Joseph Grudzinski, and Frederick Wilson. "Toward Reduced Patient S
 
 Thielemans, Kris, et al. "STIR: software for tomographic image reconstruction release 2." Physics in medicine and biology 57.4 (2012): 867-883. <br>
 
-
+You, Euijin, et al. "A Comparative Evaluation of PET-only and CT-guided Template Construction Strategies for Mouse F-18 FP-CIT PET." (2026): 261308-261308. <br>
 
 <br>
 
