@@ -16,13 +16,12 @@ I also continued to appreciate **Prof. Bohyung Han** and the lessons that shaped
 
 I also remain grateful for what I learned from **Prof. Dilek Hakkani-Tur**, especially the openness to interdisciplinary questions and the idea that research can be strengthened by seeing problems from more than one disciplinary perspective. -->
 
-## The Vision for Clinical AI
+## My Learning About Clinical AI Systems
 
-<!-- My thoughts about medical AI also became more concrete this summer. I still believe AI-based clinical systems have enormous potential, especially in regions where medical resources are limited. At the same time, I think these systems should be introduced gradually, with sufficient adaptation, verification, and continual refinement before and after deployment.
+My thoughts about medical AI also became more concrete this summer. I believe AI-based clinical systems have enormous potential, especially in regions where clinicians and medical resources are siverely limited. If such systems eventually become reliable enough to deployed with its regulated autonomy in the regions with severe shortages of medical expertise or medical resouces, clinical AI may contribute to saving more lives. 
 
-I personally hope that AI-based clinical systems can learn from clinicians for as long as necessary to reduce safety concerns, and in the process, the clinicians who participate in training, verification, and supervision will have made an enormous contribution. If such systems eventually become reliable enough to assist areas with severe shortages of medical expertise, than medical experts may save significantly more lives.
+The one reason that clinical AI is important is that I learned the diagnosis result should be consistent across different locations, or hospitals, and clinical AI can support this goal of precision medicine assisting the entire clinical process. At the same time, I think these systems should be introduced gradually, with sufficiently long process of adaptation, regorous and constructive verifications, and continual refinement before and after deployment to reduce safety concerns. In the process, the clinicians who participate in training, verification, and supervision of clinical AI may contribute to building the initial standards. 
 
-I also think the basic standard of diagnosis should not be differnt for different locations. Resource constraints are real, and compromises may sometimes be unavoidable, but the underlying goal should still be consistent and evidence-based care. This is one reason I remain interested in medical AI: if developed responsibly, it may help reduce gaps in access while preserving clinical standards. -->
 <!-- 
 ## Learning from the Wider Research Community
 
