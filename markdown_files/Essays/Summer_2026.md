@@ -47,15 +47,15 @@ I also started thinking more seriously about the relationship between research, 
 
 I have been thinking about whether encouraging new market entrants and more affordable alternatives can sometimes improve the overall health of a market, especially in areas related to basic needs such as healthcare, education, housing, and food. Rather than seeing progress only as a zero-sum competition, I am increasingly interested in ways to enlarge the entire space of opportunity.
 
-For similar reasons, I am happy when I see collaborations across academia and industry, across institutions, and across countries. I hope simultaneous affiliations, international collaborations, and interdisciplinary work can become easier when they are transparent and ethically managed. 
+For similar reasons, I am happy when I see collaborations across academia and industry, across institutions, and across countries. I hope simultaneous affiliations, international collaborations, and interdisciplinary work can become easier when they are transparent and ethically managed. -->
 
-## Further Remembering and Gratitude for the People I Learned From -->
+## Expanded Gratitude for the People I Learned Under
 
-<!-- When I review my summer notes more carefully, I realize that my gratitude extended to a much wider group of people than I can summarize with only a few names.
+Thanks to the professors who have supervised and are supervising me, I appreciate that I can expand my gratitude to the people who granted me the invaluable lessons.
 
-I appreciated **Prof. Manling Li** for the research ideas and resources I encountered through her public posts, including the ACL 2026 Workshop on Toward Knowledgeable Foundation Models. I was grateful that the workshop was available online, because this kind of public access allows people outside the immediate venue to continue learning from the work. -->
+<!-- I appreciated **Prof. Manling Li** for the research ideas and resources I encountered through her public posts, including the ACL 2026 Workshop on Toward Knowledgeable Foundation Models. I was grateful that the workshop was available online, because this kind of public access allows people outside the immediate venue to continue learning from the work.
 
-<!-- I also learned from public discussions by **Prof. Yann LeCun**, **Prof. Yoshua Bengio**, and **Prof. Fei-Fei Li**. Their discussions led me to think about open-source models, AI safety, world models, access to AI systems, and how terminology can shape the way we understand a research direction. I did not necessarily treat every public argument as a final answer; rather, I appreciated that these discussions gave me new questions to study.
+I also learned from public discussions by **Prof. Yann LeCun**, **Prof. Yoshua Bengio**, and **Prof. Fei-Fei Li**. Their discussions led me to think about open-source models, AI safety, world models, access to AI systems, and how terminology can shape the way we understand a research direction. I did not necessarily treat every public argument as a final answer; rather, I appreciated that these discussions gave me new questions to study.
 
 I was happy to recognize similarities between what I had learned in 3D Vision and the curriculum led by **Prof. Gyeongsik Moon** at Korea University. Seeing the quality of the students' projects, including work related to dexterous manipulation, felt both impressive and encouraging to me.
 
@@ -66,10 +66,6 @@ The website of **David Stutz** was another small but meaningful inspiration. I f
 I continued to learn from **Prof. James Zou**, whose research I viewed as pioneering in the intersection between AI and scientific discovery, and from **Prof. Philipp T. Meyer**, whose posts helped me follow developments in medical imaging and tracer-related research. Their work reminded me how much useful learning can happen through public scholarly communication.
 
 I also reflected on posts and discussions from **Ethan Cho**, which led me to think about markets, social systems, decentralization, long-term value, and how technological or economic progress can be connected to broader social goals. Even when I was still uncertain about my own conclusions, these discussions gave me useful material for reflection.
-
-My summer gratitude also included people from earlier stages of my education. I remembered lessons from **Prof. Hieonn Kim** and **Prof. Jong Chul Ye**, and I continued to hope that the researchers and teachers who had shaped my development would receive recognition for their contributions. I also continued to appreciate **Prof. Shenlong Wang**, **Prof. Dilek Hakkani-Tur**, **Prof. Bohyung Han**, and **Prof. Jae Sung Lee** as people whose lessons remained active in the way I interpreted new research even when I was learning from other sources.
-
-I also reflected on the scientific legacy of **Marie Curie**. Her history gave me an opportunity to think not only about scientific achievement, but also about women in the workplace, social exclusion, and the importance of making academic participation more equitable for future generations.
 
 More broadly, I remain grateful to the many people I follow whose posts I may not always publicly react to. Not every lesson produces a visible response from me, but many of those lessons still become part of how I think. -->
 
