@@ -31,34 +31,25 @@ I appreciated learning about the **ACL 2026 Workshop on Toward Knowledgeable Fou
 
 I also appreciate researchers and practitioners who share knowledge in ways that make advanced topics easier to approach. Seeing the website of **David Stutz** inspired me to improve the organization of my own research website. Posts from researchers and industry leaders often gave me new questions rather than final answers, and I think that is one of the most valuable forms of public knowledge sharing.
 
-I am also grateful to organizations and companies that make lectures, research demonstrations, and educational materials publicly accessible. I was happy to learn from NVIDIA GTC online, and I found several research and technology discussions from **NVIDIA, Google, OpenAI**, and other organizations inspiring. What I value most is not the brand itself, but the willingness to share knowledge, support scientific progress, and make advanced technology understandable to a broader public.
+I am also grateful to organizations and companies that make lectures, research demonstrations, and educational materials publicly accessible. I was happy to learn from NVIDIA GTC online, and I found several research and technology discussions from **NVIDIA, Google, OpenAI**, and other organizations inspiring. What I value most is not the brand itself, but the willingness to share knowledge, support scientific progress, and make advanced technology understandable to a broader public. -->
 
-## Constructive Critique and the Value of Openness
+## The Value of the Constructive Critique and the Openness for the Development of Research and Learning
 
-Another idea I thought about repeatedly this summer is the role of critique. I believe critiques are necessary and precious, but I increasingly think they are most productive when they are accompanied by constructive considerations. Identifying what is weak, uncertain, or incomplete is important; thinking about what could improve it makes the critique more useful for everyone involved.
+Another part of the research that I learned about more deeply this summer is the role of constructive critique. I learned under the professors who have supervised and are supervising me that critiques about weakness, uncertainty of the research with the positive encouragements and a little bit of kindness, if possible, as well are necessary and precious for the development of work, encouraging the researchers. 
 
-This has also influenced how I want to communicate academically. I often use a less confident tone when I am uncertain because I want to leave room for evidence, correction, and further discussion. I do not think academic confidence should mean pretending that uncertainty does not exist.
+This has also influenced how I want to communicate academically. I saw that the professors often say in the way that they are not 100% suer about what their lessons, although the lessons looks awesome, and I thought about the reason behind of it, and I found myself that because of the uncertainty, I could be more proactively and critically think about my own understandings, realizing academic confidence does not always have to be expressed in the decisive way, but in the way to encourage the critical thinking, leading to healthy discussions as well. 
 
-I also value literal and context-based communication because it can reduce unnecessary misunderstanding. I want to continue improving my expressions so that gratitude, criticism, research questions, and personal reflections can be read as clearly as possible.
+Additionally, without the pressure to be 100% confident, I could more learn valuable lessons from the people a lot, less considering the labels that can function as the discriminative factors to them. I hope this may make it easier for students or junior researchers to ask questions without feeling faer about not knowing well yet, as well. 
 
-## Academia, Industry, and Expanding the Pie
+<!-- ## Academia, Industry, and Expanding the Pie
 
 I also started thinking more seriously about the relationship between research, industry, affordability, and access. I do not think industrial value should automatically be treated as less meaningful than academic value. When companies create useful products or services, lower costs, expand access, or make important resources available to more people, that can also contribute positively to society.
 
 I have been thinking about whether encouraging new market entrants and more affordable alternatives can sometimes improve the overall health of a market, especially in areas related to basic needs such as healthcare, education, housing, and food. Rather than seeing progress only as a zero-sum competition, I am increasingly interested in ways to enlarge the entire space of opportunity.
 
-For similar reasons, I am happy when I see collaborations across academia and industry, across institutions, and across countries. I hope simultaneous affiliations, international collaborations, and interdisciplinary work can become easier when they are transparent and ethically managed.
+For similar reasons, I am happy when I see collaborations across academia and industry, across institutions, and across countries. I hope simultaneous affiliations, international collaborations, and interdisciplinary work can become easier when they are transparent and ethically managed. 
 
-## Learning Without Being Intimidated
-
-One of the most personal realizations I had this summer is that I genuinely enjoy learning things I do not know from other people. Their age, gender, seniority, academic title, or position does not determine whether I can learn something valuable from them.
-
-I hope academic environments can make it easier for students and junior researchers to ask questions without feeling embarrassed about not knowing something yet. I am especially grateful to instructors who make students feel that curiosity is welcome.
-
-Learning has become one of the most stable sources of meaning in my life. I did not always feel this strongly about studying when I was younger, but after entering research, I gradually came to love it. The possibility of continuing to study AI and its harmonization with medicine, robotics, and other fields feels like a gift to me. -->
-
-
-## Further Remembering and Gratitude for the People I Learned From
+## Further Remembering and Gratitude for the People I Learned From -->
 
 <!-- When I review my summer notes more carefully, I realize that my gratitude extended to a much wider group of people than I can summarize with only a few names.
 
@@ -81,11 +72,4 @@ My summer gratitude also included people from earlier stages of my education. I 
 I also reflected on the scientific legacy of **Marie Curie**. Her history gave me an opportunity to think not only about scientific achievement, but also about women in the workplace, social exclusion, and the importance of making academic participation more equitable for future generations.
 
 More broadly, I remain grateful to the many people I follow whose posts I may not always publicly react to. Not every lesson produces a visible response from me, but many of those lessons still become part of how I think. -->
-<!-- 
-## What I Want to Carry Forward
 
-By the end of summer, I think my direction became broader but also clearer. I want to study AI seriously while continuing to connect it to medicine, robotics, scientific discovery, ethics, and formal verification. I want technological progress to expand access rather than narrow it. I want research communities to rely more on evidence, constructive critique, openness, and collaboration than on status or competition.
-
-Most of all, I want to preserve my gratitude. I have learned from professors, collaborators, researchers, institutions, companies, public lectures, papers, workshops, and people who generously shared their thoughts. I may not react publicly to every post or lesson that I appreciate, but I am genuinely thankful for the knowledge I have been able to receive.
-
-I still have much to learn, and I expect many of my ideas to change as I learn more. For now, I want to keep studying, keep refining my work, and keep trying to contribute—even in a small way—to a world where more lives can be healthy, safe, and happy. -->
