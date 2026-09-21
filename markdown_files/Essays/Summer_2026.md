@@ -2,13 +2,13 @@
 
 ## Continuing Gratitude to the Professors
 
-## From Research Questions to Broader Questions
-
-I have become more convinced that innovation and humanity do not have to be opposing values. In fact, I think a commitment to humanity can accelerate innovation because it allows more people to participate, contribute, learn, and benefit regardless of nationality, race, gender, sexual orientation, appearance, age, disease, disability, and more. And if there are more contributions, the entire 'pie' can be enlarged, so making our sociery more abundant. In the future, if this contributions become large enough, I agree to the necessity of buying products may significantly decrease.
-
 ## Expanded Gratitude for the People I Learned Under
 
 Thanks to the professors who have supervised and are supervising me, I appreciate that I can expand my gratitude to the people who granted me the invaluable lessons.
+
+## From Research Questions to Broader Questions
+
+I have become more convinced that innovation and humanity do not have to be opposing values. In fact, I think a commitment to humanity can accelerate innovation because it allows more people to participate, contribute, learn, and benefit regardless of nationality, race, gender, sexual orientation, appearance, age, disease, disability, and more. And if there are more contributions, the entire 'pie' can be enlarged, so making our sociery more abundant. In the future, if this contributions become large enough, I agree to the necessity of buying products may significantly decrease.
 
 <!-- I appreciated **Prof. Manling Li** for the research ideas and resources I encountered through her public posts, including the ACL 2026 Workshop on Toward Knowledgeable Foundation Models. I was grateful that the workshop was available online, because this kind of public access allows people outside the immediate venue to continue learning from the work.
 
