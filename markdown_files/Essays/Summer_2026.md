@@ -16,22 +16,19 @@ I also continued to appreciate **Prof. Bohyung Han** and the lessons that shaped
 
 I also remain grateful for what I learned from **Prof. Dilek Hakkani-Tur**, especially the openness to interdisciplinary questions and the idea that research can be strengthened by seeing problems from more than one disciplinary perspective. -->
 
+<!-- ## Academia, Industry, and Expanding the Pie
+
+I also started thinking more seriously about the relationship between research, industry, affordability, and access. I do not think industrial value should automatically be treated as less meaningful than academic value. When companies create useful products or services, lower costs, expand access, or make important resources available to more people, that can also contribute positively to society.
+
+I have been thinking about whether encouraging new market entrants and more affordable alternatives can sometimes improve the overall health of a market, especially in areas related to basic needs such as healthcare, education, housing, and food. Rather than seeing progress only as a zero-sum competition, I am increasingly interested in ways to enlarge the entire space of opportunity.
+
+For similar reasons, I am happy when I see collaborations across academia and industry, across institutions, and across countries. I hope simultaneous affiliations, international collaborations, and interdisciplinary work can become easier when they are transparent and ethically managed. -->
+
 ## My Learning About Clinical AI Systems
 
 My thoughts about medical AI also became more concrete this summer. I believe AI-based clinical systems have enormous potential, especially in regions where clinicians and medical resources are siverely limited. If such systems eventually become reliable enough to deployed with its regulated autonomy in the regions with severe shortages of medical expertise or medical resouces, clinical AI may contribute to saving more lives. 
 
 The one reason that clinical AI is important is that I learned the diagnosis result should be consistent across different locations, or hospitals, and clinical AI can support this goal of precision medicine assisting the entire clinical process. At the same time, I think these systems should be introduced gradually, with sufficiently long process of adaptation, regorous and constructive verifications, and continual refinement before and after deployment to reduce safety concerns. In the process, the clinicians who participate in train, verification, and supervision of clinical AI, which is the new positions, may contribute to building the initial standards and directing its evolution. 
-
-<!-- 
-## Learning from the Wider Research Community
-
-This summer, I found myself learning not only through formal supervision but also through public lectures, workshops, papers, websites, and professional discussions shared openly by researchers and institutions.
-
-I appreciated learning about the **ACL 2026 Workshop on Toward Knowledgeable Foundation Models (KnowFM)** through **Prof. Manling Li**, and I was grateful that the workshop was made accessible online. I also continued to learn from researchers including **Prof. Yann LeCun, Prof. Yoshua Bengio, Prof. Fei-Fei Li, Prof. James Zou, Prof. Philipp T. Meyer**, and many others whose public discussions gave me ideas to think about.
-
-I also appreciate researchers and practitioners who share knowledge in ways that make advanced topics easier to approach. Seeing the website of **David Stutz** inspired me to improve the organization of my own research website. Posts from researchers and industry leaders often gave me new questions rather than final answers, and I think that is one of the most valuable forms of public knowledge sharing.
-
-I am also grateful to organizations and companies that make lectures, research demonstrations, and educational materials publicly accessible. I was happy to learn from NVIDIA GTC online, and I found several research and technology discussions from **NVIDIA, Google, OpenAI**, and other organizations inspiring. What I value most is not the brand itself, but the willingness to share knowledge, support scientific progress, and make advanced technology understandable to a broader public. -->
 
 ## The Value of the Constructive Critique and the Openness for the Development of Research and Learning
 
@@ -41,13 +38,7 @@ This has also influenced how I want to communicate academically. I saw that the 
 
 Additionally, without the pressure to be 100% confident, I could learn more about the valuable lessons from people less considering the labels that can function as the discriminative factors to them. I hope this may make it easier for students or junior researchers to ask questions without feeling faer about not knowing well yet, as well. 
 
-<!-- ## Academia, Industry, and Expanding the Pie
 
-I also started thinking more seriously about the relationship between research, industry, affordability, and access. I do not think industrial value should automatically be treated as less meaningful than academic value. When companies create useful products or services, lower costs, expand access, or make important resources available to more people, that can also contribute positively to society.
-
-I have been thinking about whether encouraging new market entrants and more affordable alternatives can sometimes improve the overall health of a market, especially in areas related to basic needs such as healthcare, education, housing, and food. Rather than seeing progress only as a zero-sum competition, I am increasingly interested in ways to enlarge the entire space of opportunity.
-
-For similar reasons, I am happy when I see collaborations across academia and industry, across institutions, and across countries. I hope simultaneous affiliations, international collaborations, and interdisciplinary work can become easier when they are transparent and ethically managed. -->
 
 ## Expanded Gratitude for the People I Learned Under
 
@@ -67,5 +58,12 @@ I continued to learn from **Prof. James Zou**, whose research I viewed as pionee
 
 I also reflected on posts and discussions from **Ethan Cho**, which led me to think about markets, social systems, decentralization, long-term value, and how technological or economic progress can be connected to broader social goals. Even when I was still uncertain about my own conclusions, these discussions gave me useful material for reflection.
 
-More broadly, I remain grateful to the many people I follow whose posts I may not always publicly react to. Not every lesson produces a visible response from me, but many of those lessons still become part of how I think. -->
+More broadly, I remain grateful to the many people I follow whose posts I may not always publicly react to. Not every lesson produces a visible response from me, but many of those lessons still become part of how I think.
+
+I appreciated learning about the **ACL 2026 Workshop on Toward Knowledgeable Foundation Models (KnowFM)** through **Prof. Manling Li**, and I was grateful that the workshop was made accessible online. I also continued to learn from researchers including **Prof. Yann LeCun, Prof. Yoshua Bengio, Prof. Fei-Fei Li, Prof. James Zou, Prof. Philipp T. Meyer**, and many others whose public discussions gave me ideas to think about.
+
+I also appreciate researchers and practitioners who share knowledge in ways that make advanced topics easier to approach. Seeing the website of **David Stutz** inspired me to improve the organization of my own research website. Posts from researchers and industry leaders often gave me new questions rather than final answers, and I think that is one of the most valuable forms of public knowledge sharing.
+
+I am also grateful to organizations and companies that make lectures, research demonstrations, and educational materials publicly accessible. I was happy to learn from NVIDIA GTC online, and I found several research and technology discussions from **NVIDIA, Google, OpenAI**, and other organizations inspiring. What I value most is not the brand itself, but the willingness to share knowledge, support scientific progress, and make advanced technology understandable to a broader public.
+-->
 
