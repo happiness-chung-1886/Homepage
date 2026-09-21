@@ -35,7 +35,7 @@ I am also grateful to organizations and companies that make lectures, research d
 
 ## The Value of the Constructive Critique and the Openness for the Development of Research and Learning
 
-Another part of the research that I learned about more deeply this summer is the role of constructive critique. I learned under the professors who have supervised and are supervising me that critiques about weakness, uncertainty of the research with the positive encouragements and a little bit of kindness, if possible, as well are necessary and precious for the development of work, encouraging the researchers. 
+Another part of the research that I learned about more deeply this summer is the value of constructive critique. I learned under the professors who have supervised and are supervising me that critiques about weakness, uncertainty of the research with the positive encouragements and a little bit of kindness, if possible, as well are necessary and precious for the development of work, encouraging the researchers. 
 
 This has also influenced how I want to communicate academically. I saw that the professors often say in the way that they are not 100% suer about what their lessons, although the lessons looks awesome, and I thought about the reason behind of it, and I found myself that because of the uncertainty, I could be more proactively and critically think about my own understandings, realizing academic confidence does not always have to be expressed in the decisive way, but in the way to encourage the critical thinking, leading to healthy discussions as well. 
 
