@@ -39,7 +39,7 @@ Another part of the research that I learned about more deeply this summer is the
 
 This has also influenced how I want to communicate academically. I saw that the professors say in the way that they are not 100% suer about their lessons, although the lessons looks awesome, and I thought about the reason behind of it, and I found myself that because of the uncertainty, I could be more proactively and critically think about my own understandings, realizing academic confidence does not always have to be expressed in the decisive way, but in the way to encourage the critical thinking, leading to healthy discussions as well. 
 
-Additionally, without the pressure to be 100% confident, I could more learn valuable lessons from the people a lot, less considering the labels that can function as the discriminative factors to them. I hope this may make it easier for students or junior researchers to ask questions without feeling faer about not knowing well yet, as well. 
+Additionally, without the pressure to be 100% confident, I could learn more about the valuable lessons from people less considering the labels that can function as the discriminative factors to them. I hope this may make it easier for students or junior researchers to ask questions without feeling faer about not knowing well yet, as well. 
 
 <!-- ## Academia, Industry, and Expanding the Pie
 
