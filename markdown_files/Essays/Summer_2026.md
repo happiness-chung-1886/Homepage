@@ -14,7 +14,7 @@ I appreciate Professor Heng Ji for the opportunity to learn embodied AI and the 
 
 I appreciate Professor Hyungjin Chung for the supervision. I'm grateful for that I could learn more about the common principles of AI and how to enhance the ideas to be more robust. 
 
-I cannot forget the invaluable graces of the professors and I appreciate the openess to interdisciplinary researcher with AI that have empowered the pioneering innovations of the professors's academic fields across Comuter Vision, Medicine, and Natural Language and Speech Processing, who garnting me the lessons to me to be more fearlessly challenge and to be more mature for the breakthough to the limitations of their academic and industrial fields. I appreciate all the pioneering innovation that enbled me to be an aspiring research focusing on AI and it's harmonization as well. In addition, I'm grateful for the lessons that led me to have more warm perspectives about my socially marginalized aspects.
+I cannot forget the invaluable graces of the professors and I appreciate the openess to interdisciplinary researcher with AI that have empowered the pioneering innovations of the professors's academic fields across AI, Comuter Vision, Medicine, and Natural Language and Speech Processing, who garnting me the lessons to me to be more fearlessly challenge and to be more mature for the breakthough to the limitations of their academic and industrial fields. I appreciate all the pioneering innovation that enbled me to be an aspiring research focusing on AI and it's harmonization as well. In addition, I'm grateful for the lessons that led me to have more warm perspectives about my socially marginalized aspects.
 
 ## Expanded Gratitude for the People I Learned Under
 
