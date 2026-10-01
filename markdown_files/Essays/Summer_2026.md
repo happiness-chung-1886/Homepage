@@ -20,6 +20,8 @@ I cannot forget the invaluable graces of the professors and I appreciate the ope
 
 Thanks to the professors who have supervised and are supervising me, I appreciate that I can expand my gratitude to the people who granted me the invaluable lessons.
 
+I would also like to expand my appreciation to the administrators who help me grow as well across my research journey. I'm grateful for their directions, lessons, generous support, guidance, and kindness.
+
 ## From Research Questions to Broader Questions
 
 I have become more convinced that innovation and humanity do not have to be opposing values. In fact, I think a commitment to humanity can accelerate innovation because it allows more people to participate, contribute, learn, and benefit regardless of nationality, race, gender, sexual orientation, appearance, age, disease, disability, and more. And if there are more contributions, the entire 'pie' can be enlarged, so making our sociery more abundant. In the future, if this contributions become large enough, I agree to the necessity of buying products may significantly decrease.
