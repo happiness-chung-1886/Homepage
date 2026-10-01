@@ -2,6 +2,18 @@
 
 ## Continuing Gratitude to the Professors
 
+I appreciate Professor Hieonn Kim's supervision for the capston design project about the diagnosis support systems that shaped my initial interests in the intersection of AI, Medicine, and the importance of industrial potential of resesarch. I'm grateful for the encouragements, that led me to be more proactive about studying, and self-motivated to research.
+
+I appreciate Professor Jae Sung Lee's supervision for making it possible to learn more about the intersection of Medicine and the importance of ethical and responsible AI based on the emphasis on the novelty and significance on the various aspects such as methodology, tasks, and more. I appreciate the Professor's innovations on Medicine and its life saving harmonization with AI, including the early harmonization of them, led me to think AI as a harmozied field with Medicine. And I appreciate everything I learned under the supervision that changed my life to be a lot more devoted to research and justice, following his visions and values, that I'm grateful for.
+
+I appreciate Professor Bohyung Han and Professor's lessons and visions that led my interests in the intersection of Computer Vision and AI with further considerations of ethics. The lessons have continued to increase my motivation to study more thoughly about the fundamental principles of AI that can improve the general capabilities of it, and their intersections with various modalities and benchmarks as well. 
+
+I appreciate Professor Heng Ji for the opportunity to learn embodied AI and the clearer acedemic communications, and I appreciate Professor Dilek Hakkani-Tür for the supervision and lessons I learned under her calsses/courses as well. Thanks to Professor Dilek's openness to interdisciplinary research, I could think more about Conversational AI, and I realized more about that Conversational AI can strengthens my previous research interesnts exploring research problems within broader contexts. 
+
+I appreciate Professor Hyungjin Chung for the supervision. I'm grateful for that I could learn more about the common principles of AI and how to enhance the ideas more robust. 
+
+I cannot forget the invaluable graces of the professors and I appreciate the openess to interdisciplinary research with AI that have empowered the pioneering innovations of the professors's academic fields across Comuter Vision, Medicine, and Natural Language and Speech Processing, who garnting me the lessons to me to be more fearlessly challenge and to be more mature for the breakthough to the limitations of their academic and industrial fields. I appreciate all the pioneering innovation that enbled me to be an aspiring research focusing on AI and it's harmonization as well. In addition, I'm grateful for the lessons that led me to have more warm perspectives about my socially marginalized aspects.
+
 ## Expanded Gratitude for the People I Learned Under
 
 Thanks to the professors who have supervised and are supervising me, I appreciate that I can expand my gratitude to the people who granted me the invaluable lessons.
@@ -32,17 +44,6 @@ I also appreciate researchers and practitioners who share knowledge in ways that
 
 I am also grateful to organizations and companies that make lectures, research demonstrations, and educational materials publicly accessible. I was happy to learn from NVIDIA GTC online, and I found several research and technology discussions from **NVIDIA, Google, OpenAI**, and other organizations inspiring. What I value most is not the brand itself, but the willingness to share knowledge, support scientific progress, and make advanced technology understandable to a broader public.
 -->
-
-<!-- 
-My gratitude toward the professors who shaped my research continued throughout the summer.
-
-I remain deeply grateful to **Prof. Jae Sung Lee** for making it possible for me to learn Nuclear Medicine and Medical AI in depth. After listening to his lecture at SNMMI 2026, I continued studying the works cited in the lecture because I wanted to better understand not only the results of the research, but also how creative research in Nuclear Medicine is developed. His devotion to innovation in Nuclear Medicine continues to inspire me.
-
-I was especially moved when I carefully read the edited version of one of our drafts and noticed how detailed the revisions were, even down to the placement of citations. I sincerely appreciate that kind of careful supervision and the knowledge I gained from it. I hope I can honor that support by refining the research with the same seriousness.
-
-I also continued to appreciate **Prof. Bohyung Han** and the lessons that shaped my interests in AI and motion editing. I hope I may have another opportunity to conduct and publish research under his direct supervision in the future. His lessons have continued to increase my motivation to study, and I remain grateful that the motion editing research developed as far as it did under his influence.
-
-I also remain grateful for what I learned from **Prof. Dilek Hakkani-Tur**, especially the openness to interdisciplinary questions and the idea that research can be strengthened by seeing problems from more than one disciplinary perspective. -->
 
 <!-- ## Academia, Industry, and Expanding the Pie
 
