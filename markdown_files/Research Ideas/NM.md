@@ -1,5 +1,5 @@
 **Mixture-of-Experts Multi-Ring Detector PET Architecture (September 2026)**<br>
-Inspired under Professor Jae Sung Lee, Minseok Yi<br>
+Inspired under Professor Jae Sung Lee, Minseok Yi <br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
 I propose a PET architecture composed of multiple detector rings that have complementary performance characteristics. Based on the previous findings addressing the inherent trade-offs among different PET detector architectures (Lewellen, 2010; Onishi & Ota, 2025), the different detector rings could prioritize complementary functions, such as ultrafast timing resolution, detection sensitivity, energy resolution, or depth-of-interaction accuracy (Lee et al., 2024). <br>
 
@@ -8,6 +8,8 @@ For example, SiPM- and CMOS-based detector rings could be jointly employed to ex
 If this direction is forwarded, the novel detector specialization and imaging methodologies for the mixture-of-experts PET would be one of the underexplored research directions that may extend foundational research to improve precision of the entire PET imaging (Chu et al., 2023, Lee & Lee, 2023, Shim et al., 2025, Bae & Lee, 2026), multi-tracer PET imaging that also lead to better precision medicine as well. And lowering the relatively expensive cost for this implementation may be one of the promising direction as well. <br>
 
 Reference<br>
+
+Bae, Sangjin, and Jae Sung Lee. "Unsupervised Depth-of-Interaction Estimation in Monolithic Crystal PET Detectors with Wasserstein Distance-Based Embedding." IEEE Transactions on Medical Imaging (2026). <br>
 
 Beheshti, A., Karimian, A., Arabi, H., & Goertzen, A. L. (2025). “A new design to improve time resolution in a time of flight brain PET using dual layer offset scintillator crystals.” Scientific Reports, 15, 15634. <br>
 
@@ -20,8 +22,6 @@ Lee, Seungeun, and Jae Sung Lee. "Experimental evaluation of convolutional neura
 Lewellen, Thomas K. "The challenge of detector designs for PET." American Journal of Roentgenology 195.2 (2010): 301-309. <br>
 
 Onishi, Yuya, and Ryosuke Ota. "Alleviating the trade-off between coincidence time resolution and sensitivity using scalable TOF-DOI detectors." Physics in Medicine & Biology 70.6 (2025): 065003. <br>
-
-Bae, Sangjin, and Jae Sung Lee. "Unsupervised Depth-of-Interaction Estimation in Monolithic Crystal PET Detectors with Wasserstein Distance-Based Embedding." IEEE Transactions on Medical Imaging (2026). <br>
 
 Shim, Hyeong Seok, et al. "Continuous single-ended depth-of-interaction measurement using highly multiplexed signals and artificial neural networks." Physics in Medicine & Biology 70.3 (2025): 035004. <br>
 
