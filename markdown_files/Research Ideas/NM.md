@@ -1,19 +1,29 @@
 **Mixture-of-Experts Multi-Ring Detector PET Architecture (September 2026)**<br>
 Inspired under Professor Jae Sung Lee, Minseok Yi<br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
-I propose a PET architecture composed of multiple detector rings that have complementary performance characteristics. Based on the previous findings addressing the inherent trade-offs among different PET detector architectures (Lewellen, 2010; Onishi & Ota, 2025), the different detector rings could prioritize complementary functions, such as ultrafast timing resolution, detection sensitivity, energy resolution, or depth-of-interaction accuracy. <br>
+I propose a PET architecture composed of multiple detector rings that have complementary performance characteristics. Based on the previous findings addressing the inherent trade-offs among different PET detector architectures (Lewellen, 2010; Onishi & Ota, 2025), the different detector rings could prioritize complementary functions, such as ultrafast timing resolution, detection sensitivity, energy resolution, or depth-of-interaction accuracy (Lee et al., 2024). <br>
 
 For example, SiPM- and CMOS-based detector rings could be jointly employed to exploit complementary strengths in timing performance and fine-grained spatial sensing within the same PET imaging task. In addtion, increasing crystal length improves the interaction probability of an incident 511 keV gamma photon within the crystal and therefore PET sensitivity. However, a longer crystal also increases interaction-depth and scintillation-photon transit-time uncertainty, creating a trade-off between sensitivity and timing/DOI performance (Beheshti et al., 2025). Coincidence events generated from different detector-ring combinations would therefore carry different uncertainty profiles, which could be incorporated into event-specific TOF kernels or reconstruction models. This design aims to investigate whether a mixture-of-experts multi-ring detector PET system may achieve a better interpretations of patient information from the multi-aspect imaging boosting the performance of PET imaging further mitigating the inherent uncertainty of it. <br>
 
-If this direction is forwarded, the novel detector specialization and imaging methodologies for the mixture-of-experts PET would be one of the underexplored research directions that may improve the precision of the entire PET imaging including multi-tracer PET imaging that also lead to better precision medicine as well. And lowering the relatively expensive cost for this implementation may be one of the promising direction as well. <br>
+If this direction is forwarded, the novel detector specialization and imaging methodologies for the mixture-of-experts PET would be one of the underexplored research directions that may extend foundational research to improve precision of the entire PET imaging (Chu et al., 2023, Lee & Lee, 2023, Shim et al., 2025, Bae & Lee, 2026), multi-tracer PET imaging that also lead to better precision medicine as well. And lowering the relatively expensive cost for this implementation may be one of the promising direction as well. <br>
 
 Reference<br>
 
 Beheshti, A., Karimian, A., Arabi, H., & Goertzen, A. L. (2025). “A new design to improve time resolution in a time of flight brain PET using dual layer offset scintillator crystals.” Scientific Reports, 15, 15634. <br>
 
-Onishi, Yuya, and Ryosuke Ota. "Alleviating the trade-off between coincidence time resolution and sensitivity using scalable TOF-DOI detectors." Physics in Medicine & Biology 70.6 (2025): 065003. <br>
+Chu, Hyeyeun, et al. "Single-line multi-voltage threshold method for scintillation detectors." Journal of Instrumentation 18.06 (2023): P06021. <br>
+
+Lee, Min Sun, Hyeong Seok Shim, and Jae Sung Lee. "Strategies for mitigating inter-crystal scattering effects in positron emission tomography: a comprehensive review." Biomedical Engineering Letters 14.6 (2024): 1243-1258. <br>
+
+Lee, Seungeun, and Jae Sung Lee. "Experimental evaluation of convolutional neural network-based inter-crystal scattering recovery for high-resolution PET detectors." Physics in Medicine & Biology 68.9 (2023): 095017. <br>
 
 Lewellen, Thomas K. "The challenge of detector designs for PET." American Journal of Roentgenology 195.2 (2010): 301-309. <br>
+
+Onishi, Yuya, and Ryosuke Ota. "Alleviating the trade-off between coincidence time resolution and sensitivity using scalable TOF-DOI detectors." Physics in Medicine & Biology 70.6 (2025): 065003. <br>
+
+Bae, Sangjin, and Jae Sung Lee. "Unsupervised Depth-of-Interaction Estimation in Monolithic Crystal PET Detectors with Wasserstein Distance-Based Embedding." IEEE Transactions on Medical Imaging (2026). <br>
+
+Shim, Hyeong Seok, et al. "Continuous single-ended depth-of-interaction measurement using highly multiplexed signals and artificial neural networks." Physics in Medicine & Biology 70.3 (2025): 035004. <br>
 
 <br>
 
@@ -44,7 +54,7 @@ We hypothesize that these limitations can be substantially mitigated through lar
 
 Future work can be expanded to uncertainty-aware and quantification-preserving PET resolution recovery beyond precision imaging considering the inherent stochastic nature of PET imaging, and building rigorous validation framework (Liu et al., 2026) with the ground truth images (reference images) that can be generalizable across diverse scanners, institutions, patient demographics, hyper-parameter settings, tracers to ensure clinical reliability efficiency. <br>
 
-The evaluation framework may can be built is as follows: executing AI-based super-resolution in various timing resolutions (Thielemans et al., 2012) (for example: 500ps -> 200ps / 200ps -> 100ps / 100ps ->50ps) on the same TOF-PET image (Hinge et al., 2026) obtained from a single patient at the same status (within several hours or days based on affordability), powered by the initial guidance of robust registration, correction methods (Casamitjana et al., 2025, Cho et al. (2026), Li et al., 2026, You et al., 2026) then compare their consistency and performances. If the enhanced images are well aligned with the ground truth, we may can expect the trained model to be applied to the PET with the best timing resolution (based on the evaluation as an evidence) to obtain inexistent higher-resolution PET images beyond the "precision medicine" that requires existing exact ground truth. <br>
+The evaluation framework may can be built is as follows: executing AI-based super-resolution (Nam et al., 2024) in various timing resolutions (Thielemans et al., 2012) (for example: 500ps -> 200ps / 200ps -> 100ps / 100ps ->50ps) on the same TOF-PET image (Hinge et al., 2026) obtained from a single patient at the same status (within several hours or days based on affordability), powered by the initial guidance of robust registration, correction methods (Casamitjana et al., 2025, Cho et al. (2026), Li et al., 2026, You et al., 2026) then compare their consistency and performances. If the enhanced images are well aligned with the ground truth, we may can expect the trained model to be applied to the PET with the best timing resolution (based on the evaluation as an evidence) to obtain inexistent higher-resolution PET images beyond the "precision medicine" that requires existing exact ground truth. <br>
 
 Reference <br>
 
@@ -61,6 +71,8 @@ Li, Xia, et al. "Continuous sPatial‐temporal deformable image registration and
 Liu, Yan, et al. "NGSE-Corr: A technique for objective clinical evaluation of quantitative-imaging methods without a gold standard." IEEE Transactions on Medical Imaging (2026). <br>
 
 Polson, Luke, Joseph Grudzinski, and Frederick Wilson. "Toward Reduced Patient Scan Times: Full Monte Carlo Torch® Recon for Lu-177 SPECT Enables Improved Precision Through Dual-Energy Window Integration." (2026): 262053-262053. <br>
+
+Nam, Ju Gang, et al. "Sixty-four-fold data reduction of chest radiographs using a super-resolution convolutional neural network." British Journal of Radiology 97.1155 (2024): 632-639. <br>
 
 Thielemans, Kris, et al. "STIR: software for tomographic image reconstruction release 2." Physics in medicine and biology 57.4 (2012): 867-883. <br>
 
