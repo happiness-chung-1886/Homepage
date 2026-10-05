@@ -1,4 +1,4 @@
-**Mixture-of-Experts Multi-Ring Detector PET Architecture (September 2026)**<br>
+**Mixture-of-Experts Multi-Ring Detector PET Architecture (September 2026 - October 2026)**<br>
 Inspired under Professor Jae Sung Lee, Minseok Yi <br>
 AI Disclosure: Feedback recieved from ChatGPT<br>
 I propose a PET architecture composed of multiple detector rings that have complementary performance characteristics, that may increase the available information amount (Yi et al., 2025). Based on the previous findings addressing the inherent trade-offs among different PET detector architectures (Lewellen, 2010; Onishi & Ota, 2025), the different detector rings could prioritize complementary functions, such as ultrafast timing resolution, detection sensitivity, energy resolution, or depth-of-interaction accuracy (Lee et al., 2024). <br>
