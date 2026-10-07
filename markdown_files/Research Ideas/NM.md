@@ -5,7 +5,7 @@ I propose a PET architecture composed of multiple detector rings that have compl
 
 For example, SiPM- and CMOS-based detector rings could be jointly employed to exploit complementary strengths in timing performance and fine-grained spatial sensing within the same PET imaging task. In addtion, increasing crystal length improves the interaction probability of an incident 511 keV gamma photon within the crystal and therefore PET sensitivity. However, a longer crystal also increases interaction-depth and scintillation-photon transit-time uncertainty, creating a trade-off between sensitivity and timing/DOI performance (Beheshti et al., 2025). Coincidence events generated from different detector-ring combinations would therefore carry different uncertainty profiles, which could be incorporated into event-specific TOF kernels or reconstruction models. This design aims to investigate whether a mixture-of-experts multi-ring detector PET system may achieve a better interpretations of patient information from the multi-aspect imaging boosting the performance of PET imaging further mitigating the inherent uncertainty of it. <br>
 
-If this direction is forwarded, the novel detector specialization and imaging methodologies for the mixture-of-experts PET would be one of the underexplored research directions that may extend foundational research to improve precision of the entire PET imaging (Chu et al., 2023, Lee & Lee, 2023, Shim et al., 2025, Bae & Lee, 2026), multi-tracer PET imaging that also lead to better precision medicine as well. And lowering the relatively expensive cost for this implementation may be one of the promising direction as well. <br>
+If this direction is forwarded, the novel detector specialization and imaging methodologies for the mixture-of-experts PET would be one of the underexplored research directions that may extend foundational research to improve precision of the entire PET imaging (Chu et al., 2023, Lee & Lee, 2023, Seo et al., 2023, Shim et al., 2025, Bae & Lee, 2026), multi-tracer PET imaging that also lead to better precision medicine as well. And lowering the relatively expensive cost for this implementation may be one of the promising direction as well. <br>
 
 Reference<br>
 
@@ -74,9 +74,11 @@ Li, Xia, et al. "Continuous sPatial‐temporal deformable image registration and
 
 Liu, Yan, et al. "NGSE-Corr: A technique for objective clinical evaluation of quantitative-imaging methods without a gold standard." IEEE Transactions on Medical Imaging (2026). <br>
 
+Nam, Ju Gang, et al. "Sixty-four-fold data reduction of chest radiographs using a super-resolution convolutional neural network." British Journal of Radiology 97.1155 (2024): 632-639. <br>
+
 Polson, Luke, Joseph Grudzinski, and Frederick Wilson. "Toward Reduced Patient Scan Times: Full Monte Carlo Torch® Recon for Lu-177 SPECT Enables Improved Precision Through Dual-Energy Window Integration." (2026): 262053-262053. <br>
 
-Nam, Ju Gang, et al. "Sixty-four-fold data reduction of chest radiographs using a super-resolution convolutional neural network." British Journal of Radiology 97.1155 (2024): 632-639. <br>
+Seo, Minjee, et al. "Depth‐of‐interaction positron emission tomography detector with 45° tilted silicon photomultipliers using dual‐ended signal readout." Medical Physics 50.7 (2023): 4112-4121. <br>
 
 Thielemans, Kris, et al. "STIR: software for tomographic image reconstruction release 2." Physics in medicine and biology 57.4 (2012): 867-883. <br>
 
@@ -100,13 +102,17 @@ AI Disclosure: image generated from ideogram <br>
 
 I think one future direction of theranostics in nuclear medicine is the invention of a “single-agent theranostic” beyond ligand-matched theranostic pairs that enables simultaneous diagnosis via PET-related imaging and therapy.To achieve this goal, designing, constructing, and building a novel tracer that is effective for both imaging and therapeutic purposes could be a promising starting point. <br>
 
-Such an approach may facilitate real-time treatment monitoring and diagnosis (Cho et al., 2024, Kim et al., 2024, Yoo et al., 2025, Jung et al., 2026, Kim et al., 2026, Seol et al., 2026) thereby reducing the time required for the entire clinical procedure potentially reducing unnecessary radiation exposure to normal organs while maintaining or boosting therapeutic efficacy.<br>
+Such an approach may facilitate real-time treatment monitoring and diagnosis (Cho et al., 2024, Kim et al., 2024, Kim et al., 2024, Yoo et al., 2025, Jung et al., 2026, Kim et al., 2026, Seol et al., 2026) thereby reducing the time required for the entire clinical procedure potentially reducing unnecessary radiation exposure to normal organs while maintaining or boosting therapeutic efficacy.<br>
 
 Reference
 
 Cho, Min Jeong, et al. "Multi-modal co-learning with attention mechanism for head and neck tumor segmentation on 18FDG PET-CT." EJNMMI physics 11.1 (2024): 67. <br>
 
+Hwang, Donghwi, et al. "Generation of PET attenuation map for whole-body time-of-flight 18F-FDG PET/MRI using a deep neural network trained with simultaneously reconstructed activity and attenuation maps." Journal of Nuclear Medicine 60.8 (2019): 1183-1189. <br>
+
 Kim, Daewoon, et al. "Improving 18F-FDG PET quantification through a spatial normalization method." Journal of Nuclear Medicine 65.10 (2024): 1645-1651. <br>
+
+Kim, Keon Min, et al. "Enhancing voxel‐based dosimetry accuracy with an unsupervised deep learning approach for hybrid medical image registration." Medical Physics 51.9 (2024): 6432-6444. <br>
 
 Kim, Sungyu, et al. "Deep learning-based level-specific segmentation of metastatic cervical lymph nodes on 18F-FDG PET/CT in oropharyngeal cancer." (2026): 261598-261598. <br>
 
