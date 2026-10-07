@@ -100,13 +100,19 @@ AI Disclosure: image generated from ideogram <br>
 
 I think one future direction of theranostics in nuclear medicine is the invention of a “single-agent theranostic” beyond ligand-matched theranostic pairs that enables simultaneous diagnosis via PET-related imaging and therapy.To achieve this goal, designing, constructing, and building a novel tracer that is effective for both imaging and therapeutic purposes could be a promising starting point. <br>
 
-Such an approach may facilitate real-time treatment monitoring and diagnosis (Jung et al., 2026, Kim et al., 2026, Seol et al., 2026) thereby reducing the time required for the entire clinical procedure potentially reducing unnecessary radiation exposure to normal organs while maintaining or boosting therapeutic efficacy.<br>
+Such an approach may facilitate real-time treatment monitoring and diagnosis (Cho et al., 2024, Kim et al., 2024, Yoo et al., 2025, Jung et al., 2026, Kim et al., 2026, Seol et al., 2026) thereby reducing the time required for the entire clinical procedure potentially reducing unnecessary radiation exposure to normal organs while maintaining or boosting therapeutic efficacy.<br>
 
 Reference
+
+Cho, Min Jeong, et al. "Multi-modal co-learning with attention mechanism for head and neck tumor segmentation on 18FDG PET-CT." EJNMMI physics 11.1 (2024): 67. <br>
+
+Kim, Daewoon, et al. "Improving 18F-FDG PET quantification through a spatial normalization method." Journal of Nuclear Medicine 65.10 (2024): 1645-1651. <br>
 
 Kim, Sungyu, et al. "Deep learning-based level-specific segmentation of metastatic cervical lymph nodes on 18F-FDG PET/CT in oropharyngeal cancer." (2026): 261598-261598. <br>
 
 Seol, Yu Jin, et al. "Evaluating AI-aided approaches for 18F-FDG PET quantification: Indirect synthetic MR-based versus direct partial volume correction." NeuroImage (2026): 121756. <br>
+
+Yoo, Hye Bin, et al. "Artificial Intelligence–Powered Quantification of Flortaucipir PET for Detecting Tau Pathology." Journal of Nuclear Medicine 66.11 (2025): 1827-1833. <br>
 
 yoon Jung, Jee, et al. "Clinician-Guided Multi-class Segmentation of Primary and Lymph Node Tumor in Head and Neck PET/CT Images." (2026): 261508-261508. <br>
 
