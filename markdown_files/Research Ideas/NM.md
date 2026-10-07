@@ -56,13 +56,15 @@ We hypothesize that these limitations can be substantially mitigated through lar
 
 Future work can be expanded to uncertainty-aware and quantification-preserving PET resolution recovery beyond precision imaging considering the inherent stochastic nature of PET imaging, and building rigorous validation framework (Liu et al., 2026) with the ground truth images (reference images) that can be generalizable across diverse scanners, institutions, patient demographics, hyper-parameter settings, tracers to ensure clinical reliability efficiency. <br>
 
-The evaluation framework may can be built is as follows: executing AI-based super-resolution (Nam et al., 2024) in various timing resolutions (Thielemans et al., 2012) (for example: 500ps -> 200ps / 200ps -> 100ps / 100ps ->50ps) on the same TOF-PET image (Hinge et al., 2026) obtained from a single patient at the same status (within several hours or days based on affordability), powered by the initial guidance of robust registration, correction methods (Casamitjana et al., 2025, Cho et al. (2026), Li et al., 2026, You et al., 2026) then compare their consistency and performances. If the enhanced images are well aligned with the ground truth, we may can expect the trained model to be applied to the PET with the best timing resolution (based on the evaluation as an evidence) to obtain inexistent higher-resolution PET images beyond the "precision medicine" that requires existing exact ground truth. <br>
+The evaluation framework may can be built is as follows: executing AI-based super-resolution (Nam et al., 2024) in various timing resolutions (Thielemans et al., 2012) (for example: 500ps -> 200ps / 200ps -> 100ps / 100ps ->50ps) on the same TOF-PET image (Hinge et al., 2026) obtained from a single patient at the same status (within several hours or days based on affordability), powered by the initial guidance of robust registration, correction methods (Casamitjana et al., 2025, Cho et al. 2026, Lee et al., 2026, Li et al., 2026, You et al., 2026) then compare their consistency and performances. If the enhanced images are well aligned with the ground truth, we may can expect the trained model to be applied to the PET with the best timing resolution (based on the evaluation as an evidence) to obtain inexistent higher-resolution PET images beyond the "precision medicine" that requires existing exact ground truth. <br>
 
 Reference <br>
 
 Casamitjana, Adrià, et al. "USLR: An open-source tool for unbiased and smooth longitudinal registration of brain MRI." Medical image analysis 105 (2025): 103662. <br>
 
 Hinge, Christian, et al. "A multimodal total-body dynamic [18F] FDG PET/CT/MRI dataset of 100 healthy humans." Scientific Data (2026). <br>
+
+hyun Lee, Joo, Sangjin Bae, and Jae sung Lee. "Denoising Ultra-Low-Dose 18F-Florbetaben PET using Consistency Flow Matching." (2026): 262309-262309. <br>
 
 Jeong Cho, Min, et al. "GPDM: generation-prior diffusion model for accelerated direct attenuation and scatter correction of whole-body 18 F-FDG PET." Physics in Medicine & Biology 71.12 (2026): 125011.<br>
 
@@ -98,4 +100,10 @@ AI Disclosure: image generated from ideogram <br>
 
 I think one future direction of theranostics in nuclear medicine is the invention of a “single-agent theranostic” beyond ligand-matched theranostic pairs that enables simultaneous diagnosis via PET-related imaging and therapy.To achieve this goal, designing, constructing, and building a novel tracer that is effective for both imaging and therapeutic purposes could be a promising starting point. <br>
 
-Such an approach may facilitate real-time treatment monitoring thereby reducing the time required for the entire clinical procedure potentially reducing unnecessary radiation exposure to normal organs while maintaining or boosting therapeutic efficacy.<br>
+Such an approach may facilitate real-time treatment monitoring (Jung et al., 2026, Kim et al., 2026) thereby reducing the time required for the entire clinical procedure potentially reducing unnecessary radiation exposure to normal organs while maintaining or boosting therapeutic efficacy.<br>
+
+Reference
+
+yoon Jung, Jee, et al. "Clinician-Guided Multi-class Segmentation of Primary and Lymph Node Tumor in Head and Neck PET/CT Images." (2026): 261508-261508. <br>
+
+Kim, Sungyu, et al. "Deep learning-based level-specific segmentation of metastatic cervical lymph nodes on 18F-FDG PET/CT in oropharyngeal cancer." (2026): 261598-261598. <br>
