@@ -93,7 +93,7 @@ Superesolutions in the natural images and PET images would share the common char
 
 <br>
 
-**One of the Future Directions of Theranostics (May 2026)**<br>
+**One of the Future Directions of Theranostics (May 2026 - October 2026)**<br>
 <img src="images/image68.jpg" height="200"><img src="images/image69.jpg" height="200"><br>
 Inspired under SNMMI Patient Education Day <br>
 AI Disclosure: image generated from ideogram <br>
