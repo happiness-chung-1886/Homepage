@@ -62,11 +62,11 @@ Reference <br>
 
 Casamitjana, Adrià, et al. "USLR: An open-source tool for unbiased and smooth longitudinal registration of brain MRI." Medical image analysis 105 (2025): 103662. <br>
 
+Cho, Min Jeong, et al. “GPDM: generation-prior diffusion model for accelerated direct attenuation and scatter correction of whole-body ¹⁸F-FDG PET.” Physics in Medicine & Biology 71.12 (2026): 125011. <br>
+
 Hinge, Christian, et al. "A multimodal total-body dynamic [18F] FDG PET/CT/MRI dataset of 100 healthy humans." Scientific Data (2026). <br>
 
 hyun Lee, Joo, Sangjin Bae, and Jae sung Lee. "Denoising Ultra-Low-Dose 18F-Florbetaben PET using Consistency Flow Matching." (2026): 262309-262309. <br>
-
-Jeong Cho, Min, et al. "GPDM: generation-prior diffusion model for accelerated direct attenuation and scatter correction of whole-body 18 F-FDG PET." Physics in Medicine & Biology 71.12 (2026): 125011.<br>
 
 Lee, Junsung, et al. "Low-Resolution Editing is All You Need for High-Resolution Editing." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2026. <br>
 
@@ -102,11 +102,15 @@ AI Disclosure: image generated from ideogram <br>
 
 I think one future direction of theranostics in nuclear medicine is the invention of a “single-agent theranostic” beyond ligand-matched theranostic pairs that enables simultaneous diagnosis via PET-related imaging and therapy.To achieve this goal, designing, constructing, and building a novel tracer that is effective for both imaging and therapeutic purposes could be a promising starting point. <br>
 
-Such an approach may facilitate real-time treatment monitoring and diagnosis (Cho et al., 2024, Kim et al., 2024, Kim et al., 2024, Yoo et al., 2025, Jung et al., 2026, Kim et al., 2026, Seol et al., 2026) thereby reducing the time required for the entire clinical procedure potentially reducing unnecessary radiation exposure to normal organs while maintaining or boosting therapeutic efficacy.<br>
+Such an approach may facilitate real-time treatment monitoring and diagnosis (Cho et al., 2021, Cho & Lee, 2024, Cho et al., 2024, Kim et al., 2024, Kim et al., 2024, Yoo et al., 2025, Jung et al., 2026, Kim et al., 2026, Seol et al., 2026), thereby reducing the time required for the entire clinical procedure potentially reducing unnecessary radiation exposure to normal organs while maintaining or boosting therapeutic efficacy.<br>
 
 Reference
 
 Cho, Min Jeong, et al. "Multi-modal co-learning with attention mechanism for head and neck tumor segmentation on 18FDG PET-CT." EJNMMI physics 11.1 (2024): 67. <br>
+
+Cho, Min Jeong, and Jae Sung Lee. “Semi-supervised abdominal multi-organ segmentation by object-redrawing.” Medical Physics 51.11 (2024): 8334–8347. <br>
+
+Cho, Min Jeong, et al. “Multimodal spatial attention network for automatic head and neck tumor segmentation in FDG-PET and CT images.” 3D Head and Neck Tumor Segmentation in PET/CT Challenge. Cham: Springer International Publishing, 2021. 75–82. <br>
 
 Hwang, Donghwi, et al. "Generation of PET attenuation map for whole-body time-of-flight 18F-FDG PET/MRI using a deep neural network trained with simultaneously reconstructed activity and attenuation maps." Journal of Nuclear Medicine 60.8 (2019): 1183-1189. <br>
 

@@ -49,19 +49,17 @@ I also appreciate researchers and practitioners who share knowledge in ways that
 I am also grateful to organizations and companies that make lectures, research demonstrations, and educational materials publicly accessible. I was happy to learn from NVIDIA GTC online, and I found several research and technology discussions from **NVIDIA, Google, OpenAI**, and other organizations inspiring. What I value most is not the brand itself, but the willingness to share knowledge, support scientific progress, and make advanced technology understandable to a broader public.
 -->
 
-<!-- ## Academia, Industry, and Expanding the Pie
+## Academia, Industry, and Expanding the Pie
 
 I also started thinking more seriously about the relationship between research, industry, affordability, and access. I do not think industrial value should automatically be treated as less meaningful than academic value. When companies create useful products or services, lower costs, expand access, or make important resources available to more people, that can also contribute positively to society.
 
 I have been thinking about whether encouraging new market entrants and more affordable alternatives can sometimes improve the overall health of a market, especially in areas related to basic needs such as healthcare, education, housing, and food. Rather than seeing progress only as a zero-sum competition, I am increasingly interested in ways to enlarge the entire space of opportunity.
 
-For similar reasons, I am happy when I see collaborations across academia and industry, across institutions, and across countries. I hope simultaneous affiliations, international collaborations, and interdisciplinary work can become easier when they are transparent and ethically managed. -->
+For similar reasons, I am happy when I see collaborations across academia and industry, across institutions, and across countries. I hope simultaneous affiliations, international collaborations, and interdisciplinary work can become easier when they are transparent and ethically managed.
 
-## My Learning About Clinical AI Systems
+## Lessons About the Potential of Clinical AI Systems
 
-My thoughts about medical AI also became more concrete this summer. I believe AI-based clinical systems have enormous potential, especially in regions where clinicians and medical resources are siverely limited. If such systems eventually become reliable enough to deployed with its regulated autonomy in the regions with severe shortages of medical expertise or medical resouces, clinical AI may contribute to saving more lives. 
-
-The one reason that clinical AI is important is that I learned the diagnosis result should be consistent across different locations, or hospitals, and clinical AI can support this goal of precision medicine assisting the entire clinical process. At the same time, I think these systems should be introduced gradually, with sufficiently long process of adaptation, regorous and constructive verifications, and continual refinement before and after deployment to reduce safety concerns. In the process, the clinicians who participate in train, verification, and supervision of clinical AI, which is the new positions, may contribute to building the initial standards and directing its evolution. 
+I believe AI-based clinical systems has the potential, that can eventually become reliable enough to deployed with its regulated autonomy in the regions with severe shortages of medical expertise or medical resouces, clinical AI may contribute to saving more lives. The aditional reason that clinical AI is important is that I learned the diagnosis result should be the same across different locations or hospitals, if the patient being diagnosed or treated is the same as well, and clinical AI can support this goal of precision medicine thorugh aligning the clinical procedures built for obtaining enough evidence for the precise diagnosis and effective treatment of the same patient status. At the same time, I think these systems should be introduced gradually, with sufficiently long process of adaptation, with the regorous and constructive verifications, and continual refinement before and after deployment to reduce the safety concerns for patients. And if this system becomes reliable enough, although the optimal scenarios is including human experts for the supervision on the system for identifying and evaluating new treatment approaches as well, in the regions that have severely limited resources may consider ristricted autonomous clinical systems as a sub-optimal solution.
 
 ## The Value of the Constructive Critique and the Openness for the Development of Research and Learning
 
