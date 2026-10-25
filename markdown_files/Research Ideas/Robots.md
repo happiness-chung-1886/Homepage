@@ -23,7 +23,11 @@ Inspired under Professor Shenlong Wang, Saurabh Gupta <br>
 
 <br>
 
-**About Vision-Language-Action (VLA) Model (August 2025)** <br>
-For the transparency, mentor: Ansel Blume (BLENDER), Jeonghwan Kim (BLENDER) <br>
-(Not Alphabetical order, which has meaning) <br>
-[https://docs.google.com/presentation/d/1E0wojVTAh6ZhH2TGQyRMWct-olmiZx1Vzc6-IIQWq3Q/edit?usp=sharing](https://docs.google.com/presentation/d/1E0wojVTAh6ZhH2TGQyRMWct-olmiZx1Vzc6-IIQWq3Q/edit?usp=sharing) <br>
+**About Vision-Language-Action (VLA) Model (August 2025 - October 2026)** <br>
+Mentors: Ansel Blume, Jeonghwan Kim <br>
+
+For more accurate dexterous robot manipulation, this proposal tries to suggest severl new methodologies that may boost efficient training of the robots using the video data containing actions (Ali et al., 2025). [https://docs.google.com/presentation/d/1E0wojVTAh6ZhH2TGQyRMWct-olmiZx1Vzc6-IIQWq3Q/edit?usp=sharing](https://docs.google.com/presentation/d/1E0wojVTAh6ZhH2TGQyRMWct-olmiZx1Vzc6-IIQWq3Q/edit?usp=sharing) <br>
+
+Reference <br>
+
+Ali, A. S., Mahmood, S. A., Saeed, M., Konin, A., Zia, M. Z., & Tran, Q.-H. (2025). Joint self-supervised video alignment and action segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 10807–10818. https://doi.org/10.1109/ICCV.2025.01006 <br>
