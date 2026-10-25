@@ -23,7 +23,7 @@ Inspired under Professor Shenlong Wang, Saurabh Gupta <br>
 
 <br>
 
-**About Vision-Language-Action (VLA) Model (August 2025 - October 2026)** <br>
+**Improving Latent Dexterous Action Representation of the Vision-Language-Action Model (August 2025 - October 2026)** <br>
 Mentors: Ansel Blume, Jeonghwan Kim <br>
 
 For more accurate dexterous robot manipulation, this proposal tries to suggest severl new methodologies that may boost efficient training of the robots using the video data containing actions (Ali et al., 2025). [https://docs.google.com/presentation/d/1E0wojVTAh6ZhH2TGQyRMWct-olmiZx1Vzc6-IIQWq3Q/edit?usp=sharing](https://docs.google.com/presentation/d/1E0wojVTAh6ZhH2TGQyRMWct-olmiZx1Vzc6-IIQWq3Q/edit?usp=sharing) <br>
