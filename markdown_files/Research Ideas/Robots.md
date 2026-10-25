@@ -30,4 +30,4 @@ For more accurate dexterous robot manipulation, this proposal tries to suggest s
 
 Reference <br>
 
-Ali, A. S., Mahmood, S. A., Saeed, M., Konin, A., Zia, M. Z., & Tran, Q.-H. (2025). Joint self-supervised video alignment and action segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 10807–10818. https://doi.org/10.1109/ICCV.2025.01006 <br>
+Ali, A. S., Mahmood, S. A., Saeed, M., Konin, A., Zia, M. Z., & Tran, Q.-H. (2025). Joint self-supervised video alignment and action segmentation. Proceedings of the IEEE/CVF International Conference on Computer Vision, 10807–10818. https://doi.org/10.48550/arXiv.2503.16832 <br>
